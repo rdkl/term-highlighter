@@ -19,7 +19,7 @@ if __name__ == "__main__":
         papers.extend(filenames)
         break
     words_in_corpus = {}
-    words_in_papers = {}
+    papers_with_words = {}
     
     for i in xrange(num_papers):
         print "Extract words from file", papers[i]
@@ -35,17 +35,22 @@ if __name__ == "__main__":
                 if w[1] == "NN":
                     if words_in_corpus.get(stem_word) is None:
                         words_in_corpus[stem_word] = 0
-                    if words_in_papers.get(stem_word) is None:
-                        words_in_papers[stem_word] = 0
+                    if papers_with_words.get(stem_word) is None:
+                        papers_with_words[stem_word] = 0
                     words_in_corpus[stem_word] += 1
                     if stem_word not in words_in_current_paper:
-                        words_in_papers[stem_word] += 1
+                        papers_with_words[stem_word] += 1
                         words_in_current_paper.add(stem_word)
                                             
         # write_pure_text(text, papers[i]) 
         f.close()
     print "Save words frequencies in the file..."
     with open("../data/word_frequency", "w") as f:
+        '''
+        First column - stem words
+        Second column - number words in all corpus
+        Third column - number of papers with corresponding word
+        '''
         for key in words_in_corpus:
-            print >>f, key.encode("utf8"), str(words_in_corpus[key]), str(words_in_papers[key])
+            print >>f, key.encode("utf8"), str(words_in_corpus[key]), str(papers_with_words[key])
         print "Save words frequencies in the file... Done"
