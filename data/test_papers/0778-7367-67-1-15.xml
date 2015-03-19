@@ -1,0 +1,2400 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-1-15</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Measurement equivalence of the CES-D 8 in the general population in Belgium: a gender perspective</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Van de Velde</snm>
+               <fnm>S</fnm>
+               <insr iid="I1"/>
+               <email>sarah.vandevelde@ugent.be</email>
+            </au>
+            <au id="A2">
+               <snm>Levecque</snm>
+               <fnm>K</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+            </au>
+            <au id="A3">
+               <snm>Bracke</snm>
+               <fnm>P</fnm>
+               <insr iid="I1"/>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Sociology, Ghent University, Ghent, Belgium</p>
+            </ins>
+            <ins id="I2">
+               <p>Research Fellow FWO Flanders</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>1</issue>
+         <fpage>15</fpage>
+         <lpage>29</lpage>
+         <url>http://www.archpublichealth.com/content/67/1/15</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-1-15</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>4</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Van de Velde et al.</collab>
+      </cpyrt>
+      <kwdg>
+         <kwd>Depression</kwd>
+         <kwd>factor analysis</kwd>
+         <kwd>gender</kwd>
+         <kwd>validation</kwd>
+         <kwd>psychometrics</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <p>International research consistently finds gender differences in depression, but do women genuinely experience more complaints or are the findings contaminated by group-specific elements unrelated to depression but affecting its measurement? The study of gender differences in depression depends on the measurement quality of the instrument used to evaluate depression. In the present study we test the measurement equivalence of a shorter version of a commonly used instrument in mental health research, the Center for Epidemiologic Studies - Depression Scale (CES-D), using data from the Belgian sample of the third round of the European Social Survey (N = 1794). Evidence for measurement invariance can be established within the multigroup confirmatory factor analysis framework. This method allows us to evaluate a nested hierarchy of hypotheses to test different levels of cross-group measurement invariance: configural, metric, scalar and residual invariance, and clarifies under what conditions meaningful comparisons between the male and female respondents can be made. The best fitting factor model is then used to estimate the 'true' prevalence of depressive symptoms for both groups. In our study measurement equivalence is established at all levels, indicating that the current depression scale allows defensible quantitative gender comparisons. Our data also confirm the epidemiological finding that women report more complaints of depression than men.</p>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <sec>
+            <st>
+               <p>Gender differences in depression: a partly artificial fact?</p>
+            </st>
+            <p>According to the World Health Organization, depression is the most common mental health problem in the Western world <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. A recurrent finding in international literature is that there is a 1.5 to 3 times higher prevalence of depression in women compared to men <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. This is true for inpatient and outpatient as well as general population studies. The pattern of a higher prevalence of depression in women compared to men has been consistent across nations, cultures and population groups, in studies using different methods and measurement instruments and for a diversity of incidence and prevalence indicators <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>.</p>
+            <p>In the Belgian context, the existence of gender differences in depression has been confirmed in patient samples <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, and in recent years in the general population. General population research was mostly based on the Mini International Neuropsychiatric Interview in the Belgian sample of the Depression Research in European Society-survey <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>, and on the International Diagnostic Interview on the Belgian data of the European Study of the Epidemiology of Mental Disorders <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. In addition, gender differences were assessed by a depression-subscale of the Health and Daily Living Form in the Panel Study of Belgian Households <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>, and the Symptom Checklist 90-Revised in the Belgian Health Interview Surveys of 2001 and 2004 <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. Although this recurrent epidemiological finding indicates the existence of a true gender difference in the prevalence of depression in Belgium and abroad, the possibility remains that the observed difference between men and women is partly due to possible measurement variance. In the present study, we aim to evaluate the measurement invariance of a depression scale as a tool for making cross-gender comparisons. Our estimates of gender differences in depression in the general Belgian population will therefore reflect true differences between men and women, rather than being contaminated by possible group-specific attributes unrelated to depression.</p>
+            <p>In the present study, we made use of the Belgian sample of the third round of the European Social Survey (ESS 3) <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>, organised in 2006 and 2007. Depression is assessed by the Center for Epidemiologic Studies - Depression Scale or CES-D <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. Previous studies on the measurement equivalence of the 20-item CES-D scale are ambivalent, with several studies pointing towards a gender bias <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp> while other studies suggest measurement equivalence of the scale across gender groups <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>. Several other measurement inventories for depression also pointed towards a gender bias <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B13">13</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. In the ESS 3, depression was not assessed using the CES-D 20, but respondents were administered an 8-item version of the CES-D. While the CES-D 20 is used extensively in international research, the CES-D 8 has seldom been used before.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Measurement equivalence and factorial invariance</p>
+            </st>
+            <p>When depression is measured using a multi-item self-report instrument such as the CES-D, each item is considered an imperfect measure of one of the symptoms of depression, but as a whole, the set of items is hoped to provide a valid indirect assessment of a latent construct called depression. When the items are summed to form a composite measure, it is also assumed that the total measurement score will be more reliable than single item scores <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>.</p>
+            <p>Measurement equivalence or invariance is the condition that is attained when individuals with equivalent true scores on a measurement instrument for a latent construct have the same probability of a particular observed score on an associated test <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Measurement equivalence or invariance is the broader concept that subsumes factorial invariance. The latter is a measurement equivalence approximation that can be tested with confirmatory factor analysis (CFA), a special case of structural equation modelling. CFA is an excellent way of determining whether a hypothesised common factor underlies a scale and is currently the methodology of choice for assessed factorial invariance <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. In the jargon of factor analysis, the common factor (i.e. depression) is an unobserved (latent) variable that is defined based on observed variables (i.e. the items of the CES-D 8 scale). The common factor is presumed to influence responses to the items <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. CFA thus can be used to test whether this set of items construct an indirect measure of our common factor depression.</p>
+            <p>Analysis starts with the determination of the best fitting model form of the CES-D 8 scale. In the CES-D 20 literature, the number of factors identified is usually four, namely depressed affect, positive affect, somatic, and interpersonal problems, together loading on the common factor depression <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr></abbrgrp>. For the CES-D 8, previous research on the structural form of the scale is not available. However, based on the available items in the 8-item version and the identified structure of the full CES-D, three structural forms can be hypothesised. The first is a one-dimensional model, with all items loading on one common factor depression. An alternative form is a two-dimensional second-order factor model, built up by the factors depressed affect and somatic complaints, each loading on the underlying factor depression <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. Several authors additionally construct a distinct factor of the reversed worded items felt happy and enjoyed life, proposing a three- rather than two-dimensional construct <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. However, we believe that the relationship among the reverse worded items is better accounted for by correlated errors than separate factors. The differential covariance among these items is not based on the influence of a distinct substantially important latent dimension, but rather reflects an artefact of response styles associated with the wording of the items <abbrgrp><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>.</p>
+            <p>While CFA allows testing factorial invariance of a construct in a single population group, multigroup CFA (MCFA) measures whether construct validity is invariant across two or more groups. Available tests for multigroup comparison form a nested hierarchy defining several levels of factorial invariance: configural, metric (also called pattern), scalar (also called strong factorial), and residual (also called strict factorial invariance) <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr></abbrgrp>. At each level a more restrictive hypothesis is introduced providing increasing evidence of factorial invariance, and allowing specific group comparisons to be made.</p>
+            <p>Configural invariance - Configural invariance requires that an instrument represents the same number of common factors across groups, and that each common factor is associated with identical item sets across groups. If a specific model form fits well in all groups, then configural invariance is supported. However, configural invariance is not sufficient to defend quantitative group comparisons.</p>
+            <p>Metric invariance - the hypothesis of metric invariance tests whether the common factors have the same meaning across groups, that is whether the factor loadings are equal across groups. Factor loadings represent the strength of the linear relation between each factor and its associated items <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. When the loading of each item on the underlying factor is equal across groups, the unit of measurement of the underlying factor is identical and the (co)variances of the estimated factors can be compared between groups. Group comparisons are defensible because the meanings of corresponding common factors are deemed invariant across groups and because the MCFA model decomposes total item variation into estimated factor components (i.e. true scores) and residual components <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>. Therefore, group differences in common factor variation and covariation are not contaminated by possible group differences in residual variation. If metric invariance is not supported, then two interpretations are possible: On the one hand this might indicate that the meaning of one or more of the common factors, or at least a subset of the items, differs between the groups. On the other hand it might point to an extreme response style by one of the groups.</p>
+            <p>Scalar invariance - Once the hypotheses of configural and metric invariance are supported, a test of scalar invariance is in order. Such a test addresses the question whether there is differential additive response bias <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr></abbrgrp>. Such bias is caused by forces - such as cultural norms - which are unrelated to the common factors, but systematically cause higher- or lower-valued item response in one population group compared to another. Within the MCFA model, systematic additive influences on responses are reflected in the item intercepts. Since this response style is additive, it affects observed means but not response variation. According to Gregorich <abbrgrp><abbr bid="B43">43</abbr></abbrgrp> evidence that corresponding factor loadings and item intercepts are invariant across groups suggests that 1) group differences in estimated factor means will be unbiased and 2) group differences in observed means will be directly related to group differences in factor means and will not be contaminated by differential additive response bias.</p>
+            <p>Residual invariance - For most researchers comparison of group means is of main interest. Therefore the highest level of factorial invariance, namely residual invariance, is of limited practical value. Residual invariance allows comparisons of observed variance or covariance across groups. The comparison is defensible because it entirely reflects common factor variation without being contaminated by differences in residuals. It is tested by constraining the residuals associated with each item to be equal across groups, in addition to the loadings and the intercepts of the model.</p>
+            <p>Measurement invariance of any of the above-mentioned hypotheses is said to be 'full' when all parameters are invariant across groups. However, in practical applications, full measurement invariance frequently does not hold. The researcher should then ascertain whether there is at least partial measurement invariance <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. It assumes that the construct is configurally invariant across groups, and that a substantial number of parameters is also invariant in the additional hypotheses. Finding partial invariance suggests that the substantive group comparisons associated with the corresponding 'full' invariance hypotheses are defensible since only the subset of items meeting the metric or scalar invariance criteria are used to estimate associated group differences <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>.</p>
+            <p>In summary, measurement or factorial variance can be established at different levels, con-taminating estimates of latent constructs in several ways. MCFA allows to compare the means and variance of latent constructs by correcting for possible bias due to variation across groups in the number of common factors and the item/factor clusters (configural invariance), factor loadings (metric invariance), item intercepts (scalar invariance) and residual variances (residual invariance).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Data: The European Social Survey (ESS) 2006/2007</p>
+            </st>
+            <p>The European Social Survey (ESS3) (<url>http://www.europeansocialsurvey.org</url>) <abbrgrp><abbr bid="B16">16</abbr></abbrgrp> is a biennial survey covering more than 25 European countries in 2006 and 2007. The ESS is designed to chart and explain the interaction between Europe's changing institutions and the attitudes, beliefs and behaviour patterns of its diverse populations. In each participating country, the ESS-sample is designed following a strict randomised probability procedure and data are gathered with face-to-face interviews. The use of proxies was not allowed. ESS information is representative for all individuals in the general population aged 15 and older, living in a private household, irrespective of their language, citizenship and nationality. In our analyses, we restrict ourselves to the Belgian sample, consisting of 838 male and 956 female respondents. Response rate for the Belgian sample was 61.01%.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>The CES-D 8</p>
+            </st>
+            <p>The Center of Epidemiological Studies Depression Scale or CES-D <abbrgrp><abbr bid="B17">17</abbr></abbrgrp> is a key instrument in the measurement of depression in American research <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>, but less often implemented within the European context. In Belgium, the CES-D has not yet been used on a large scale, except in the Epidemiology Research on Dementia in Antwerp (ERDA)-survey, restricted to elderly people <abbrgrp><abbr bid="B48">48</abbr></abbrgrp>. Initially, the CES-D was built by 20 self-report items in order to identify populations at risk of developing depressive disorders; in itself however, it should not be used as a clinical diagnostic tool <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. The 20 items primarily measure affective and somatic dimensions of depression, especially reflected in complaints such as depressed mood, feelings of guilt and worthlessness, helplessness and hopelessness, psychomotor retardation, loss of appetite, and sleep disturbance. Respondents are asked to indicate how often in the week previous to the survey they felt or behaved in a certain way ranging from 'none or almost none of the time' to 'all or almost all of the time'. The response values are 4-point Likert scales, with range 0 to 3. Scale scores for the CES-D are assessed using non-weighted summated rating and range from 0 to 60 for the CES-D 20 and from 0 to 24 for the CES-D 8, with higher scores indicating a higher frequency of depressive complaints. International literature shows the CES-D 20 to have good psychometric properties <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B36">36</abbr><abbr bid="B49">49</abbr></abbrgrp>. Shorter versions of the CES-D 20 have been used extensively before, but research based on the 8-item version is rather scarce. Based on our Belgian sample, we can confirm the reliability of the CES-D 8 for measurement of depression within a general population context. Reliability was indicated by a response rate of 99.9% in both men and women, and a Cronbach alpha of 0.82 in men and 0.84 in women. The items building up the CES-D 8 are reported in Table <tblr tid="T1">1</tblr>.</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Items of the 8-item version of the Center of Epidemiological Studies-Depression Scale (51)</p>
+               </caption>
+               <tblbdy cols="1">
+                  <r>
+                     <c ca="left">
+                        <p>How much of the time during the past week...</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Answers range from 0 (none or almost none of the time) to 3 (all or almost all of the time)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... did you feel depressed?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... did you feel everything you did was an effort?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... was your sleep restless?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... were you happy?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... did you feel lonely?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... did you enjoy life?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... did you feel sad?</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>... were you unable to get going?</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical procedure</p>
+            </st>
+            <p>In order to compare depression scores across gender, the CES-D 8 scale requires factorial invariance in both model form and model parameters <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. We estimated the best fitting model using CFA. This model is fitted to male and female data via multigroup analysis using Maximum Likelihood estimations. Analysis is conducted using the AMOS 16.0 programme. The analysis follows two phases: First, measurement invariance is hierarchically tested at each of the levels: dimensional, configural, metric, intercept and residual invariance. Second, we estimate the factor means and variances of the depression construct for both men and women separately. We then compare the estimated mean differences of our factor model with the observed mean differences of men and women.</p>
+            <p>In our invariance tests, four specific model fit indicators are used. Commonly used in multi-group analyses, is the Chi-square test, testing the magnitude of the discrepancy between the sample and fitted covariance matrices <abbrgrp><abbr bid="B50">50</abbr></abbrgrp>. When Chi-square is significant, the model is rejected. However, the Chi-square test may easily lead to a type I error (and thus to an incorrect rejection of the model) in case of non-normality of data, large sample sizes and complex models (see Bollen <abbrgrp><abbr bid="B51">51</abbr></abbrgrp> for a detailed explanation of the influence of sample size on measures of model fit). Since all three conditions are inherent in our study, we report the Chi-square test but add three model fit indices that showed a more robust performance in a simulation study by Hu and Bentler <abbrgrp><abbr bid="B52">52</abbr></abbrgrp>: the Tucker-Lewis index (TLI) <abbrgrp><abbr bid="B53">53</abbr></abbrgrp>, the Comparative Fit Index (CFI) <abbrgrp><abbr bid="B54">54</abbr></abbrgrp> and the Root Mean Squared Error of Approximation (RMSEA) <abbrgrp><abbr bid="B55">55</abbr></abbrgrp>. The first two indices range from 0 (poor fit) to 1 (perfect fit). A value of 0.90 or higher provides evidence for a good fit, a value of 0.95 or above for an excellent fit <abbrgrp><abbr bid="B52">52</abbr></abbrgrp>. The RMSEA indicates a reasonable fit in case its score is 0.08 or less and a good fit in case the score is 0.05 or less <abbrgrp><abbr bid="B56">56</abbr></abbrgrp>. We additionally evaluate the difference in fit between the more restricted model and the less restricted model by examining the changes in the CFI index. Cheung and Rensvold <abbrgrp><abbr bid="B57">57</abbr></abbrgrp> claim that changes in CFI of -0.01 or less indicate that the invariance hypothesis should not be rejected.</p>
+            <p>Goodness of fit is further verified by the absence of large modification indices (MI) and expected parameter changes (EPC), which both indicate specific points of ill fit in the model. The MI of a parameter is a conservative estimate of the decrease in chi-square that would occur if the parameter was relaxed <abbrgrp><abbr bid="B58">58</abbr></abbrgrp>. The EPC values provide an estimate of how much the parameter is expected to change in a positive or negative direction if it were freely estimated <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. A specific parameter is relaxed only if its MI is highly significant both in magnitude and in comparison with the majority of other MIs and if its EPC is substantial.</p>
+            <p>When testing all levels of factorial invariance mentioned above, and assessing depression prevalence in men and women in Belgium in the second phase of our analyses, parameter estimates are weighted using the ESS 3-design weight for Belgium in order to correct for differential selection probability.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Tests of factorial invariance hypotheses</p>
+            </st>
+            <p>The first panel of Table <tblr tid="T2">2</tblr> gives an overview of the goodness-of-fit indices of the proposed factor models. The best fitting model of the CES-D 8 instrument is assessed with the pooled dataset by respectively fitting a one- and a two-dimensional model. The analysis is repeated by additionally controlling for measurement effects of the reversed worded items 'felt happy' and 'enjoyed life'. All models are identified by constraining the factor loading of the item 'felt depressed' to 1 and its intercept to 0. Our results indicate that all models have a significant chi-square, but the three other indices show only a good fit for the models with correlated errors terms: TLI and CFI above 0.90, RMSEA below 0.08. However, looking closer at the estimates of the two-factor model (results not shown here) indicates that this model includes a negative error variance, making its solution unacceptable. Based on these results we use model 1c - with all items loading on one dimension and with correlated errors between the reversed worded items - as our baseline model for the upcoming MCFA.</p>
+            <tbl id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Model fit summary: Chi-square, CFI, TLI and RMSEA.</p>
+               </caption>
+               <tblbdy cols="6">
+                  <r>
+                     <c ca="left">
+                        <p><b>Model</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>&#967;</b><sup><b>2</b></sup></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>df</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>CFI</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>TLI</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>RMSEA</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Best fitting model</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>1a. One-dimensional</p>
+                     </c>
+                     <c ca="center">
+                        <p>480,795</p>
+                     </c>
+                     <c ca="center">
+                        <p>20</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.898</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.857</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.113</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>1b. Two-dimensional</p>
+                     </c>
+                     <c ca="center">
+                        <p>354,978</p>
+                     </c>
+                     <c ca="center">
+                        <p>19</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.925</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.890</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.099</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>1c. One-dimensional - corr. errors</p>
+                     </c>
+                     <c ca="center">
+                        <p>219,309</p>
+                     </c>
+                     <c ca="center">
+                        <p>19</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.955</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.934</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.077</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>1d. Two-dimensional - corr. errors</p>
+                     </c>
+                     <c ca="center">
+                        <p>101,437</p>
+                     </c>
+                     <c ca="center">
+                        <p>18</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.981</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.971</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.051</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MCFA Equivalence tests</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>2. Configural</p>
+                     </c>
+                     <c ca="center">
+                        <p>251,921</p>
+                     </c>
+                     <c ca="center">
+                        <p>38</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.951</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.928</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.056</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>3. Metric</p>
+                     </c>
+                     <c ca="center">
+                        <p>279,331</p>
+                     </c>
+                     <c ca="center">
+                        <p>45</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.946</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.933</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.054</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>4a. Scalar</p>
+                     </c>
+                     <c ca="center">
+                        <p>315,334</p>
+                     </c>
+                     <c ca="center">
+                        <p>52</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.940</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.935</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.053</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>4b. Partial scalar</p>
+                     </c>
+                     <c ca="center">
+                        <p>300,134</p>
+                     </c>
+                     <c ca="center">
+                        <p>51</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.943</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.937</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.052</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>5. Partial residual</p>
+                     </c>
+                     <c ca="center">
+                        <p>331,647</p>
+                     </c>
+                     <c ca="center">
+                        <p>59</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.938</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.941</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.051</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>European Social Survey, Belgian sample 2006-2007 (51)</p>
+               </tblfn>
+            </tbl>
+            <p>The second panel of Table <tblr tid="T2">2</tblr> shows the fit statistics of the MCFA across Belgian men and women simultaneously. The results of model 2 indicate that our baseline model fits well in both the male and female sample, providing evidence for configural invariance. The assumption that factor loadings are identical in both groups is also granted based on the findings in model 3. Although the metric invari-ance test shows a significant chi-square (&#916;&#967;(7) = 27,410, p &lt; 0.001), both the CFI and TLI suggest a good fit as indicated by a score above 0.90, with a decrease of less than 0.01. In addition, the RSMEA is smaller than 0.08, adding evidence for metric invariance of the scale across gender. Absence of specific points of ill fit in the model is provided by low MIs and EPCs. Our results therefore indicate that comparing the latent (co)variances of the CES-D 8 across Belgian men and women is valid.</p>
+            <p>The fourth model in Table <tblr tid="T2">2</tblr> tests scalar invariance by additionally imposing equality constraints on corresponding item intercepts. All model fit indices, except for the significant chi-square (&#916;&#967;(7) = 36,003, p &lt; 0.001), suggest that the model shows scalar invariance across gender in the general population in Belgium. However, examination of the MIs and EPCs reveals that the intercept of the item 'felt sad' is significantly higher in Belgian women compared to men. In order to test partial scalar invariance, we therefore relaxed this intercept. Even though chi-square is still significant (&#916;&#967;(6) = 20,803, p &lt; 0.001), CFI and TLI were above 0.90 and RMSEA below 0.08, supporting the hypothesis of partial scalar invariance. These findings suggest that comparisons across gender of factor and observed means of the CES-D 8 are defensible.</p>
+            <p>In order to legitimately compare the observed (co)variances of depression in Belgian men and women, the highest level of factorial invariance needs to be verified. This is tested by additionally constraining all corresponding item residual variances, except for the scalar invariant item 'felt sad'. Model 5 shows that the hypothesis of partial residual invariance is empirically supported. Chi-square is again significant (&#916;&#967;(8) = 30,387, p &lt; 0.001), but both CFI and TLI are above 0.90 and RMSEA below 0.08. No significant MIs and EPCs could be found, confirming factorial invariance at all levels.</p>
+            <p>In sum, the findings for all models in Table <tblr tid="T2">2</tblr> indicate that the one-dimensional CES-D 8 scale with correlated errors between the positively worded items 'felt happy' and 'enjoyed life' can be used to compare factor means and (co)variances and observed means and (co)variances between men and women in the general population in Belgium. The absence of a decrease in CFI of more than 0.01 with each more restrictive model additionally provides evidence for factorial invariance at all levels. The final model is depicted in Figure <figr fid="F1">1</figr>. The parameter estimate subscripts identify sample membership (i.e. M for male or F for female). Model-identifying constraints are underlined. As the figure shows, all observed items load on the latent construct depression with factor loadings of at least &#955; = 0.67. Intercepts are equal across gender for all items, except for 'felt sad', with women showing a systematically higher-valued item response pattern indicated by a higher unrestricted parameter estimate of &#932;<sub>F </sub>= 0.21 compared to &#932;<sub>M </sub>= 0.12, for men. Corresponding unrestricted residuals were &#952;<sub>M </sub>= 0.21 and &#952;<sub>M </sub>= 0.16 respectively. The correlation between the residuals of the positively worded items is shown to be r = 0.18.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Partial residual invariance model of CES-D 8 model for male and female data European Social Survey, Belgian sample 2006-2007 (51)</p>
+               </caption>
+               <text>
+                  <p><b>Partial residual invariance model of CES-D 8 model for male and female data European Social Survey, Belgian sample 2006-2007 (51)</b>. &#955; = factor loading estimate, &#964; = factor/item intercept estimate, &#952; = residual variance estimate, r = residual covariance estimate. M = male, F = female.</p>
+               </text>
+               <graphic file="0778-7367-67-1-15-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Comparison of observed means and variances</p>
+            </st>
+            <p>The factorial invariance tests reported in Table <tblr tid="T2">2</tblr> showed empirical evidence for the hypotheses of partial residual invariance, indicating that comparisons of observed means and variances of the CES-D 8 in men and women is warranted. In Table <tblr tid="T3">3</tblr> the observed means and variances on all composite items and on the total CES-D 8 scale score are reported. Because the partial residual invariance model holds, we expect that observed group differences in means and variances will be similar to corresponding group differences in factor means and variances.</p>
+            <tbl id="T3">
+               <title>
+                  <p>Table 3</p>
+               </title>
+               <caption>
+                  <p>Comparison of observed means and variances with estimated factor means and variance European Social Survey, Belgian sample 2006-2007 (51)</p>
+               </caption>
+               <tblbdy cols="7">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="3" ca="center">
+                        <p><b>MEANS</b></p>
+                     </c>
+                     <c cspan="3" ca="center">
+                        <p><b>VARIANCES</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p><b>Male</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Female</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>&#916;; p</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Male</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Female</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Ratio; p</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Observed score</b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Depressed</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.36</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.61</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.25; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.38</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.59</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.64; 0.000</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Sad</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.37</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.65</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.28; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.35</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.52</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.67; 0.000</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Lonely</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.32</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.43</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.11; 0.001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.41</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.52</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.79; 0.000</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Happy</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.95</p>
+                     </c>
+                     <c ca="center">
+                        <p>1.06</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.11; 0.004</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.63</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.68</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.93; 0.185</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Enjoyed life</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.95</p>
+                     </c>
+                     <c ca="center">
+                        <p>1.10</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.15; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.63</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.70</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.90; 0.050</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Everything an effort</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.59</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.73</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.16; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.54</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.69</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.78; 0.005</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Restless sleep</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.73</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.93</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.20; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.70</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.87</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.80; 0.132</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Could not get going</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.49</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.56</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.07; 0.032</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.48</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.53</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.91; 0.031</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c indent="1" ca="left">
+                        <p>Mean total score</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.59</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.76</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.17; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.22</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.29</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.76; 0.000</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Estimated score</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>0.39</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.59</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.20; 0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.24</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.37</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.65; 0.000</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+            <p>Female respondents score significantly higher on all observed items of the CES-D 8. The high MI and EPC of the item 'felt sad' predicted a significant difference between men and women. This is confirmed by the observed means with largest gender difference for this item.</p>
+            <p>The gender difference is smallest for the item 'could not get going'. In both groups the posi-tively worded items 'felt happy' and 'enjoyed life' have the highest scores, while 'feeling lonely' occurs least in both men and women. The overall mean of the CES-D 8 also differs significantly in the male and female sample, with a difference of 0.17. Our observed results thus point to a higher prevalence of depressive symptoms in the female sample. Comparisons of the item variances suggest significant group differences for all items except the items 'felt happy', 'enjoyed life' and 'restless sleep' with larger variances of the item scores and overall score for women than men. So even though women on average score higher than men, their scores are more spread out than those of male respondents.</p>
+            <p>Based on the partial residual model shown in Figure <figr fid="F1">1</figr> we estimated a difference in factor means between the two groups of 0.20, which is slightly larger than the 0.17-difference of the observed means (the difference amounts to 11% of the total sample standard deviation of 0.52). Similarly we note a reasonably small difference in the ratio of the estimated versus observed variance (0.76 in observed variance versus 0.65 in estimated variance). As expected our estimated scores correspond closely to our observed scores.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Simultaneous analysis of multiple groups places higher demands on the measurement scale than single-group research. It requires that instruments measure constructs with the same meaning across groups and allow defensible quantitative group comparisons. In this study, we used a scale that measures depression by assessing the frequency and occurrence of certain depressive symptoms. Depression is thus considered to be a latent construct whose properties are inferred from observing the set of variables that serve as manifest indicators. If the mean depression score of men differs from that of women, what can be concluded? It may be the case that these two groups actually differ in their level of depression, it may also be the case that extraneous influences are giving rise to the observed differences <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. Therefore factorial invariance needs to be tested in quantitative comparative research. Unfortunately, factorial invariance has been tested relatively infrequently in past research. When it is tested, researchers predominantly focused on invariance of the factor construct <abbrgrp><abbr bid="B59">59</abbr></abbrgrp>. The number of studies that determine whether comparisons of group means are defensible has increased in recent years, but its application is not yet widely used and scattered across different domains. Lack of requisite technical skills or lack of awareness might explain the scarceness of these types of invariance studies <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>.</p>
+         <p>In the present study we established factorial invariance at all levels: dimensional, configural, metric, scalar and residual invariance. Next we estimated depression mean scores and variances across gender, eliminating a measurement artefact. Our results indicate that the CES-D 8 scale can be used to compare mean differences in depression in men and women, showing good reliability and validity. Our study based on the ESS 3 data of the general population in Belgium confirms the consistent epidemiological finding that women report more complaints of depression than men. Moreover, the analyses show that compared to men, women score higher on all the items of the CES-D 8. Although the difference between the observed and estimated gender difference in depression is small, our results suggest that the true gender difference in depression is somewhat larger than the observed answers of Belgian women and men on the 8-item short version of the CES-D</p>
+         <p>Some limitations of our study are worth noting when interpreting the results. When testing factorial invariance in large community samples such as the ESS 3, the researcher should also bear in mind that the variables of interest are often non-normally distributed, specifically when working with ordinal Likert scales <abbrgrp><abbr bid="B60">60</abbr></abbrgrp>. However, the maximum likelihood estimation method assumes that data have a normal distribution. In our analyses, we tested the robustness of our findings by additionally estimating a Bollen-Stine significance level via bootstrapping, a procedure compensating for the normality assumption <abbrgrp><abbr bid="B61">61</abbr></abbrgrp>. Results (not shown) did not indicate a different significance level than the one reported for the Chi-square tests. An additional robustness test was based on a logarithmic transformation of the CES-D 8 data, decreasing the non-normality of the item and scale score distributions. This procedure results in better fit-indices (not shown), but it simultaneously increases the complexity of a substantive interpretation of the parameter estimates. Important to note is that the hypotheses of factorial invariance were supported by all estimation methods even after controlling for non-normality.</p>
+         <p>Finally, the current findings do not automatically imply psychometric equivalence across gender outside the Belgian context, or across social groups distinguished by other criteria such as language, ethnicity, social class or age. All these social groups may have group-specific attributes that lead to measurement inequivalence of (self-report) scales. We therefore strongly suggest to test factorial invariance before comparing specific group scores. In the Belgian context for example, it might be relevant to examine a possible language bias. In our opinion, the Dutch and French translations are insufficiently equivalent to the original English scale. Especially the translation of the item 'could not get going' deserves specific attention. The actual experience and expression of depression may vary sufficiently according to other demographic and social or cultural factors to effectively undermine attempts to compare rates of depressive symptoms across all groups. Further research is needed to determine the extent to which these factors influence responses to self-report instruments.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>The CES-D 8 can be considered a reliable and valid measurement instrument for depression within the general population context in Belgium. A three-dimensional depression model, built up by the factors 'depressed affect', 'positive affect' and 'somatic' fits the data best. Measurement equivalence tests show that the scale allows defensible cross-gender comparisons leading to prevalence estimates that are not contaminated by group-specific elements unrelated to depression. Consistent with international literature, we found higher levels of depression in women compared to men, but our analyses suggest that the true gender difference in depression is somewhat larger than the one observed in the ESS 3.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>End notes</p>
+         </st>
+         <p><sup>2</sup>Translated in French as: 'd'&#234;tre incapable de rien faire', in Dutch as 'u niet op gang kon komen/niet op gang kon komen in de zin van "u voelde zich (s)loom en niet gemotiveerd"'.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The research reported in this article was supported by a special research grant from Ghent University (Bijzonder Onderzoeksfonds 2007).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Women's Mental Health</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>WHO</cnm>
+               </au>
+            </aug>
+            <pubdate>2000</pubdate>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Sex-Differences and Epidemiology of Depression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Weissman</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Klerman</snm>
+                  <fnm>GL</fnm>
+               </au>
+            </aug>
+            <source>Arch Gen Psychiatry</source>
+            <pubdate>1977</pubdate>
+            <volume>34</volume>
+            <issue>1</issue>
+            <fpage>98</fpage>
+            <lpage>111</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/archpsyc.1977.01770130100011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">319772</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>The Epidemiology of Depression - An Update on Sex-Differences in Rates</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Weissman</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Leaf</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Holzer</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Myers</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Tischler</snm>
+                  <fnm>GL</fnm>
+               </au>
+            </aug>
+            <source>J Affect Disord</source>
+            <pubdate>1984</pubdate>
+            <volume>7</volume>
+            <issue>3-4</issue>
+            <fpage>179</fpage>
+            <lpage>88</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-0327(84)90039-9</pubid>
+                  <pubid idtype="pmpid">6241202</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Sex and Depression in the National Comorbidity Survey. 1. Lifetime Prevalence, Chronicity and Recurrence</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kessler</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Mcgonagle</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Swartz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Blazer</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>CB</fnm>
+               </au>
+            </aug>
+            <source>J Affect Disord</source>
+            <pubdate>1993</pubdate>
+            <volume>29</volume>
+            <issue>2-3</issue>
+            <fpage>85</fpage>
+            <lpage>96</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-0327(93)90026-G</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8300981</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Gender differences in depression - Critical review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Piccinelli</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wilkinson</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Br J Psychiatry</source>
+            <pubdate>2000</pubdate>
+            <volume>177</volume>
+            <fpage>486</fpage>
+            <lpage>92</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1192/bjp.177.6.486</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11102321</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Prevalence and impact of generalized anxiety disorder and major depression in primary care in Belgium and Luxemburg: the GADIS study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ansseau</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fischler</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Dierick</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mignon</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Leyman</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Eur Psychiatry</source>
+            <pubdate>2005</pubdate>
+            <volume>20</volume>
+            <issue>3</issue>
+            <fpage>229</fpage>
+            <lpage>35</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.eurpsy.2004.09.035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15935421</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Depression in the community: The first pan-European study DEPRES (Depression Research in European Society)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lepine</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Gastpar</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mendlewicz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Tylee</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Int Clin Psychopharmacol</source>
+            <pubdate>1997</pubdate>
+            <volume>12</volume>
+            <issue>1</issue>
+            <fpage>19</fpage>
+            <lpage>29</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00004850-199701000-00003</pubid>
+                  <pubid idtype="pmpid">9179630</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Identification of depressed patient types in the community and their treatment needs: findings from the DEPRES II (Depression Research in European Society II) Survey</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tylee</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gastpar</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lepine</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Mendlewicz</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Int Clin Psychopharmacol</source>
+            <pubdate>1999</pubdate>
+            <volume>14</volume>
+            <issue>3</issue>
+            <fpage>153</fpage>
+            <lpage>65</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00004850-199905030-00002</pubid>
+                  <pubid idtype="pmpid">10435768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Prevalence of mental disorders in Europe: results from the European Study of the Epidemiology of Mental Disorders (ESE-MeD) project</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Alonso</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Angermeyer</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Bernert</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bruffaerts</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brugha</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Bryson</snm>
+                  <fnm>H</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Acta Psychiatr Scand</source>
+            <pubdate>2004</pubdate>
+            <volume>109</volume>
+            <fpage>21</fpage>
+            <lpage>7</lpage>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Prevalentie van mentale stoornissen in de Belgische bevolking. Resultaten van de European Study on Epidemiology of Mental Disor-ders (ESEMeD)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bruffaerts</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Bonnewyn</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Demarest</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Demyttenaere</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Tijdschr Geneeskd</source>
+            <pubdate>2004</pubdate>
+            <volume>60</volume>
+            <fpage>75</fpage>
+            <lpage>85</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.2143/TVG.60.2.5001777</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>The three-year persistence of depressive symptoms in men and women</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bracke</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Soc Sci Med</source>
+            <pubdate>2000</pubdate>
+            <volume>51</volume>
+            <issue>1</issue>
+            <fpage>51</fpage>
+            <lpage>64</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0277-9536(99)00432-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10817468</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Sex differences in the course of depression: evidence from a longitudinal study of a representative sample of the Belgian population</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bracke</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Soc Psychiatry Psychiatr Epidemiol</source>
+            <pubdate>1998</pubdate>
+            <volume>33</volume>
+            <issue>9</issue>
+            <fpage>420</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s001270050075</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9766168</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Geslachtsverschillen in depressief gedrag in een representatieve steekproef van de Vlaamse bevolking: de validiteit van een zelfrapportageschaal</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bracke</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Archives of Public Health</source>
+            <pubdate>1996</pubdate>
+            <volume>54</volume>
+            <fpage>275</fpage>
+            <lpage>300</lpage>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Generalized anxiety and depression in the general population: Risk factors according to the Belgian Health Interview Survey 2001</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Levecque</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Depress Anxiety</source>
+            <pubdate>2006</pubdate>
+            <volume>23</volume>
+            <issue>8</issue>
+            <fpage>509</fpage>
+            <lpage>11</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/da.20196</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16845644</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Depression and generalised anxiety in the general population in Belgium: A comparison between native and immigrant groups</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Levecque</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lodewyckx</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vranken</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Affect Disord</source>
+            <pubdate>2007</pubdate>
+            <volume>97</volume>
+            <issue>1-3</issue>
+            <fpage>229</fpage>
+            <lpage>39</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jad.2006.06.022</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16901547</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>European Social Survey 2006/2007. Round 3: Technical Report</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jowell</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <publisher>London: Centre for Comparative Social Surveys, City University</publisher>
+            <pubdate>2007</pubdate>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>The CES-D Scale: A self-report depression scale for research in the general population</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Radloff</snm>
+                  <fnm>LS</fnm>
+               </au>
+            </aug>
+            <source>Applied Psychological Measurement</source>
+            <pubdate>1977</pubdate>
+            <volume>1</volume>
+            <fpage>385</fpage>
+            <lpage>401</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1177/014662167700100306</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>The Effect of Gender and Race on the Measurement Properties of the Ces-D in Older Adults</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Callahan</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Wolinsky</snm>
+                  <fnm>FD</fnm>
+               </au>
+            </aug>
+            <source>Med Care</source>
+            <pubdate>1994</pubdate>
+            <volume>32</volume>
+            <issue>4</issue>
+            <fpage>341</fpage>
+            <lpage>56</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005650-199404000-00003</pubid>
+                  <pubid idtype="pmpid">8139299</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Test of item-response bias in the CES-D scale: Experience from the New Haven EPESE study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cole</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Kawachi</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Maller</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Berkman</snm>
+                  <fnm>LF</fnm>
+               </au>
+            </aug>
+            <source>J Clin Epidemiol</source>
+            <pubdate>2000</pubdate>
+            <volume>53</volume>
+            <fpage>285</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0895-4356(99)00151-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10760639</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Gender Bias in the Measurement Properties of the Center-For-Epidemiologic-Studies-Depression-Scale (Ces-D)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stommel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Given</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Given</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Kalaian</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>Schulz</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mccorkle</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Psychiatry Res</source>
+            <pubdate>1993</pubdate>
+            <volume>49</volume>
+            <issue>3</issue>
+            <fpage>239</fpage>
+            <lpage>50</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-1781(93)90064-N</pubid>
+                  <pubid idtype="pmpid">8177918</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Components of Depressed Mood in Married Men and Women - the Center for Epidemiologic Studies Depression Scale</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Mirowsky</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Am J Epidemiol</source>
+            <pubdate>1984</pubdate>
+            <volume>119</volume>
+            <issue>6</issue>
+            <fpage>997</fpage>
+            <lpage>1004</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">6731436</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Socially-desirable response and acquiescence in a cross-cultural survey of mental health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Mirowsky</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>J Health SocBehav</source>
+            <pubdate>1984</pubdate>
+            <volume>25</volume>
+            <fpage>189</fpage>
+            <lpage>97</lpage>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Depressive symptoms in remation to physical health and functioning in the elderly</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Berkman</snm>
+                  <fnm>LF</fnm>
+               </au>
+               <au>
+                  <snm>Berkman</snm>
+                  <fnm>CS</fnm>
+               </au>
+               <au>
+                  <snm>Kasl</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Freeman</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Leo</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Ortfeld</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Am J Epidemiol</source>
+            <pubdate>1986</pubdate>
+            <volume>124</volume>
+            <fpage>372</fpage>
+            <lpage>88</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">3740038</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Analysis of Effects of Sex and Age in Response to Items on the Ces-D Scale</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>VA</fnm>
+               </au>
+               <au>
+                  <snm>Aneshensel</snm>
+                  <fnm>CS</fnm>
+               </au>
+               <au>
+                  <snm>Frerichs</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Morgan</snm>
+                  <fnm>TM</fnm>
+               </au>
+            </aug>
+            <source>Psychiatry Res</source>
+            <pubdate>1981</pubdate>
+            <volume>5</volume>
+            <issue>2</issue>
+            <fpage>171</fpage>
+            <lpage>81</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-1781(81)90047-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">6945612</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Measuring Adolescent Depression: Factorial Validity and Invariance of the Beck Depression Inventory Across Gender</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Baron</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Campbell</snm>
+                  <fnm>TL</fnm>
+               </au>
+            </aug>
+            <source>J Res Adolesc</source>
+            <pubdate>1993</pubdate>
+            <volume>3</volume>
+            <fpage>127</fpage>
+            <lpage>43</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1207/s15327795jra0302_2</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Sex differences in distress - Real or artifact</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mirowsky</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>CE</fnm>
+               </au>
+            </aug>
+            <source>Am Sociol Rev</source>
+            <pubdate>1995</pubdate>
+            <volume>60</volume>
+            <issue>449</issue>
+            <fpage>468</fpage>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Psychometric theory</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nunally</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <publisher>New York: McGraw-Hill</publisher>
+            <pubdate>1978</pubdate>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Measurement invariance, factor-analysis and factorial invariance</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meredith</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Psychometrika</source>
+            <pubdate>1993</pubdate>
+            <volume>58</volume>
+            <fpage>525</fpage>
+            <lpage>43</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1007/BF02294825</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Assessing measurement invariance in cross-national consumer research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Steenkamp</snm>
+                  <fnm>JBEM</fnm>
+               </au>
+               <au>
+                  <snm>Baumgartner</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Consum Res</source>
+            <pubdate>1998</pubdate>
+            <volume>25</volume>
+            <fpage>78</fpage>
+            <lpage>90</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1086/209528</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>An essay on measurement and factorial invariance</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meredith</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Med Care</source>
+            <pubdate>2006</pubdate>
+            <volume>44</volume>
+            <fpage>S69</fpage>
+            <lpage>77</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.mlr.0000245438.73837.89</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17060838</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Factor structure of the Center of Epidemiologic Studies Depression Scale among Mexican Americans and Non-Hispanic Whites</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Golding</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Aneshensel</snm>
+                  <fnm>CS</fnm>
+               </au>
+            </aug>
+            <source>J Consult Clin Psychol</source>
+            <pubdate>1989</pubdate>
+            <volume>1</volume>
+            <fpage>163</fpage>
+            <lpage>8</lpage>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Measurement properties of the Center for Epidemiological Studies Depression Scale (CES-D) in older populations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hertzog</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Van Alstine</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Usala</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Hultsch</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Dixon</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Psychol Assess</source>
+            <pubdate>1990</pubdate>
+            <volume>2</volume>
+            <issue>1</issue>
+            <fpage>64</fpage>
+            <lpage>72</lpage>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Factor-Analysis of the Center for Epidemiologic Studies-Depression Scale</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Joseph</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>CA</fnm>
+               </au>
+            </aug>
+            <source>Psychol Rep</source>
+            <pubdate>1995</pubdate>
+            <volume>76</volume>
+            <issue>1</issue>
+            <fpage>40</fpage>
+            <lpage>2</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2466/pr0.1995.76.1.40</pubid>
+                  <pubid idtype="pmpid">7770591</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Effects of language and ethnic status on reliability and validity of the Center for Epidemiologic Studies-Depression Scale with psychiatric pa-tients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Vernon</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Rhodes</snm>
+                  <fnm>HM</fnm>
+               </au>
+            </aug>
+            <source>J Nerv Ment Dis</source>
+            <pubdate>1989</pubdate>
+            <volume>177</volume>
+            <fpage>581</fpage>
+            <lpage>92</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005053-198910000-00001</pubid>
+                  <pubid idtype="pmpid">2677237</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Using the Ces-D Scale to Screen for Depression and Anxiety - Effects of Language and Ethnic Status</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Rhoades</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Vernon</snm>
+                  <fnm>SW</fnm>
+               </au>
+            </aug>
+            <source>Psychiatry Res</source>
+            <pubdate>1990</pubdate>
+            <volume>31</volume>
+            <issue>1</issue>
+            <fpage>69</fpage>
+            <lpage>83</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-1781(90)90110-Q</pubid>
+                  <pubid idtype="pmpid">2315423</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Meta-analysis of the factor structures of four depression questionnaires: Beck, CES-D, Hamilton, and Zung</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shafer</snm>
+                  <fnm>AB</fnm>
+               </au>
+            </aug>
+            <source>J Clin Psychol</source>
+            <pubdate>2006</pubdate>
+            <volume>62</volume>
+            <issue>1</issue>
+            <fpage>123</fpage>
+            <lpage>46</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jclp.20213</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16287149</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Static versus dynamic structural models of depression: The case of the CES-D</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Riddle</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Hess</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <pubdate>2008</pubdate>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Documentations of affective functioning measures in the Health and Retirement Study. HRS/AHEAD Documentation Report DR-005</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Steffick</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <publisher>Ann Arbor, MI: Survey Research Center, University of Michigan</publisher>
+            <pubdate>2000</pubdate>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>What are we measuring? An evalua-tion of the CES-D across race/ethnicity and immigrant generation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Perreira</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Deeb-Sossa</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Harris</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Bollen</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Soc Forces</source>
+            <pubdate>2005</pubdate>
+            <volume>83</volume>
+            <issue>1567</issue>
+            <fpage>1601</fpage>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Positive and negative global self-esteem: A substantively meaningful distinction or artifactors?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Marsch</snm>
+                  <fnm>HW</fnm>
+               </au>
+            </aug>
+            <source>J Pers Soc Psychol</source>
+            <pubdate>1996</pubdate>
+            <volume>70</volume>
+            <fpage>810</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8636900</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Confirmatory factor analysis in applied research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>TA</fnm>
+               </au>
+            </aug>
+            <publisher>New York: The Guildford Press</publisher>
+            <pubdate>2006</pubdate>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Multigroup Comparisons and the Assumption of Equivalent Construct Validity Across Groups: Methodological and Substantive Issues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>BM</fnm>
+               </au>
+            </aug>
+            <source>Multivariate Behav Res</source>
+            <pubdate>1989</pubdate>
+            <volume>24</volume>
+            <fpage>503</fpage>
+            <lpage>23</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1207/s15327906mbr2404_7</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Do self-report instruments allow meaningful comparisons across diverse population groups? Testing measurement invariance using the confirmatory factor analysis framework</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gregorich</snm>
+                  <fnm>SE</fnm>
+               </au>
+            </aug>
+            <source>Med Care</source>
+            <pubdate>2006</pubdate>
+            <volume>44</volume>
+            <fpage>S78</fpage>
+            <lpage>94</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.mlr.0000245454.12228.8f</pubid>
+                  <pubid idtype="pmcid">1808350</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17060839</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Structural equations with latent variables</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bollen</snm>
+                  <fnm>KA</fnm>
+               </au>
+            </aug>
+            <publisher>New York: Wiley</publisher>
+            <pubdate>1989</pubdate>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>The great response-style myth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rorer</snm>
+                  <fnm>LG</fnm>
+               </au>
+            </aug>
+            <source>Psychol Bull</source>
+            <pubdate>1965</pubdate>
+            <volume>63</volume>
+            <fpage>123</fpage>
+            <lpage>56</lpage>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Assessing extreme and acquiescence response sets in cross-cultural research using structural equations modeling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cheung</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Rensvold</snm>
+                  <fnm>RB</fnm>
+               </au>
+            </aug>
+            <source>J Cross Cult Psychol</source>
+            <pubdate>2000</pubdate>
+            <volume>31</volume>
+            <fpage>187</fpage>
+            <lpage>212</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1177/0022022100031002003</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Testing for the equivalence of factor covariance and mean structures: The issue of partial measurement invariance</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Shavelson</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Muth&#233;n</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Psychol Bull</source>
+            <pubdate>1989</pubdate>
+            <volume>105</volume>
+            <fpage>456</fpage>
+            <lpage>66</lpage>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Epidemiology research on dementia in Antwerp (ERDA)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <pubdate>1990</pubdate>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>The Measurement Structure of the Center for Epi-demiologic Studies Depression Scale</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sheehan</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Fifield</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reisine</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tennen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Pers Assess</source>
+            <pubdate>1995</pubdate>
+            <volume>64</volume>
+            <issue>3</issue>
+            <fpage>507</fpage>
+            <lpage>21</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1207/s15327752jpa6403_9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7760258</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Testing measurement invariance of second-order factor models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>FF</fnm>
+               </au>
+               <au>
+                  <snm>Sousa</snm>
+                  <fnm>KH</fnm>
+               </au>
+               <au>
+                  <snm>West</snm>
+                  <fnm>SG</fnm>
+               </au>
+            </aug>
+            <source>Structural Equation Modeling-A Multidisciplinary Journal</source>
+            <pubdate>2000</pubdate>
+            <volume>12</volume>
+            <fpage>471</fpage>
+            <lpage>92</lpage>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>A new incremental fit index for general structural equation models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bollen</snm>
+                  <fnm>KA</fnm>
+               </au>
+            </aug>
+            <source>Sociol Methods Res</source>
+            <pubdate>1989</pubdate>
+            <volume>17</volume>
+            <issue>303</issue>
+            <fpage>316</fpage>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>LT</fnm>
+               </au>
+               <au>
+                  <snm>Bentler</snm>
+                  <fnm>PM</fnm>
+               </au>
+            </aug>
+            <source>Psychol Methods</source>
+            <pubdate>1998</pubdate>
+            <volume>3</volume>
+            <issue>4</issue>
+            <fpage>424</fpage>
+            <lpage>53</lpage>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Reliability coefficients for maximum likelihood factor-analysis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tucker</snm>
+                  <fnm>LR</fnm>
+               </au>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Psychometrika</source>
+            <pubdate>1973</pubdate>
+            <volume>38</volume>
+            <fpage>1</fpage>
+            <lpage>10</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1007/BF02291170</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Comparaitive fit indexes in structural models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bentler</snm>
+                  <fnm>PM</fnm>
+               </au>
+            </aug>
+            <source>Psychol Bull</source>
+            <pubdate>1990</pubdate>
+            <volume>107</volume>
+            <fpage>238</fpage>
+            <lpage>46</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">2320703</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Structural model evaluation and modification - an interval estimation approach</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Steiger</snm>
+                  <fnm>JH</fnm>
+               </au>
+            </aug>
+            <source>Multivariate Behav Res</source>
+            <pubdate>1990</pubdate>
+            <volume>25</volume>
+            <fpage>173</fpage>
+            <lpage>80</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1207/s15327906mbr2502_4</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Alternative ways of assessing model fit</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Browne</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Cudeck</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Sociol Methods Res</source>
+            <pubdate>1992</pubdate>
+            <volume>21</volume>
+            <fpage>230</fpage>
+            <lpage>58</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1177/0049124192021002005</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>What constitutes significant differences in evaluating measurement invariance?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cheung</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Rensvold</snm>
+                  <fnm>RB</fnm>
+               </au>
+            </aug>
+            <pubdate>1999</pubdate>
+            <note>[Paper presented at the 1999 conference of the Academy of Management, Chicago]</note>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>AMOS 16.0 User's Guide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arbuckle</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <publisher>SPSS inc.</publisher>
+            <pubdate>2007</pubdate>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>A review and synthesis of the measurement invariance literature: suggestions, practices, and recommendations for organizational research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vandenberg</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Lance</snm>
+                  <fnm>CE</fnm>
+               </au>
+            </aug>
+            <source>Organisation Research Methods</source>
+            <pubdate>2000</pubdate>
+            <volume>2</volume>
+            <fpage>4</fpage>
+            <lpage>69</lpage>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Applying multigroup confirmatory factor models for continuous out-comes to Likert scale data complicates meaningful group comparisons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lubke</snm>
+                  <fnm>GH</fnm>
+               </au>
+               <au>
+                  <snm>Muthen</snm>
+                  <fnm>BO</fnm>
+               </au>
+            </aug>
+            <source>Structural Equation Modeling</source>
+            <pubdate>2004</pubdate>
+            <volume>11</volume>
+            <fpage>514</fpage>
+            <lpage>34</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1207/s15328007sem1104_2</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>Relative performance of rescaling and resampling approaches to model Chi-square and parameter standard error estimation in structural equation modeling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nevitt</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hancock</snm>
+                  <fnm>GR</fnm>
+               </au>
+            </aug>
+            <source>San Diego</source>
+            <pubdate>1997</pubdate>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

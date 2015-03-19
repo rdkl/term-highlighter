@@ -1,0 +1,186 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-2-49</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Editorial</dochead>
+      <bibl>
+         <title>
+            <p>The Belgian Association of Public Health (BAPH) A closer acquaintance</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Van Hal</snm>
+               <fnm>G</fnm>
+               <insr iid="I1"/>
+               <email>guido.vanhal@ua.ac.be</email>
+            </au>
+            <au id="A2">
+               <snm>Tellier</snm>
+               <fnm>V</fnm>
+               <insr iid="I2"/>
+            </au>
+            <au id="A3">
+               <snm>Aelvoet</snm>
+               <fnm>W</fnm>
+               <insr iid="I3"/>
+            </au>
+            <au id="A4">
+               <snm>Buziarsist</snm>
+               <fnm>J</fnm>
+               <insr iid="I4"/>
+            </au>
+            <au id="A5">
+               <snm>Macq</snm>
+               <fnm>J</fnm>
+               <insr iid="I5"/>
+            </au>
+            <au id="A6">
+               <snm>Van der Heyden</snm>
+               <fnm>J</fnm>
+               <insr iid="I6"/>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>University of Antwerp, Belgium, Epidemiology and Social Medicine</p>
+            </ins>
+            <ins id="I2">
+               <p>Service public de Wallonie</p>
+            </ins>
+            <ins id="I3">
+               <p>Federal Service of Health, Food Chain Safety and Environment, Brussels - Faculty of Medicine and Pharmacy, VUB, Brussels - Epidemiology and Social Medicine, UA, Antwerp</p>
+            </ins>
+            <ins id="I4">
+               <p>Scientific Institute of Public Health, Brussels, Belgium</p>
+            </ins>
+            <ins id="I5">
+               <p>IRSS-ESP, Universit&#233; Catholique de Louvain</p>
+            </ins>
+            <ins id="I6">
+               <p>Scientific Institute of Public Health, Brussels, Belgium</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>2</issue>
+         <fpage>49</fpage>
+         <lpage>51</lpage>
+         <url>http://www.archpublichealth.com/content/67/2/49</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-2-49</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>18</day>
+               <month>11</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Van Hal et al.</collab>
+      </cpyrt>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Public health is a very broad domain. Yet, it can encroach deeply in individual lives. The recent and more chronic examples are manifold: swine flu outbreak, obesity, illicit drug use, BSE, dioxin crisis, and so on. However, Belgian scientific research on public health does not seem to be in the right proportion to the importance of the subject. Since many years, the Belgian Association of Public Health (BAPH) tries to bring together Belgian public health research and researchers. The BAPH is a scientific organisation of research groups and institutions, health workers and policy makers who are active in the field of public health. The aims of the association are to increase the knowledge in different domains of public health, to stimulate public health research and to improve public health practices by bringing together researchers and field workers. To achieve these aims, the association organises thematic scientific meetings, often in collaboration with a university. Every two years the association organises a national symposium. For spreading research results and information, the BAPH can count on the Archives of Public Health, which is the official Journal of the BAPH.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>About us</p>
+         </st>
+         <p>The BAPH is a non-profit making association.</p>
+         <p>The Governing Board of the BAPH is elected for a period of 3 years.</p>
+         <tbl id="T1">
+            <title>
+               <p>Table 1</p>
+            </title>
+            <caption>
+               <p>Currently, the members of the Board are:</p>
+            </caption>
+            <tblbdy cols="2">
+               <r>
+                  <c ca="left">
+                     <p>Guido Van Hal (Universiteit Antwerpen)</p>
+                  </c>
+                  <c ca="left">
+                     <p>President</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>V&#233;ronique Tellier (Service public de Wallonie)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Vice-President</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Willem Aelvoet (Federal Service of Health, Food Chain Safety and Environment)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Vice-President</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Jamila Buziarsist (Scientific Institute of Public Health)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Secretariat</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Johan Van der Heyden (Scientific Institute of Public Health)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Treasurer</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Jean Macq (Universit&#233; Catholique de Louvain)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Member</p>
+                  </c>
+               </r>
+            </tblbdy>
+         </tbl>
+         <p>Board meetings are held on a regular basis. The topics tackled are the organisation of the biennial national symposia on public health and the biennial workshops; new initiatives to be taken (for instance a newsletter for the members); the website of the BAPH (<url>http://www.baph.be</url>); the strategy to attract new members; the relationship with the Archives of Public Health; the relationship with the European Public Health Association (EUPHA), among others.</p>
+         <p>On December 11, 2009, the 10<sup>th </sup>biennial national symposium will take place in Mons. The topic is: 'Networks at the crossing of public health practice and research'. People who are interested can find on our website how to participate or submit an abstract.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Membership</p>
+         </st>
+         <p>The General Assembly to which all members are invited is organised yearly. In 2008, there were 114 members, of whom 79 were already member in 2007. This means that there were 35 new members in 2008. Most members are recruited within the Scientific Institute of Public Health (n = 56) and academic institutions (n = 34). The other members come from administrations, are member as a private person or are from abroad. It is our hope that many more people working as a researcher, health worker or policy maker in the Belgian field of public health, become member of the BAPH.</p>
+         <p>The BAPH is a financially healthy organisation. Most of the income is generated by membership fees, even if a BAPH membership only costs 50 EUR per year and entitles members to a membership of the European Public Health Association (EUPHA) that groups all national public health associations in Europe; participation in all activities that are organized by EUPHA (<url>http://www.eupha.org</url>); an electronic subscription to the European Journal of Public Health; important reductions to all activities that are organised by the BAPH and EUPHA, such as the biennial National Symposium, and the yearly EUPHA conference. Finally, members of the BAPH are informed when a new issue of the Archives of Public Health is available. This journal is available through the website <url>http://www.iph.fgov.be/aph/</url>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>How to become a member of the BAPH?</p>
+         </st>
+         <p>For any information or for becoming a member please contact the secretariat of the BAPH</p>
+         <p>Jamila Buziarsist</p>
+         <p>Rue Juliette Wytsman, 14</p>
+         <p>1050 Brussels</p>
+         <p>Belgium</p>
+         <p>Phone: +32 2 642 57 09</p>
+         <p>Fax: + 32 2 642 54 10</p>
+         <p>E-mail: <email>jamila.buziarsist@iph.fgov.be</email></p>
+      </sec>
+   </bdy>
+   <bm/>
+</art>

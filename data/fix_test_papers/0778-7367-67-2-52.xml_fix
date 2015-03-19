@@ -1,0 +1,429 @@
+Noise nuisance and health inequalities in Belgium: a population study
+Ecole de Santé Publique, Université Catholique de Louvain, Bruxelles
+Abstract
+Context
+Lower socioeconomic groups are more likely to live in contaminated environments. This may partly explain socioeconomic health inequalities.
+Aims
+Does noise nuisance contribute to socio-economic inequalities in subjective health?
+Method
+This research is based on the last Belgian census data carried out in 2001. We work on a 10% sample of the Belgian population. The data are processed through bivariate and multivariate analyses. We model poor subjective health in relation to exposure to noise nuisance and several socio-economic variables.
+Results
+The risk of poor subjective health increases with noise nuisance and is higher in lower socio-economic groups. Noise nuisance does contribute to health inequalities, particularly regarding type of housing and activity. These relations are stronger in urban areas.
+Conclusions
+Noise nuisance affects the subjective health status and contributes to health inequalities, particularly in urban areas. This suggests that public policies, particularly those related to environmental planning, should be driven also by environmental equity considerations.
+Introduction
+According to the World Health Organization 1, health risks are unfairly distributed in our so-ciety. The most disadvantaged social groups (in terms of income, schooling or socio-economic group) are more exposed to health risks. An international comparison of 11 European countries revealed major social inequalities in subjective health. These inequalities are also observed in mortality and morbidity rates 2.
+Several lines of explanation have been explored: initially, these inequalities were put down to individual differences in harmful habits (smoking, alcohol consumption and poor diet), stress factors and psychosocial resources. However, research indicated that the impact of harmful habits was relatively low 34. A second line of explanation took interest in contextual health factors, that is to say lifestyle characteristics, for individuals are not in fact randomly distributed in space, and habitable space tends to be subject to socio-economic stratification. This second, lifestyle approach considers several aspects such as social capital, accessibility of public services and exposure to environmental risks 5. In this study, we will be considering an environmental factor that is rarely featured in studies of health inequalities, that is to say exposure to noise pollution 6.
+Vulnerable social groups are more likely to live in less favourable environments. The literature in this area has been mainly concerned with the role of air pollution, particularly because this may aggravate morbidity following allergies 789. Up until now, very few researchers have examined the impact of noise pollution on these same inequalities. According to Job (1996) there might be a causal link between exposure to noise pollution and bad health, although this link has not yet been definitively established. The effects of noise pollution on health may be the direct consequence of exposure to noise or may be attenuated by reactions to noise, such as annoyance or unhappiness 10.
+One of the main difficulties in functioning engendered by noise pollution is the social handicap that comes from the disturbance of oral language, the learning and/or understanding thereof. This may result in changes in behaviour (aggression, hostility, selfishness) and/or life habits (increased consumption of drugs, medicines or the number of medical consultations) 10. General fatigue may also be a source of difficulties in functioning. Noise pollution actually reduces sleep quality. This may have physiological, mental and social effects 11. Lack of sleep is a source of annoyance, stress and dissatisfaction 10, influencing performance and mood 12.
+Also, noise pollution can have a direct impact on morbidity of individuals by increasing the risks of hypertension 13 and ischemic cardiac conditions 14, and by changing the regulation of stress hormones 1516.
+Most research undertaken to date has looked at the effects of noise in very specific contexts, such as exposure to noise pollution in the workplace 17, alongside main roads 16 and in a school located close to an airport 18. There have been very few studies involving wider populations. Few studies consider the effects of noise on subjective health. Most research deals with objective health, difficulties in functioning or morbidity of individuals. Yet it has been established that the objective impact of noise pollution is only observable in the very long term. Several studies suggest that physiological effects and health complaints are closely associated with subjective reactions to noise 19. If one takes into account the nuisance felt by individuals and their subjective health, one can then take an earlier and more global approach to the problem. Also, subjective health is a major indicator of well-being and perceived quality of life 20. Finally, despite numerous studies into health inequalities, very few of these have been able to evaluate the extent to which noise pollution is a risk factor in health-related social inequalities.
+Our aim is to study the contribution of noise pollution to health inequalities amongst the Bel-gian population. We will be investigating the contribution made by exposure to noise pollution in creating socio-economic inequalities in subjective health.
+Methods
+Our study is based upon an analysis of data from the most recent 'general socio-economic study of population and housing' undertaken in Belgium in 2001 by the then National Institute of Statistics (now DG Statistics). The novelty in this questionnaire, compared to previous ones, was the addition of several questions concerning the subjective health of individuals and the quality of the environment. Belgium has followed the model in use in Britain since 1991, where it has been possible to link contextual data to data regarding the subjective health of individuals.
+This questionnaire was sent to all residents aged six and over. Individuals who did not reply were sent a reminder. DG Statistics contacted 9,631,313 individuals aged over six, 9,333,428 (or 97%) of whom returned their questionnaire. The participation rate was very high, no doubt because this survey was instructed by the Belgian legal system. We also noted that subjective questions received a high level of completion. Questions on subjective health 21 had a missing data rate of only 2.6%, which is relatively low. In addition, there was no indication that this bias was greater when the respondents were elderly people. The data are therefore valid. In this case, we will work on a sample of a little more than ten percent of the Belgian population (N = 1,002,343). The questionnaires and data from this Belgian survey of 2001 are described in detail in a monograph of the socio-economic survey on health 22 and commented by Lorant et al. (2002) 23. It is also available on the DG Statistics website: http://www.statbel.fgov.be/census/form_fr.pdf.
+Our dependent variable is subjective health. 'What is your general state of health? Very good, good, average, bad or very bad?' In our analysis we modelled the probability of having bad subjective health (28% of the population). According to the literature, subjective health 24 is a global measure of health, in the sense of quality of life, integrating both individuals' past trajectories and their future expectations.
+Socio-economic status is measured using four variables: level of education (high/medium/low), activity (employed/unemployed/inactive), property status (owner/tenant) and type of housing (detached house/semi-detached or terraced house/apartment/other).
+The socio-economic survey has one question regarding noise pollution: 'How do you judge the immediate environment of where you live: the tranquillity (noise pollution)? Very pleasant, satisfactory, unpleasant'. However, this exposure variable may be affected by character traits: research shows that individuals with low self-esteem tend to negatively evaluate their environment 25. Doubtless they evaluate their state of health just as badly. In our analyses, we used a dissatisfaction average per neighbourhood (calculated using the entirety of the socio-economic survey). This strategy avoids the link between perception of noise pollution and subjective health being too affected by non-observed individual aspects (such as character traits). This noise pollution variable is categorised as quintiles.
+The link between subjective health and noise pollution may also be affected by other selection biases. For example, more often than not, the youngest populations, who are in better health, live in urban areas and are therefore the most exposed to pollution. Failure to check age means possibly underestimating the effects of noise pollution. To measure the effect of environmental pollution on subjective health, by checking other confusing factors, we used multiple logistical regressions: Model 1 studies the link between socio-economic variables and bad subjective health by checking age and gender, while Model 2 adds perceived noise pollution. Data were processed through bivariate and multivariate analyses.
+Our transversal study analysed the effect of noise pollution in the neighbourhood. The ad-ministrative definition of neighbourhood is 'statistical sector'; this is therefore a quite specific entity in the Belgian classification. A neighbourhood corresponds to 640 individuals, with a standard-deviation of 692. Belgium has 13,431 non-empty neighbourhoods. One has to add 255 rural districts to this number. They are considered as neighbourhoods and account for 14.9% of the Belgian population, with an average of 3,800 individuals per district.
+Results
+The results in Table 1 show that the prevalence of bad subjective health increases with the prevalence of noise pollution. In neighbourhoods that are little affected by pollution (quintile 1), 21.5% of individuals display bad subjective health, whilst in the neighbourhoods that are the most affected by this pollution (quintile 5), 33.1% of individuals have bad subjective health. This link between collective perception of pollution and subjective health is confirmed by the significant chi-square test (χ2 = 5515.9).
+Table 1
+Bad subjective health according to prevalence of noise pollution complaints: % and chi-square
+
+Bad subjective health (%)
+Noise pollution
+
+Quintile 1 (low)
+21.5
+Quintile 2
+23.9
+Quintile 3
+27.1
+Quintile 4
+29.9
+Quintile 5 (high)
+33.1
+
+
+χ2
+5515.9 p < 0.001
+n
+850,906
+That said, the results presented in Table 1 do not display an impact of noise pollution on individuals' health. The role of noise pollution in health inequalities is investigated in Table 2.
+Table 2
+Risk of bad subjective health for four socio-economic status variables: results of logistical regressions; OR, p-value and IC 95%
+
+
+Model 1
+Model 2
+
+
+
+
+OR
+95%CI
+OR
+95%CI
+Collective perception per neighbourhood of noise pollution
+Quintile 1 (ref)
+
+
+1
+
+
+Quintile 2
+
+
+1.02*
+(1.00-1.04)
+
+Quintile 3
+
+
+1.13**
+(1.10-1.15)
+
+Quintile 4
+
+
+1.30**
+(1.27-1.33)
+
+Quintile 5
+
+
+1.61**
+(1.57-1.65)
+Activity
+Employed (ref)
+1
+
+1
+
+
+Unemployed
+2.27**
+(2.13-2.42)
+2.12**
+(1.98-2.26)
+
+Inactive
+1.78**
+(1.76-1.81)
+1.79**
+(1.76-1.82)
+Property status
+Owners (ref)
+1
+
+1
+
+
+Tenants
+1.53**
+(1.50-1.55)
+1.51**
+(1.49-1.54)
+Level of education
+High (ref)
+1
+
+1
+
+
+Medium
+1.46**
+(1.43-1.48)
+1.46**
+(1.43-1.49)
+
+Low
+2.07**
+(2.04-2.11)
+2.07**
+(2.04-2.11)
+Type of housing
+Detached (ref)
+1
+
+1
+
+
+Semi-detached or terraced (ref)
+1.20**
+(1.18-1.21)
+1.13**
+(1.11-1.14)
+
+Apartments
+1.14**
+(1.12-1.16)
+1.02
+(1.00-1.04)
+
+Other
+1.65**
+(1.55-1.75)
+1.54**
+(1.44-1.65)
+N
+
+
+812,819
+
+767,365
+Model 1: controlled by age and gender
+Model 2: controlled by the prevalence of noise pollution
+p-value: < 0.01 **/< 0.05 *
+Model 1, controlled only for age and gender, highlights socio-economic health inequalities measured using four variables. Non-working individuals have a higher risk of bad subjective health than working individuals (OR = 1.78). Health inequalities were also observed in tenants (OR = 1.53), individuals with poor schooling levels (OR = 2.07) and those living in temporary accommodation (OR = 1.65).
+Model 2 is controlled by the prevalence of noise pollution in the individual's neighbourhood. Few changes are observed between these two models, except for the 'activity' and 'type of housing' variables. The risk of bad subjective health on the part of the unemployed reduces slightly between Model 1 and Model 2 (from OR = 2.27 to OR = 2.12). It would also appear that the worse the quality of housing occupied, the more individuals are exposed to noise pollution. The risk of bad health of people living in housing of the 'other' type reduces slightly, from 1.65 (Model 1) to 1.54 (Model 2). A similar trend is observed for those living in apart-ments. Also, when one takes into account exposure to noise pollution, the risk of bad subjective health of those living in apartments becomes practically identical to that of individuals living in detached houses (OR = 1.02).
+Noise pollution is greater in towns due to road-traffic density, proximity to airports and problems with neighbours. Consequently, the results in Table 3 have been stratified by level of urbanisation and the analysis focuses more on activity and type of housing. This stratification shows that the effect of noise pollution on the social inequalities of subjective health is greater in urban areas. It is indeed in urban areas that exposure to noise pollution is greatest. The risk of bad health linked to noise pollution is particularly high for the unemployed, with the OR changing from 2.20 (Model 1) to 2.03 (Model 2). Still looking at urban areas, we see that health inequalities linked to type of housing are in part due to noise pollution. For individuals living in apartments, a category that concerns most Brussels inhabitants, the risk of bad subjective health reduces from 1.16 to 1.01 when checked for noise pollution (Model 2). The same is true for those living in housing of the 'other' type, with the risk of bad health reducing from 1.88 (Model 1) to 1.65 (Model 2). However, in rural areas, the degree of risk of bad health due to noise pollution is imperceptible, whatever the socio-economic variable considered.
+Table 3
+Risk of bad subjective health for two socio-economic status variables, activity and type of housing, stratified by type of urbanisation: results of logistical regressions; OR, p-value and IC 95%
+
+Model 1
+OR 95%CI
+Model 2
+OR 95%CI
+Agglomeration
+
+
+
+
+Activity
+
+
+
+
+Employed (ref)
+1
+
+1
+
+Unemployed
+2.20**
+(2.03-2.39)
+2.03**
+(1.87-2.21)
+Inactive
+1.79**
+(1.75-1.83)
+1.80**
+(1.76-1.84)
+Type of housing
+
+
+
+
+Detached (ref)
+1
+
+1
+
+Semi-detached or terraced
+1.24**
+(1.21-1.27)
+1.11**
+(1.08-1.14)
+Apartments
+1.16**
+(1.12-1.19)
+1.01
+(0.97-1.04)
+Other
+1.88**
+(1.70-2.07)
+1.65**
+(1.49-1.82)
+Suburb
+
+
+
+
+Activity
+
+
+
+
+Employed (ref)
+1
+
+1
+
+Unemployed
+1.83**
+(1.42-2.35)
+1.87**
+(1.44-2.42)
+Inactive
+1.65**
+(1.58-1.71)
+1.65**
+(1.58-1.72)
+Type of housing
+
+
+
+
+Detached (ref)
+1
+
+1
+
+Semi-detached or terraced
+1.19**
+(1.15-1.23)
+1.14**
+(1.10-1.19)
+Apartments
+1.06
+(0.99-1.14)
+1.01a
+(0.94-1.09)
+Other
+1.31**
+(1.09-1.56)
+1.08*
+(1.06-1.55)
+Peri-urban
+
+
+
+
+Activity
+
+
+
+
+Employed (ref)
+1
+
+1
+
+Unemployed
+2.17**
+(1.80-2.63)
+2.09**
+(1.71-2.56)
+Inactive
+1.80**
+(1.74-1.86)
+1.81**
+(1.75-1.87)
+Type of housing
+
+
+
+
+Detached (ref)
+1
+
+1
+
+Semi-detached or terraced
+1.12**
+(1.09-1.16)
+1.12**
+(1.08-1.15)
+Apartments
+1.07*
+(1.01-1.13)
+1.05
+(0.99-1.11)
+Other
+1.56**
+(1.36-1.79)
+1.51**
+(1.30-1.75)
+Rural
+
+
+
+
+Activity
+
+
+
+
+Employed (ref)
+1
+
+1
+
+Unemployed
+2.43**
+(2.06-2.86)
+2.43**
+(2.04-2.89)
+Inactive
+1.85**
+(1.79-1.91)
+1.87**
+(1.81-1.93)
+Type of housing
+
+
+
+
+Detached (ref)
+1
+
+1
+
+Semi-detached or terraced
+1.17**
+(1.14-1.20)
+1.16**
+(1.13-1.19)
+Apartments
+1.13**
+(1.07-1.19)
+1.10**
+(1.04-1.16)
+Other
+1.58**
+(1.40-1.78)
+1.52**
+(1.32-1.74)
+Model 1: controlled by age and gender
+Model 2: controlled by the prevalence of noise pollution
+p-value: < 0.01 **/< 0.05 *
+Discussion
+This research has provided several major results. Firstly, our analyses show that the more an individual is exposed to noise pollution in their environment and lifestyle, the more they display bad subjective health. Next, noise pollution contributes to an increase in socio-economic health inequalities, mainly when socio-economic status is defined in relation to the labour market or to the housing market. Indeed, one observes a clear influence of the exposure to noise pollution on health inequalities linked to type of housing and activity. Unemployed individuals and people living in modest housing have greater risk of bad subjective health, owing to their exposure to noise pollution. These health inequalities are particularly pronounced in urban areas.
+According to a study undertaken by Evans 24, exposure to ambient noise pollution, and other environmental risks, is 'hostile' to health and well-being. Socio-economic status is associated with the quality of the environment; the poorest individuals live in poorer quality neighbourhoods and are therefore more exposed to noise pollution. Socio-economic health inequalities are related to the variation in exposure linked to the quality of the environment. Again according to Evans 24, exposure to ambient noise levels may be associated with individuals' incomes.
+The stratification of results by type of urbanisation shows that the effect of noise pollution on health-related social inequalities depends on environment and lifestyle. This observation may be explained by several mechanisms: the objective level of noise pollution is greater in towns than in the other levels of urbanisation and/or the urban population is more sensitive to noise, such as that related to problems with neighbours.
+Our study is limited by the variables used and the nature of our data. The independent noise pollution variable is subjective, since it takes individuals' perception into account. The link between subjective perception and objective measurement of noise pollution is far from being very strong. In fact, based upon data provided by Bruxelles Environnement/Leefmilieu Brussel, researchers have obtained a low correlation of only 0.28 between average prevalence of noise complaints and the Lden-60 level, which corresponds to a percentage of surface exposed to noise, that is to say more than 60dB 26. Individuals' perception may be influenced by other events; it does not reflect noise pollution in the real sense of the term. However, we do not think that this is of a nature that would considerably affect our results. Indeed, the fact that we based our analyses on a neighbourhood average increases the validity of these data. In addition, perception of noise pollution better reflects the true sensitivity/discomfort felt by the individual. Also, we do not have epidemiological data con-cerning Belgians' state of health; we are working with a subjective health variable. Nevertheless, several previous studies have shown that subjective health is a good proxy for morbidity and mortality.
+The cross-sectional nature of our data prevents us from being affirmative regarding the link between socio-economic status, noise pollution and subjective health. We know that both noise pollution and a disadvantaged socio-economic status have an influence on rates of bad health. However, the link between noise pollution and a disadvantaged socio-economic status can take two ways. Firstly, noise pollution causes a degradation of socio-economic status by attracting people who are more disadvantaged and doubtless in less good health to start with. For example, housing situated close to main roads has lower rents and is inhabited by families with lower incomes. We would therefore have a selection bias. Secondly, socio-economically disadvantaged environments are sources of noise pollution. Reasons include higher population density and lack of investment on the part of the authorities in these neighbourhoods (bad window insulation, etc.).
+Conclusions
+In conclusion, we note that within the Belgian population there is an increasing monotonous effect between noise pollution and bad health. We also note that health inequalities linked to socio-economic status of individuals are in part reinforced by exposure to noise pollution. Noise pollution explains certain health inequalities in terms of activity and type of housing.
+Our results show that exposure to noise pollution plays a role in health inequalities. In future, public environmental policies, particularly those linked to urban planning, should take principles of social justice into account.
+Acknowledgements
+This research received financial support from Belgian Science Policy as part of the Tackling Health Inequalities in Belgium project (no. TA/00/15).
+Reducing risks, promoting healthy life
+Differences in self reported morbidity by educational level: a comparison of 11 western European countries
+Socioeconomic Factors, Health Behaviors, and Mortality: Results From a Nationally Representative Prospective Study of US Adults
+Health inequalities among British civil servants: the Whitehall II study
+Place effects on health: how can we conceptualise, operationalise and measure them?
+Environmental stress and health
+Environmental justice: frequency and severity of US chemical industry accidents and the socioeconomic status of surrounding communities
+Segregation and Black/White Differences in Exposure to Air Toxics in 1990 (Department of Environmental Health, Boston University School of Public Health, Boston, Massachusetts, USA)
+Urban Air Pollution and Health Inequalities: A Workshop Report
+The influence of subjective reactions to noise on health effects of the noise
+The importance of environmental exposures to physical, mental and social well-being
+Longitudinal surveys on effects of changes in road traffic noise: effects on sleep assessed by general questionnaires and 3-day sleep logs
+The association between noise exposure and blood pressure and ischemic heart disease: a meta-analysis
+Traffic noise and risk of myocardial infarction
+Possible health effects of noise induced cortisol increase
+Increased catecholamine levels in urine in subjects exposed to road traffic noise: The role of stress hormones in noise research
+Hearing loss among workers exposed to road traffic noise in the city of São Paulo in Brazil
+Motivational consequences of environmental stress
+Noise exposure and public health
+Aircraft noise: A potential health hazard
+Survey error in measuring socio-economic risk factors of health status: a comparison of a survey and a census
+Enquête Socio-économique Générale 2001: Santé et Soignants Informels
+The census and health: commentaries about the 2001 Belgiun Census
+Self-rated health and mortality: a review of twenty-seven community studies
+Socioeconomic Status and Health: The Potential Role of Environmental Risk Exposure
+Qui se plaint du bruit à Bruxelles?

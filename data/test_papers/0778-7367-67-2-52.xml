@@ -1,0 +1,2170 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-2-52</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Noise nuisance and health inequalities in Belgium: a population study</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Schmit</snm>
+               <fnm>C</fnm>
+               <insr iid="I1"/>
+            </au>
+            <au id="A2" ca="yes">
+               <snm>Lorant</snm>
+               <fnm>V</fnm>
+               <insr iid="I1"/>
+               <email>vincent.lorant@uclouvain.be</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Ecole de Sant&#233; Publique, Universit&#233; Catholique de Louvain, Bruxelles</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>2</issue>
+         <fpage>52</fpage>
+         <lpage>61</lpage>
+         <url>http://www.archpublichealth.com/content/67/2/52</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-2-52</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>18</day>
+               <month>11</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Schmit and Lorant</collab>
+      </cpyrt>
+      <kwdg>
+         <kwd>Health inequalities</kwd>
+         <kwd>noise nuisance</kwd>
+         <kwd>socio-economic factors</kwd>
+         <kwd>subjective health</kwd>
+         <kwd>urban health</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Context</p>
+               </st>
+               <p>Lower socioeconomic groups are more likely to live in contaminated environments. This may partly explain socioeconomic health inequalities.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Aims</p>
+               </st>
+               <p>Does noise nuisance contribute to socio-economic inequalities in subjective health?</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Method</p>
+               </st>
+               <p>This research is based on the last Belgian census data carried out in 2001. We work on a 10% sample of the Belgian population. The data are processed through bivariate and multivariate analyses. We model poor subjective health in relation to exposure to noise nuisance and several socio-economic variables.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>The risk of poor subjective health increases with noise nuisance and is higher in lower socio-economic groups. Noise nuisance does contribute to health inequalities, particularly regarding type of housing and activity. These relations are stronger in urban areas.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Noise nuisance affects the subjective health status and contributes to health inequalities, particularly in urban areas. This suggests that public policies, particularly those related to environmental planning, should be driven also by environmental equity considerations.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>According to the World Health Organization <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, health risks are unfairly distributed in our so-ciety. The most disadvantaged social groups (in terms of income, schooling or socio-economic group) are more exposed to health risks. An international comparison of 11 European countries revealed major social inequalities in subjective health. These inequalities are also observed in mortality and morbidity rates <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>.</p>
+         <p>Several lines of explanation have been explored: initially, these inequalities were put down to individual differences in harmful habits (smoking, alcohol consumption and poor diet), stress factors and psychosocial resources. However, research indicated that the impact of harmful habits was relatively low <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. A second line of explanation took interest in contextual health factors, that is to say lifestyle characteristics, for individuals are not in fact randomly distributed in space, and habitable space tends to be subject to socio-economic stratification. This second, lifestyle approach considers several aspects such as social capital, accessibility of public services and exposure to environmental risks <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. In this study, we will be considering an environmental factor that is rarely featured in studies of health inequalities, that is to say exposure to noise pollution <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>.</p>
+         <p>Vulnerable social groups are more likely to live in less favourable environments. The literature in this area has been mainly concerned with the role of air pollution, particularly because this may aggravate morbidity following allergies <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. Up until now, very few researchers have examined the impact of noise pollution on these same inequalities. According to Job (1996) there might be a causal link between exposure to noise pollution and bad health, although this link has not yet been definitively established. The effects of noise pollution on health may be the direct consequence of exposure to noise or may be attenuated by reactions to noise, such as annoyance or unhappiness <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>.</p>
+         <p>One of the main difficulties in functioning engendered by noise pollution is the social handicap that comes from the disturbance of oral language, the learning and/or understanding thereof. This may result in changes in behaviour (aggression, hostility, selfishness) and/or life habits (increased consumption of drugs, medicines or the number of medical consultations) <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. General fatigue may also be a source of difficulties in functioning. Noise pollution actually reduces sleep quality. This may have physiological, mental and social effects <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Lack of sleep is a source of annoyance, stress and dissatisfaction <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, influencing performance and mood <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+         <p>Also, noise pollution can have a direct impact on morbidity of individuals by increasing the risks of hypertension <abbrgrp><abbr bid="B13">13</abbr></abbrgrp> and ischemic cardiac conditions <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, and by changing the regulation of stress hormones <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>.</p>
+         <p>Most research undertaken to date has looked at the effects of noise in very specific contexts, such as exposure to noise pollution in the workplace <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>, alongside main roads <abbrgrp><abbr bid="B16">16</abbr></abbrgrp> and in a school located close to an airport <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. There have been very few studies involving wider populations. Few studies consider the effects of noise on subjective health. Most research deals with objective health, difficulties in functioning or morbidity of individuals. Yet it has been established that the objective impact of noise pollution is only observable in the very long term. Several studies suggest that physiological effects and health complaints are closely associated with subjective reactions to noise <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. If one takes into account the nuisance felt by individuals and their subjective health, one can then take an earlier and more global approach to the problem. Also, subjective health is a major indicator of well-being and perceived quality of life <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. Finally, despite numerous studies into health inequalities, very few of these have been able to evaluate the extent to which noise pollution is a risk factor in health-related social inequalities.</p>
+         <p>Our aim is to study the contribution of noise pollution to health inequalities amongst the Bel-gian population. We will be investigating the contribution made by exposure to noise pollution in creating socio-economic inequalities in subjective health.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Methods</p>
+         </st>
+         <p>Our study is based upon an analysis of data from the most recent 'general socio-economic study of population and housing' undertaken in Belgium in 2001 by the then National Institute of Statistics (now DG Statistics). The novelty in this questionnaire, compared to previous ones, was the addition of several questions concerning the subjective health of individuals and the quality of the environment. Belgium has followed the model in use in Britain since 1991, where it has been possible to link contextual data to data regarding the subjective health of individuals.</p>
+         <p>This questionnaire was sent to all residents aged six and over. Individuals who did not reply were sent a reminder. DG Statistics contacted 9,631,313 individuals aged over six, 9,333,428 (or 97%) of whom returned their questionnaire. The participation rate was very high, no doubt because this survey was instructed by the Belgian legal system. We also noted that subjective questions received a high level of completion. Questions on subjective health <abbrgrp><abbr bid="B21">21</abbr></abbrgrp> had a missing data rate of only 2.6%, which is relatively low. In addition, there was no indication that this bias was greater when the respondents were elderly people. The data are therefore valid. In this case, we will work on a sample of a little more than ten percent of the Belgian population (N = 1,002,343). The questionnaires and data from this Belgian survey of 2001 are described in detail in a monograph of the socio-economic survey on health <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> and commented by Lorant et al. (2002) <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. It is also available on the DG Statistics website: <url>http://www.statbel.fgov.be/census/form_fr.pdf</url>.</p>
+         <p>Our dependent variable is subjective health. 'What is your general state of health? Very good, good, average, bad or very bad?' In our analysis we modelled the probability of having bad subjective health (28% of the population). According to the literature, subjective health <abbrgrp><abbr bid="B24">24</abbr></abbrgrp> is a global measure of health, in the sense of quality of life, integrating both individuals' past trajectories and their future expectations.</p>
+         <p>Socio-economic status is measured using four variables: level of education (high/medium/low), activity (employed/unemployed/inactive), property status (owner/tenant) and type of housing (detached house/semi-detached or terraced house/apartment/other).</p>
+         <p>The socio-economic survey has one question regarding noise pollution: 'How do you judge the immediate environment of where you live: the tranquillity (noise pollution)? Very pleasant, satisfactory, unpleasant'. However, this exposure variable may be affected by character traits: research shows that individuals with low self-esteem tend to negatively evaluate their environment <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. Doubtless they evaluate their state of health just as badly. In our analyses, we used a dissatisfaction average per neighbourhood (calculated using the entirety of the socio-economic survey). This strategy avoids the link between perception of noise pollution and subjective health being too affected by non-observed individual aspects (such as character traits). This noise pollution variable is categorised as quintiles.</p>
+         <p>The link between subjective health and noise pollution may also be affected by other selection biases. For example, more often than not, the youngest populations, who are in better health, live in urban areas and are therefore the most exposed to pollution. Failure to check age means possibly underestimating the effects of noise pollution. To measure the effect of environmental pollution on subjective health, by checking other confusing factors, we used multiple logistical regressions: Model 1 studies the link between socio-economic variables and bad subjective health by checking age and gender, while Model 2 adds perceived noise pollution. Data were processed through bivariate and multivariate analyses.</p>
+         <p>Our transversal study analysed the effect of noise pollution in the neighbourhood. The ad-ministrative definition of neighbourhood is 'statistical sector'; this is therefore a quite specific entity in the Belgian classification. A neighbourhood corresponds to 640 individuals, with a standard-deviation of 692. Belgium has 13,431 non-empty neighbourhoods. One has to add 255 rural districts to this number. They are considered as neighbourhoods and account for 14.9% of the Belgian population, with an average of 3,800 individuals per district.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>The results in Table <tblr tid="T1">1</tblr> show that the prevalence of bad subjective health increases with the prevalence of noise pollution. In neighbourhoods that are little affected by pollution (quintile 1), 21.5% of individuals display bad subjective health, whilst in the neighbourhoods that are the most affected by this pollution (quintile 5), 33.1% of individuals have bad subjective health. This link between collective perception of pollution and subjective health is confirmed by the significant chi-square test (&#967;<sup>2 </sup>= 5515.9).</p>
+         <tbl id="T1">
+            <title>
+               <p>Table 1</p>
+            </title>
+            <caption>
+               <p>Bad subjective health according to prevalence of noise pollution complaints: % and chi-square</p>
+            </caption>
+            <tblbdy cols="2">
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p><b>Bad subjective health (%)</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="2">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Noise pollution</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Quintile 1 (low)</p>
+                  </c>
+                  <c ca="left">
+                     <p>21.5</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Quintile 2</p>
+                  </c>
+                  <c ca="left">
+                     <p>23.9</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Quintile 3</p>
+                  </c>
+                  <c ca="left">
+                     <p>27.1</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Quintile 4</p>
+                  </c>
+                  <c ca="left">
+                     <p>29.9</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Quintile 5 (high)</p>
+                  </c>
+                  <c ca="left">
+                     <p>33.1</p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>&#967;<sup>2</sup></p>
+                  </c>
+                  <c ca="left">
+                     <p>5515.9 <it>p </it>&lt; 0.001</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>n</p>
+                  </c>
+                  <c ca="left">
+                     <p>850,906</p>
+                  </c>
+               </r>
+            </tblbdy>
+         </tbl>
+         <p>That said, the results presented in Table <tblr tid="T1">1</tblr> do not display an impact of noise pollution on individuals' health. The role of noise pollution in health inequalities is investigated in Table <tblr tid="T2">2</tblr>.</p>
+         <tbl id="T2">
+            <title>
+               <p>Table 2</p>
+            </title>
+            <caption>
+               <p>Risk of bad subjective health for four socio-economic status variables: results of logistical regressions; OR, <it>p</it>-value and IC 95%</p>
+            </caption>
+            <tblbdy cols="6">
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c cspan="2" ca="left">
+                     <p><b>Model 1</b></p>
+                  </c>
+                  <c cspan="2" ca="left">
+                     <p><b>Model 2</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c cspan="4">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p><b>OR</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>95%CI</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>OR</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>95%CI</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Collective perception per neighbourhood of noise pollution</b></p>
+                  </c>
+                  <c ca="left">
+                     <p>Quintile 1 (ref)</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Quintile 2</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1.02*</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.00-1.04)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Quintile 3</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1.13**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.10-1.15)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Quintile 4</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1.30**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.27-1.33)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Quintile 5</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1.61**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.57-1.65)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Activity</b></p>
+                  </c>
+                  <c ca="left">
+                     <p>Employed (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Unemployed</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.27**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.13-2.42)</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.12**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.98-2.26)</p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Inactive</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.78**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.76-1.81)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.79**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.76-1.82)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Property status</b></p>
+                  </c>
+                  <c ca="left">
+                     <p>Owners (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Tenants</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.53**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.50-1.55)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.51**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.49-1.54)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Level of education</b></p>
+                  </c>
+                  <c ca="left">
+                     <p>High (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Medium</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.46**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.43-1.48)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.46**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.43-1.49)</p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Low</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.07**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.04-2.11)</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.07**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.04-2.11)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Type of housing</b></p>
+                  </c>
+                  <c ca="left">
+                     <p>Detached (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Semi-detached or terraced (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.20**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.18-1.21)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.13**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.11-1.14)</p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Apartments</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.14**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.12-1.16)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.02</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.00-1.04)</p>
+                  </c>
+               </r>
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>Other</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.65**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.55-1.75)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.54**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.44-1.65)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="6">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>N</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>812,819</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>767,365</p>
+                  </c>
+               </r>
+            </tblbdy>
+            <tblfn>
+               <p>Model 1: controlled by age and gender</p>
+               <p>Model 2: controlled by the prevalence of noise pollution</p>
+               <p>p-value: &lt; 0.01 **/&lt; 0.05 *</p>
+            </tblfn>
+         </tbl>
+         <p>Model 1, controlled only for age and gender, highlights socio-economic health inequalities measured using four variables. Non-working individuals have a higher risk of bad subjective health than working individuals (OR = 1.78). Health inequalities were also observed in tenants (OR = 1.53), individuals with poor schooling levels (OR = 2.07) and those living in temporary accommodation (OR = 1.65).</p>
+         <p>Model 2 is controlled by the prevalence of noise pollution in the individual's neighbourhood. Few changes are observed between these two models, except for the 'activity' and 'type of housing' variables. The risk of bad subjective health on the part of the unemployed reduces slightly between Model 1 and Model 2 (from OR = 2.27 to OR = 2.12). It would also appear that the worse the quality of housing occupied, the more individuals are exposed to noise pollution. The risk of bad health of people living in housing of the 'other' type reduces slightly, from 1.65 (Model 1) to 1.54 (Model 2). A similar trend is observed for those living in apart-ments. Also, when one takes into account exposure to noise pollution, the risk of bad subjective health of those living in apartments becomes practically identical to that of individuals living in detached houses (OR = 1.02).</p>
+         <p>Noise pollution is greater in towns due to road-traffic density, proximity to airports and problems with neighbours. Consequently, the results in Table <tblr tid="T3">3</tblr> have been stratified by level of urbanisation and the analysis focuses more on activity and type of housing. This stratification shows that the effect of noise pollution on the social inequalities of subjective health is greater in urban areas. It is indeed in urban areas that exposure to noise pollution is greatest. The risk of bad health linked to noise pollution is particularly high for the unemployed, with the OR changing from 2.20 (Model 1) to 2.03 (Model 2). Still looking at urban areas, we see that health inequalities linked to type of housing are in part due to noise pollution. For individuals living in apartments, a category that concerns most Brussels inhabitants, the risk of bad subjective health reduces from 1.16 to 1.01 when checked for noise pollution (Model 2). The same is true for those living in housing of the 'other' type, with the risk of bad health reducing from 1.88 (Model 1) to 1.65 (Model 2). However, in rural areas, the degree of risk of bad health due to noise pollution is imperceptible, whatever the socio-economic variable considered.</p>
+         <tbl id="T3">
+            <title>
+               <p>Table 3</p>
+            </title>
+            <caption>
+               <p>Risk of bad subjective health for two socio-economic status variables, activity and type of housing, stratified by type of urbanisation: results of logistical regressions; OR, p-value and IC 95%</p>
+            </caption>
+            <tblbdy cols="5">
+               <r>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p><b>Model 1</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>OR 95%CI</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>Model 2</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>OR 95%CI</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Agglomeration</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Activity</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Employed (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Unemployed</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.20**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.03-2.39)</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.03**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.87-2.21)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Inactive</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.79**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.75-1.83)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.80**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.76-1.84)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Type of housing</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Detached (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Semi-detached or terraced</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.24**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.21-1.27)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.11**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.08-1.14)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Apartments</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.16**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.12-1.19)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.01</p>
+                  </c>
+                  <c ca="left">
+                     <p>(0.97-1.04)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Other</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.88**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.70-2.07)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.65**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.49-1.82)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Suburb</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Activity</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Employed (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Unemployed</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.83**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.42-2.35)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.87**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.44-2.42)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Inactive</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.65**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.58-1.71)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.65**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.58-1.72)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Type of housing</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Detached (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Semi-detached or terraced</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.19**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.15-1.23)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.14**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.10-1.19)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Apartments</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.06</p>
+                  </c>
+                  <c ca="left">
+                     <p>(0.99-1.14)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.01a</p>
+                  </c>
+                  <c ca="left">
+                     <p>(0.94-1.09)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Other</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.31**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.09-1.56)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.08*</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.06-1.55)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Peri-urban</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Activity</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Employed (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Unemployed</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.17**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.80-2.63)</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.09**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.71-2.56)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Inactive</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.80**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.74-1.86)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.81**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.75-1.87)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Type of housing</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Detached (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Semi-detached or terraced</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.12**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.09-1.16)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.12**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.08-1.15)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Apartments</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.07*</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.01-1.13)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.05</p>
+                  </c>
+                  <c ca="left">
+                     <p>(0.99-1.11)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Other</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.56**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.36-1.79)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.51**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.30-1.75)</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Rural</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Activity</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Employed (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Unemployed</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.43**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.06-2.86)</p>
+                  </c>
+                  <c ca="left">
+                     <p>2.43**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(2.04-2.89)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Inactive</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.85**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.79-1.91)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.87**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.81-1.93)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p><b>Type of housing</b></p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Detached (ref)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+                  <c ca="left">
+                     <p>1</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Semi-detached or terraced</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.17**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.14-1.20)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.16**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.13-1.19)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Apartments</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.13**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.07-1.19)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.10**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.04-1.16)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Other</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.58**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.40-1.78)</p>
+                  </c>
+                  <c ca="left">
+                     <p>1.52**</p>
+                  </c>
+                  <c ca="left">
+                     <p>(1.32-1.74)</p>
+                  </c>
+               </r>
+            </tblbdy>
+            <tblfn>
+               <p>Model 1: controlled by age and gender</p>
+               <p>Model 2: controlled by the prevalence of noise pollution</p>
+               <p>p-value: &lt; 0.01 **/&lt; 0.05 *</p>
+            </tblfn>
+         </tbl>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>This research has provided several major results. Firstly, our analyses show that the more an individual is exposed to noise pollution in their environment and lifestyle, the more they display bad subjective health. Next, noise pollution contributes to an increase in socio-economic health inequalities, mainly when socio-economic status is defined in relation to the labour market or to the housing market. Indeed, one observes a clear influence of the exposure to noise pollution on health inequalities linked to type of housing and activity. Unemployed individuals and people living in modest housing have greater risk of bad subjective health, owing to their exposure to noise pollution. These health inequalities are particularly pronounced in urban areas.</p>
+         <p>According to a study undertaken by Evans <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>, exposure to ambient noise pollution, and other environmental risks, is 'hostile' to health and well-being. Socio-economic status is associated with the quality of the environment; the poorest individuals live in poorer quality neighbourhoods and are therefore more exposed to noise pollution. Socio-economic health inequalities are related to the variation in exposure linked to the quality of the environment. Again according to Evans <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>, exposure to ambient noise levels may be associated with individuals' incomes.</p>
+         <p>The stratification of results by type of urbanisation shows that the effect of noise pollution on health-related social inequalities depends on environment and lifestyle. This observation may be explained by several mechanisms: the objective level of noise pollution is greater in towns than in the other levels of urbanisation and/or the urban population is more sensitive to noise, such as that related to problems with neighbours.</p>
+         <p>Our study is limited by the variables used and the nature of our data. The independent noise pollution variable is subjective, since it takes individuals' perception into account. The link between subjective perception and objective measurement of noise pollution is far from being very strong. In fact, based upon data provided by Bruxelles Environnement/Leefmilieu Brussel, researchers have obtained a low correlation of only 0.28 between average prevalence of noise complaints and the Lden-60 level, which corresponds to a percentage of surface exposed to noise, that is to say more than 60dB <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. Individuals' perception may be influenced by other events; it does not reflect noise pollution in the real sense of the term. However, we do not think that this is of a nature that would considerably affect our results. Indeed, the fact that we based our analyses on a neighbourhood average increases the validity of these data. In addition, perception of noise pollution better reflects the true sensitivity/discomfort felt by the individual. Also, we do not have epidemiological data con-cerning Belgians' state of health; we are working with a subjective health variable. Nevertheless, several previous studies have shown that subjective health is a good proxy for morbidity and mortality.</p>
+         <p>The cross-sectional nature of our data prevents us from being affirmative regarding the link between socio-economic status, noise pollution and subjective health. We know that both noise pollution and a disadvantaged socio-economic status have an influence on rates of bad health. However, the link between noise pollution and a disadvantaged socio-economic status can take two ways. Firstly, noise pollution causes a degradation of socio-economic status by attracting people who are more disadvantaged and doubtless in less good health to start with. For example, housing situated close to main roads has lower rents and is inhabited by families with lower incomes. We would therefore have a selection bias. Secondly, socio-economically disadvantaged environments are sources of noise pollution. Reasons include higher population density and lack of investment on the part of the authorities in these neighbourhoods (bad window insulation, etc.).</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In conclusion, we note that within the Belgian population there is an increasing monotonous effect between noise pollution and bad health. We also note that health inequalities linked to socio-economic status of individuals are in part reinforced by exposure to noise pollution. Noise pollution explains certain health inequalities in terms of activity and type of housing.</p>
+         <p>Our results show that exposure to noise pollution plays a role in health inequalities. In future, public environmental policies, particularly those linked to urban planning, should take principles of social justice into account.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This research received financial support from Belgian Science Policy as part of the Tackling Health Inequalities in Belgium project (no. TA/00/15).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Reducing risks, promoting healthy life</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>World Health Organisation (WHO/OMS)</cnm>
+               </au>
+            </aug>
+            <source>The world health report, chapter 4 "Quantifying selected major risks to health"</source>
+            <pubdate>2002</pubdate>
+            <url>http://www.who.int/entity/whr/2002/en</url>
+            <xrefbib>
+               <pubid idtype="pmpid">21723520</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Differences in self reported morbidity by educational level: a comparison of 11 western European countries</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cavelaars</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Kunst</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Geurts</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Crialesi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Grotvedt</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Helmert</snm>
+                  <fnm>U</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>J Epidemiol Community Health</source>
+            <pubdate>1998</pubdate>
+            <volume>52</volume>
+            <fpage>219</fpage>
+            <lpage>27</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/jech.52.4.219</pubid>
+                  <pubid idtype="pmcid">1756698</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9616407</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Socioeconomic Factors, Health Behaviors, and Mortality: Results From a Nationally Representative Prospective Study of US Adults</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lantz</snm>
+                  <fnm>PM</fnm>
+               </au>
+               <au>
+                  <snm>House</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Lepkowski</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Mero</snm>
+                  <fnm>RP</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>JAMA</source>
+            <pubdate>1998</pubdate>
+            <volume>279</volume>
+            <issue>21</issue>
+            <fpage>1703</fpage>
+            <lpage>8</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/jama.279.21.1703</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9624022</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Health inequalities among British civil servants: the Whitehall II study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Marmot</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>GD</fnm>
+               </au>
+               <au>
+                  <snm>Stansfeld</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>North</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Head</snm>
+                  <fnm>J</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>1991</pubdate>
+            <volume>337</volume>
+            <issue>8754</issue>
+            <fpage>1387</fpage>
+            <lpage>93</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0140-6736(91)93068-K</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1674771</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Place effects on health: how can we conceptualise, operationalise and measure them?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Macintyre</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ellaway</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Soc Sci Med</source>
+            <pubdate>2002</pubdate>
+            <volume>55</volume>
+            <issue>1</issue>
+            <fpage>125</fpage>
+            <lpage>39</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0277-9536(01)00214-3</pubid>
+                  <pubid idtype="pmpid">12137182</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Environmental stress and health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>GW</fnm>
+               </au>
+            </aug>
+            <source>Handbook of environmental psychology</source>
+            <publisher>Hillsdale, NJ: Erlbaum</publisher>
+            <editor>Baum TR, Singer JE</editor>
+            <pubdate>2001</pubdate>
+            <fpage>365</fpage>
+            <lpage>85</lpage>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Environmental justice: frequency and severity of US chemical industry accidents and the socioeconomic status of surrounding communities</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Elliott</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lowe</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Kleindorfer</snm>
+                  <fnm>PR</fnm>
+               </au>
+            </aug>
+            <source>J Epidemiol Community Health</source>
+            <pubdate>2004</pubdate>
+            <volume>58</volume>
+            <fpage>24</fpage>
+            <lpage>30</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/jech.58.1.24</pubid>
+                  <pubid idtype="pmcid">1757035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14684723</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Segregation and Black/White Differences in Exposure to Air Toxics in 1990 (Department of Environmental Health, Boston University School of Public Health, Boston, Massachusetts, USA)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lopez</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Environ Health Perspect</source>
+            <pubdate>2002</pubdate>
+            <volume>110</volume>
+            <issue>S2</issue>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Urban Air Pollution and Health Inequalities: A Workshop Report</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>The American Lung Association</cnm>
+               </au>
+            </aug>
+            <source>Environ Health Perspect</source>
+            <pubdate>2001</pubdate>
+            <volume>109</volume>
+            <issue>S3</issue>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>The influence of subjective reactions to noise on health effects of the noise</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Job</snm>
+                  <fnm>RFS</fnm>
+               </au>
+            </aug>
+            <source>Environ Int</source>
+            <pubdate>1996</pubdate>
+            <volume>22</volume>
+            <issue>1</issue>
+            <fpage>93</fpage>
+            <lpage>104</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/0160-4120(95)00107-7</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>The importance of environmental exposures to physical, mental and social well-being</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Riediker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Koren</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Int J Hyg Environ Health</source>
+            <pubdate>2004</pubdate>
+            <volume>207</volume>
+            <issue>3</issue>
+            <fpage>193</fpage>
+            <lpage>201</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1078/1438-4639-00284</pubid>
+                  <pubid idtype="pmpid">15330387</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Longitudinal surveys on effects of changes in road traffic noise: effects on sleep assessed by general questionnaires and 3-day sleep logs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>&#214;hrstr&#246;m</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Sound Vib</source>
+            <pubdate>2004</pubdate>
+            <volume>276</volume>
+            <issue>3-5</issue>
+            <fpage>713</fpage>
+            <lpage>27</lpage>
+            <note>(22)</note>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/j.jsv.2003.08.038</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>The association between noise exposure and blood pressure and ischemic heart disease: a meta-analysis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>van Kempen</snm>
+                  <fnm>EMM</fnm>
+               </au>
+               <au>
+                  <snm>Kruize</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Boshuizen</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Ameling</snm>
+                  <fnm>CB</fnm>
+               </au>
+               <au>
+                  <snm>Staatsen</snm>
+                  <fnm>BAM</fnm>
+               </au>
+               <au>
+                  <snm>de Hollander</snm>
+                  <fnm>AEM</fnm>
+               </au>
+            </aug>
+            <source>Environ Health Perspect</source>
+            <pubdate>2002</pubdate>
+            <volume>110</volume>
+            <issue>3</issue>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Traffic noise and risk of myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Babisch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Beule</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Schust</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kersten</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ising</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Epidemiology</source>
+            <pubdate>2005</pubdate>
+            <volume>16</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <lpage>40</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.ede.0000147104.84424.24</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15613943</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Possible health effects of noise induced cortisol increase</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Spreng</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Noise Health</source>
+            <pubdate>2000</pubdate>
+            <volume>7</volume>
+            <fpage>59</fpage>
+            <lpage>63</lpage>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Increased catecholamine levels in urine in subjects exposed to road traffic noise: The role of stress hormones in noise research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Babisch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Fromme</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Beyer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ising</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Environ Int</source>
+            <pubdate>2001</pubdate>
+            <volume>26</volume>
+            <issue>7-8</issue>
+            <fpage>475</fpage>
+            <lpage>81</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0160-4120(01)00030-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11485215</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Hearing loss among workers exposed to road traffic noise in the city of S&#227;o Paulo in Brazil</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Barbosa</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Cardoso</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>Auris Nasus Larynx</source>
+            <pubdate>2005</pubdate>
+            <volume>32</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <lpage>21</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.anl.2004.11.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15882820</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Motivational consequences of environmental stress</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Stecker</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Environ Psychol</source>
+            <pubdate>2004</pubdate>
+            <volume>24</volume>
+            <issue>2</issue>
+            <fpage>143</fpage>
+            <lpage>65</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/S0272-4944(03)00076-8</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Noise exposure and public health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Passchier-Vermeer</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Passchier</snm>
+                  <fnm>WF</fnm>
+               </au>
+            </aug>
+            <source>Environ Health Perspect Supplements</source>
+            <pubdate>2000</pubdate>
+            <volume>108</volume>
+            <fpage>123</fpage>
+            <lpage>31</lpage>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Aircraft noise: A potential health hazard</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bronzaft</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Ahern</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Mc Ginn</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>O'Connor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Savino</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Environ Behav</source>
+            <pubdate>1998</pubdate>
+            <volume>30</volume>
+            <fpage>101</fpage>
+            <lpage>13</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1177/0013916598301005</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Survey error in measuring socio-economic risk factors of health status: a comparison of a survey and a census</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lorant</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Demarest</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Miermans</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Int J Epidemiol</source>
+            <pubdate>2007</pubdate>
+            <volume>36</volume>
+            <issue>6</issue>
+            <fpage>1292</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/ije/dym191</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17898025</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Enqu&#234;te Socio-&#233;conomique G&#233;n&#233;rale 2001: Sant&#233; et Soignants Informels</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Deboosere</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Demarest</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lorant</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Miermans</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Portet</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <pubdate>2001</pubdate>
+            <note>Monographie n&#176; 11</note>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>The census and health: commentaries about the 2001 Belgiun Census</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lorant</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Deboosere</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Humblet</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2002</pubdate>
+            <volume>1</volume>
+            <issue>60</issue>
+            <fpage>69</fpage>
+            <lpage>72</lpage>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Self-rated health and mortality: a review of twenty-seven community studies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Idler</snm>
+                  <fnm>EL</fnm>
+               </au>
+               <au>
+                  <snm>Benyamini</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Health Soc Behav</source>
+            <pubdate>1997</pubdate>
+            <volume>38</volume>
+            <issue>1</issue>
+            <fpage>21</fpage>
+            <lpage>37</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2307/2955359</pubid>
+                  <pubid idtype="pmpid">9097506</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Socioeconomic Status and Health: The Potential Role of Environmental Risk Exposure</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Kantrowitz</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Annu Rev Public Health</source>
+            <pubdate>2002</pubdate>
+            <volume>23</volume>
+            <fpage>303</fpage>
+            <lpage>31</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1146/annurev.publhealth.23.112001.112349</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11910065</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Qui se plaint du bruit &#224; Bruxelles?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cl&#233;ment</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Lorant</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>R&#233;sultats de l'enqu&#234;te socio-&#233;conomique r&#233;alis&#233;e en 2001 [Dissertation]</source>
+            <pubdate>2006</pubdate>
+            <note>Universit&#233; Catholique de Louvain - Ecole de Sant&#233; Publique</note>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">22900263</pubid>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

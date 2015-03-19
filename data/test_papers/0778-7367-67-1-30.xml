@@ -1,0 +1,1878 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-1-30</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Commentary</dochead>
+      <bibl>
+         <title>
+            <p>Access to mental health for asylum seekers in the European Union. An analysis of disparities between legal rights and reality</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Bell</snm>
+               <fnm>P</fnm>
+               <insr iid="I1"/>
+            </au>
+            <au id="A2" ca="yes">
+               <snm>Zech</snm>
+               <fnm>E</fnm>
+               <insr iid="I1"/>
+               <email>Emmanuelle.Zech@uclouvain.be</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Institute of Psychology, Universit&#233; catholique de Louvain, Belgium</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>1</issue>
+         <fpage>30</fpage>
+         <lpage>44</lpage>
+         <url>http://www.archpublichealth.com/content/67/1/30</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-1-30</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>4</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Bell and Zech.</collab>
+      </cpyrt>
+      <kwdg>
+         <kwd>Asylum seeker</kwd>
+         <kwd>refugee</kwd>
+         <kwd>mental health</kwd>
+         <kwd>reception conditions</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <p>The article explores some of the issues surrounding access to mental health care for asylum seekers, using Belgium as a case in point. Asylum and immigration issues have become increasingly pressing in Europe, with member states seeking a common European Asylum System and establishing minimum standards for the reception of asylum seekers. The EU measures have fallen short of providing and implementing clear guidelines. Significant discrepancies continue to exist between member states, notably policies on health care for refugees, and in particular mental healthcare. Access to mental health care is identified as crucial, yet for many the right to access is theoretical only, and in reality care is often inaccessible. Access should refer not only to the availability, but also the quality and efficacy of care. Refugees are a particularly vulnerable population, and access in the fullest sense of the term should be an essential element in the reception of asylum seekers.</p>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Over the last decade, asylum and immigration issues have become increasingly contentious in Europe. In the political arena, human rights are juggled with domestic interests, and both between and within member states, considerable confusion and inconsistency plague the asylum policy. In response to this development there has been a strong call within the European Union (EU) to determine and implement a common European Asylum System. In the area of mental health - a particularly important issue for this population - EU measures have yet to provide the clear and apposite guidelines, necessary to establish minimum standards for the reception of asylum seekers. This article explores these discrepancies, drawing on an exploration of the current state of access to mental health care for asylum seekers in Belgium. In order to clarify and substantiate our argument, we refer where possible to the literature, employing academic and scientific search engines such as Medline and Sciencedirect, and using the keywords noted above. Unfortunately relatively little has been published on access to mental health care for asylum seekers. Fewer still are comparative studies between member states on what is available and efficient with respect to mental health care. It is precisely these issues we would like to draw attention to, and we feel that a commentary is the appro-priate means to do so.</p>
+         <sec>
+            <st>
+               <p>Refugee movements in the EU</p>
+            </st>
+            <p>The numbers of refugees worldwide remain staggering (9.7 million refugees under the UNHCR mandate in 2004) <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, although Europe has seen a decline in asylum seekers over the last few years <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. Asylum applications have halved since 2001 with the EU receiving 46% fewer requests in 2005 compared to 2001 <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. This decline is due in part to an overall decrease in the world's refugee population since the surge of the 90s (from the Balkans wars, along with conflicts in the Russian Federation, Liberia, Afghanistan, and Sudan) and to some degree, decreases come as a result of durable solutions in certain areas and voluntary repatriation <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>.</p>
+            <p>Another significant reason, however, is the recent introduction of more stringent asylum procedures across Europe, with countries vying with one another in developing the most restrictive asylum policy <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>.</p>
+            <p>It is important to note that this decline does not apply to countries having recently joined the EU where asylum applications rose by 16% <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. Apart from being the first and often easiest point of arrival in the EU, these countries are also becoming increasingly prosperous and therefore more of a magnet for would-be asylum claimants. In many instances the asylum system is young and fragile, prompting moves to assist new member states in building up their capacities to receive applicants in accordance with EU standards <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>.</p>
+            <p>In 1999, the European Council decided that a common asylum policy should be implemented and established. One of the four main legal instruments adopted is the Asylum Procedure Directive <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> that ensures that all procedures throughout the EU are subject to the same minimum standards. These instruments are all aimed at levelling the asylum playing field and laying the foundation for a Common European Asylum System <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            <p>The Reception Conditions Directive adopted in 2003 attempts to harmonise the reception of asylum seekers within the EU <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. It sets out the minimum standards of reception conditions in order to ensure a dignified standard of living and comparable living conditions in all member states and to limit irregular secondary movements.</p>
+            <p>Notwithstanding the duality of motivations underpinning the Directive (on the one hand to further reduce refugee numbers, and on the other to ensure that fundamental human rights are respected), the directive has opened a debate and encouraged greater scrutiny of this contentious subject. A pertinent question arising from the Directive is whether harmonisation will lower the standard within the EU or raise all member states to an acceptable level of services currently provided in some member states. The concept of health care pertinently illustrates this dilemma and will be discussed later in the text.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Exploring the concept of health care and its application in the EU</p>
+            </st>
+            <p>One primary objective in harmonising reception standards is specifying minimum conditions for access to health care. This is a deceptively complex issue. Firstly, one should not assume a consensus on what constitutes health. The World Health Organization (WHO) states that: health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. This emphasis on mental well-being is by no means established in many health systems that are considerably more restrictive. This may mean that no mental health initiatives are included in a broad health care approach <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B12">12</abbr></abbrgrp>, or that mental health is treated as a separate issue from general health, with different (more confusing or stricter) conditions for access <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. Application of the WHO definition would help limit the ambiguity of what in fact constitutes health, and clarify responsibility (of government?).</p>
+            <p>Secondly, the concept of access is rather inadequately defined by a vague legal definition, and often confused with the right of care. Whether or not the individual possesses this right may be a gatekeeping question, but by far not the only one. Once the individual is established as being eligible, a number of issues remain pertinent to authentic access. These can be divided into several categories.</p>
+            <p>In the first category, one considers whether or not the individual can come into contact with a caregiver. This is access in the literal or logistic sense. Since access to health care is far from straightforward, a number of points need to be clarified. Is accurate information on services provided? This would include reception staff being well informed of the location and availability of care. Is there a prohibitive cost involved? Is the care accessible, particularly to those in isolated centres? Is it readily available or are there long waiting lists?</p>
+            <p>The second category of issues related to access to health care concerns the quality, efficiency, or even <it>adequacy </it>of that care. Is a secure environment offered to asylum seekers or could users feel compromised? A further point that should be raised concerning efficiency is whether or not there are adequate standards relating to care? For example, are mental health professionals sufficiently qualified to work with this population - or is good will an acceptable substitute for good practice? Is there a thorough assessment of individuals seeking assistance? Such information would provide a more coherent picture of the difficulties ex-perienced by asylum seekers. Is there a common agreement as to what approaches and interventions are appropriate, inefficient or even iatrogenic, such as the many 'debriefing' methods that are consistently being seriously disputed <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Finally, is there a systematic evaluation of the care that is offered in order to monitor and improve care? These questions are central to the concept of access and are often neglected or ignored.</p>
+            <p>A third category of issues dealing with access to health care is directly related to the EU Re-ception Conditions Directive adopted in 2003. Being a so-called framework directive, it allows for each member state to choose the form and method to achieving a stipulated end, as opposed to a regulation that is binding in detail <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. The implementation of the Directive is therefore by virtue of definition open to very general interpretations and as a result, significant policy discrepancies continue to exist between member states. For example, not all member states provide medical screening to asylum seekers upon arrival, and the degree of screening differs significantly. Mental health screening is carried out in fewer than half of EU member states, and over a third restrict access to emergency care only <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. These policies also differ according to the status assigned to the applicant (e.g. asylum seekers vs. illegal immigrants, see below). With regard to mental health care access, the problem is even more complex than for physical health care. Indeed, mental health as an often murky or undefined area has been at the mercy of the vague definitions contained in the directive. As a consequence, refugees seldom benefit from adequate access to mental health care.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Different status, different rights - refugees, asylum seekers, illegal immigrants</p>
+            </st>
+            <p>An important point of departure in addressing the question of access to care must be to dis-tinguish between the various legal definitions applying to refugees <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. Individuals often have very similar backgrounds and experiences before and during flight. However, the categories they are assigned to on arrival have legal, logistic, and social implications. For example, some individuals may obtain a work permit, others will not. Some will have the right to emergency health care only, or be obliged to stay in closed centres. Clearly such categories influence the nature and severity of difficulties they encounter in the host country, and in turn the impact on their health and well-being. Table <tblr tid="T1">1</tblr> clarifies the relevant categories, with examples of distinguishing effects these categories may have.</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Categories, Definitions and Impact relating to the Category of Refugee Assigned</p>
+               </caption>
+               <tblbdy cols="3">
+                  <r>
+                     <c ca="left">
+                        <p><b>Category</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Definition</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Impact</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Refugee</p>
+                     </c>
+                     <c ca="left">
+                        <p>Persons who "owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership in a particular social group or political opinion are outside the country of their nationality and are unable to or, owing to such fear are unwilling to avail themselves of the protection of that country" (<abbrgrp><abbr bid="B18">18</abbr></abbrgrp> p241)</p>
+                     </c>
+                     <c ca="left">
+                        <p>The reliability of the claim needs to be established by the host country, before this status can be granted. Much of this procedure proves to be highly stressful for applicants, over and above the effects and consequences of persecution endured</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Internally Displaced Persons (IDPs)</p>
+                     </c>
+                     <c ca="left">
+                        <p>Those forced to flee home and community owing to civil war or persecution, but displaced within their country of origin rather than a different country <abbrgrp><abbr bid="B19">19</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>There are currently nearly 25 million IDPs worldwide, roughly twice the total number of refugees <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. While IDPs may face the same hazardous circumstances other refugees face, they do not have the same protection offered to them. Often inaccessible to foreign aid agencies they are often more exposed to upheaval and violence</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Asylum seekers</p>
+                     </c>
+                     <c ca="left">
+                        <p>Asylum seekers are those awaiting a decision on a refugee status</p>
+                     </c>
+                     <c ca="left">
+                        <p>The asylum procedure can vary between a matter of weeks to several years. Moreover, asylum seekers do not enjoy the same rights as refugees <abbrgrp><abbr bid="B21">21</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Unaccompanied refugee minors (URM) or "mineur &#233;tranger non-accompagn&#233;" (MENA)</p>
+                     </c>
+                     <c ca="left">
+                        <p>Children with no adults accompanying them into exile</p>
+                     </c>
+                     <c ca="left">
+                        <p>URMs are subject to the same asylum procedure as adults and no special facilities are provided. In addition to surviving a foreign environment without parents, if their claim is rejected, they are left without any documentation or residence permits. Fewer than half have legal representation, and even those having legitimate asylum claims, may not apply for asylum, as they are unaware of their legal rights <abbrgrp><abbr bid="B70">70</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Recent immigrants or "Primo-arrivants"</p>
+                     </c>
+                     <c ca="left">
+                        <p>Children and adolescent refugees (or children of refugees) who are stateless or who are from developing countries and have been in the country less than one year <abbrgrp><abbr bid="B72">72</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Adjustment to school - language, peers, subjects, academic requirements - are considerable stressors for children and adolescents. New belief systems, values, present serious challenges to their adjustment. Families may be disrupted once again by new family roles and patterns <abbrgrp><abbr bid="B70">70</abbr></abbrgrp>. Because of their educational experiences and more rapid attainment language acquisition than parents, they may act as cultural liaisons for other generations <abbrgrp><abbr bid="B71">71</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>ERLs (Exceptional leave to remain) and 'B' status (temporary protected status)</p>
+                     </c>
+                     <c ca="left">
+                        <p>They are granted permission to remain in the host country only for a specific period of time</p>
+                     </c>
+                     <c ca="left">
+                        <p>Usually they are ascribed fewer rights than refugee status, for example, their access to health care is limited</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Economic migrants</p>
+                     </c>
+                     <c ca="left">
+                        <p>They leave the country of origin because of economic hardship</p>
+                     </c>
+                     <c ca="left">
+                        <p>The legality of residence for economic migrants differs from country to country, and if sanctioned, often only temporary residence is granted.</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Undocumented aliens or "sans papiers"</p>
+                     </c>
+                     <c ca="left">
+                        <p>They enter the country undeclared</p>
+                     </c>
+                     <c ca="left">
+                        <p>They possess only minimum rights and standards, and a fear of exposure will often compromise access to medical and/or educational facilities, creating a very vulnerable population.</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Failed asylum seekers</p>
+                     </c>
+                     <c ca="left">
+                        <p>They have had their application rejected and do not leave the territory as required</p>
+                     </c>
+                     <c ca="left">
+                        <p>Failed asylum seekers remaining illegally in the country will face the same conditions as sans papiers (see above).</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Forced migrants or victims of forced displacements</p>
+                     </c>
+                     <c ca="left">
+                        <p>They are those who move as a consequence of natural disasters (drought, floods, earthquakes) or famine, and whose home country cannot or will not provide protection and assistance</p>
+                     </c>
+                     <c ca="left">
+                        <p>Conditions will depend on whether or not they may make a formal asylum application (see asylum seekers) or reside undeclared (see above)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Stressors of seeking asylum</p>
+            </st>
+            <p>The refugee experience spans firstly war or repression in the country of origin, secondly flight, and thirdly seeking asylum. Each phase provides a daunting array of stress and upheaval that can damage health and well-being. Individuals face chronic danger, torture, deprivation and injury. In addition to these severely traumatic events, there are immense losses sustained at a personal, familial and community level.</p>
+            <p>Hardships experienced during flight are often more dramatic than in the country of conflict, with individuals extremely vulnerable to exploitation. Security structures are absent, and refugee camps are often rife with abuse - not least of which by 'peace keepers' themselves <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>. Extortion is common, and further losses are incurred at the hands of human traffickers and corrupt officials when trying to flee across borders. These border crossings are often gruelling and hazardous, claiming lives with notorious regularity <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>.</p>
+            <p>While harrowing events in the country of origin can certainly be traumatising and are the principal reason for the flight, current circumstances in the third phase - that of seeking asylum - play a crucial role as well. Many of these relentlessly stressful circumstances are linked to the asylum procedure itself <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. A closer look at such stressors reveals that while some are an inevitable result of the asylum process, others could perhaps be limited or avoided with greater understanding and improved resources.</p>
+            <p>Within the administrative and legal procedure itself, uncertainty and interviewing are two ma-jor stressors. An application can - and often does - take up to years before a final decision is made. While there are considerable efforts being made to 'fast track' this process (aiming to take applicants from their initial application to integration or removal in approximately 4 weeks), most member states have not integrated this procedure or have enormous backlogs. Length of the asylum procedure and insecurity have been linked to the development of psychiatric disorder <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. Ironically however, many mental health professionals refuse to commence psychotherapy with these very individuals, as they are still awaiting a decision. Ideally, psychotherapy should occur in a stable environment. Less progress can be made when individuals are in a profoundly insecure situation, or when there is little regularity or guarantee they can remain in treatment. However, asylum seekers are a vulnerable population, and can poorly afford such ideals.</p>
+            <p>With respect to interviewing, the recognition of refugee status requires an examination of the applicant's story. People are required to give a lucid and detailed account of their experiences, which in itself is harrowing. Although some form of interrogation is inevitable, there are flaws in the process that militate against the already vulnerable applicant. As most countries work with a quota (explicit or implicit), exclusion may often be a primary objective during their investigation. The accuracy and validity of people's experiences are more readily disputed, with little understanding or tolerance for the fragmented nature of traumatic memory. While the aetiology is not entirely clear, it is now commonly understood that traumatic memories are orchestrated by special mechanisms that are not involved in the processing of non-traumatic information <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. The distortion of the explicit autobiographical memory of traumatic events leads to a fragmented or inconsistent telling of the narrative of traumatic memories <abbrgrp><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. Both the manner of such interrogation and the disbelief or failure of recognition are extremely traumatic <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>.</p>
+            <p>Regarding the asylum experience more broadly, there are a number of other problems that can cause substantial psychological distress.</p>
+            <p>Unemployment: one of the core negative attributes to the asylum seeker is that he or she does not work. Moreover, employment has been recognised as a strong protective factor in mental health <abbrgrp><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>. Most countries however, prevent applicants from working for the full duration of their application. This provides further rationale for a swifter asylum procedure. It is evident that the problems and stresses associated with poverty are also bound to this issue.</p>
+            <p>Language barriers impact a variety of different areas. With respect to health, they can influence symptom reporting and referral, even resulting in incorrect diagnosis <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. The use of interpreters can solve some, if not all of these difficulties, but the necessary resources are often not available and adequate (sufficient, trained) interpreting staff is the exception and not the rule.</p>
+            <p>Culture shock: besides language, problems can include different customs, unfamiliar envi-ronment and norms. The central role of tradition is often disrupted and the normal sense of community absent.</p>
+            <p>Racism and stereotyping are daunting obstacles to overcome. Asylum seekers are often kept at a distance, or 'invisible'.</p>
+            <p>Isolation and marginalisation are pervasive problems. Although communication occurs within the group, they tend to be highly isolated from the domestic population, and mutual distrust prevails <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Reception centres, even those where asylum seekers are free to come and go, constitute tangible physical obstacles to the development of relationships between people living inside and those outside. Centres are often located in abandoned or redundant, dilapidated buildings, in isolated areas or industrial zones, poorly adapted to accommodate this population <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. In this way the centres themselves can constitute a form of 'social closure' <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>.</p>
+            <p>Social support: the quality and degree of social support has been found to be a crucial factor for an individual's well-being <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>. In Iraqi asylum seekers in London, limited or no social support was more closely related to depression, than was a history of torture. People do well or not as a function of their capacity to rebuild social networks and a sense of community <abbrgrp><abbr bid="B38">38</abbr></abbrgrp>.</p>
+            <p>These are some examples of the difficulties of the asylum setting, which in many respects provides the very antithesis of a recovery environment.</p>
+            <p>This having been said, emotional or traumatic events or stressors do not per se lead to mental impairments. Epidemiological studies show that not everyone who experiences a traumatic event develops chronic post-traumatic stress disorder (PTSD), and with exposure to a single trauma, it is the exception rather than the rule <abbrgrp><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>. Moreover, the reframing of normal distress as psychological disturbance is a distortion that ill serves the survivor <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr></abbrgrp>. Nevertheless, the number and severity of events experienced by refugees as well as the context of recovery (lack of social support, insecurity of living conditions in the asylum procedure context) could be critical factors influencing refugees' mental health.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>What is the impact of refugee experience on mental health?</p>
+            </st>
+            <p>Clinical investigations with refugees have mainly investigated elevated prevalence rates of depression, anxiety disorders, and particularly PTSD. PTSD is a disorder that arises as a protracted response (in some cases delayed) to a stressful event or situation of an exceptionally threatening or catastrophic nature, which is likely to cause pervasive distress in almost anyone <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. Among refugee samples, rates vary considerably; Kinzie et al. <abbrgrp><abbr bid="B45">45</abbr></abbrgrp> noted 50% PTSD amongst Cambodian adolescents and the highest reported rates of 94% in a clinic population of Southeast Asian refugees. Thabet and Vostanis <abbrgrp><abbr bid="B46">46</abbr></abbrgrp> revealed a 78% PTSD rate in a study of Palestinian children exposed to war trauma and in a study of fifty Bosnian male concentration camp victims, 78% were diagnosed with PTSD <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>.</p>
+            <p>In torture survivors there is a high level of depression, anxiety, and complex PTSD. According to estimates of twelve refugee centres in Western countries working with torture victims, between 5% and 35% of the refugees have been tortured <abbrgrp><abbr bid="B48">48</abbr></abbrgrp>. Witnessing torture has been noted as one of the strongest predictors of PTSD (e.g. <abbrgrp><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr><abbr bid="B51">51</abbr></abbrgrp>. In a sample of 364 displaced Bosnian children, 94% were diagnosed with PTSD, and the strongest predictor was witnessing violence to family members <abbrgrp><abbr bid="B52">52</abbr></abbrgrp>. In a further study of displaced women in Bosnia, the strongest predictor of PTSD and poor functioning was witnessing atrocities <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>.</p>
+            <p>The most frequent comorbidity reported is depression and high levels of anxiety (e.g. 85%-88% and 62%-82% respectively among Cambodian refugees and Bosnian refugees and IDPs) <abbrgrp><abbr bid="B53">53</abbr><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr></abbrgrp>. M&#233;decins Sans Fronti&#232;res Greece reported in 6,297 migrants an incidence of somatic disorders (45%), stress (29%), mood disorders (14%), and schizophrenia (7%) <abbrgrp><abbr bid="B56">56</abbr></abbrgrp>. Another study of 6,743 adult refugees from seven countries provided further evidence of psychiatric morbidity, particularly PTSD and depression with high comorbidity <abbrgrp><abbr bid="B57">57</abbr></abbrgrp>. Psychotic symptoms and suicide attempts are not unusual, although insufficiently documented <abbrgrp><abbr bid="B58">58</abbr><abbr bid="B59">59</abbr><abbr bid="B60">60</abbr></abbrgrp>. PTSD has a stronger association with suicidality than any other anxiety disorder <abbrgrp><abbr bid="B61">61</abbr><abbr bid="B62">62</abbr></abbrgrp>, and individuals with PTSD are eight times more likely to attempt suicide <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>. In addition to PTSD among refugees, other psychological effects have been noted, such as changes in memory, consciousness, identity, personality, and character <abbrgrp><abbr bid="B64">64</abbr></abbrgrp>.</p>
+            <p>Most Western health services make a sharp distinction between physical and psychological problems. In other countries such as Cambodia and Afghanistan, psychological, material, social, political, and somatic problems may not be so clearly distinguished <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B56">56</abbr></abbrgrp>. Somatic presentations such as headaches, non-specific pains or discomfort in torso and limbs, dizziness, weakness and fatigue are central to the subjective experience and communication of distress wrought by war. Somatisation was found particularly pervasive amongst refugees and victims of extreme violence <abbrgrp><abbr bid="B51">51</abbr><abbr bid="B65">65</abbr><abbr bid="B66">66</abbr><abbr bid="B67">67</abbr></abbrgrp>.</p>
+            <p>Symptoms reported by refugee children in resettlement include anxiety, recurring nightmares, insomnia, secondary enuresis, introversion, anxiety and depressive symptoms, relationship problems, behavioural problems, academic difficulties, anorexia, and somatic problems <abbrgrp><abbr bid="B71">71</abbr></abbrgrp>.</p>
+            <p>In terms of mental health repercussions, it is very difficult to isolate the exact cause, and separate the original traumatic experiences from the hardships of the refugee experience. While PTSD is likely to be linked to events in the country of origin or passage, the severity and nature of the disorder (such as delayed onset) will be heavily influenced or even precipitated by events in the host country. Depression is closely linked to the refugee experience itself. Returned exiles in Bosnia have displayed a higher incidence of depression than those who remained throughout the war <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Current circumstances play a crucial role in the development, severity and duration of psychological difficulties. Many refugees endure highly stressful current circumstances such as a new culture and insecurity (roughly 90% are refused asylum), and psychological difficulties are estimated to be present in up to two thirds of this population <abbrgrp><abbr bid="B68">68</abbr><abbr bid="B69">69</abbr></abbrgrp>. With this plethora of distressing experiences and resulting psychopathology, it is clear that refugees are a particularly vulnerable population, requiring adequate, efficient and humane care.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Access to health care: a right in practice?</p>
+            </st>
+            <p>While the EU Directive clearly asserts the right of asylum seekers to health care - and indeed where most European countries comply - adequate health care in practise remains an elusive pursuit. It is clear that the concept of access needs to be expanded beyond a cosmetic nod to legal rights. A brief look at health care for asylum seekers in Belgium reveals some of the failures and illustrates the complexity of the problem.</p>
+            <p>To begin with, knowledge about access to mental health care services is very limited. Systematic, published studies on the use of health care services and the barriers faced are very scarce. Most literature focuses on infectious disease such as HIV/AIDS, tuberculosis and hepatitis (facilitated by the routine medical screening for these diseases that almost all member states require on entry <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>). This is a poor point of departure to ensuring adequate access, and needs to be addressed.</p>
+            <p>Almost half of the member states have legal restrictions to general health care for asylum seekers and apply varying degrees of 'minimum standards' <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. While Belgium offers subsidised general health care to asylum seekers (and here the distinction between general and mental health care mentioned above certainly applies), mental health care is not included in national health insurance, and is reserved to mental health centres. These do not even meet the needs of the general population, where long waiting lists apply. For non-nationals, mental health care is far harder to come by. With respect to illegal immigrants or 'sans papiers', the restrictions are even greater. In many instances asylum seekers are only entitled to emergency health care - another concept that in Belgium is poorly defined and therefore left to the discretion of individual institutions and practitioners.</p>
+            <p>In practice, access can be viewed as a process, where three different aspects have been identified. A first relates to the availability of the mental health care itself and is thus the basic step toward mental health access. A second is related to the content of the mental health care that can be provided when the care is available. The content aspect thus deals with the type of problems presented by this population and therapeutic interventions that are (or not) provided. A third aspect should be there as a minimum standard and relates to the scientific evaluation of the mental health care provided, and in particular its efficacy. Logically, this third aspect of access cannot be present if the two previous ones are not initially present.</p>
+            <sec>
+               <st>
+                  <p>1. Availability of mental health care</p>
+               </st>
+               <p>Psychologists and psychiatrists are not employed at refugee reception centres. These reception centres are often situated in remote environments (in the countryside, in industrial zones), isolating asylum seekers from general mental health centres.</p>
+               <p>There are but a handful of mental health centres who cater specifically for refugees, and other mental health centres may or may not agree to offer psychological assistance (as opposed to psychosocial support and advice). The offer is clearly inadequate, although some moves are being made to address the issue.</p>
+               <p>If and when such centres are found, waiting lists are between 6 to 9 months. In reality, asylum seekers may have to choose between prompt private care or subsidised care that requires a long wait - a clear discrepancy between what is offered and what is available. In this respect it can be argued that timely intervention is viewed as some sort of bonus, rather than a precondition for humane and efficient care.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>2. The nature or content of mental health care</p>
+               </st>
+               <p>Formal assessment and diagnoses are seldom made due to the limited facilities, and some-times the theoretical background of the practitioner. Thus, data on the incidence and type of dysfunction in this population are sadly lacking. It goes without saying that such information is crucial to addressing the problem.</p>
+               <p>Many therapists refuse to engage in any formal or systematic psychotherapy until such time as refugee status is acquired. They do not know if or when the applicant will be forced to return home; it is an insecure environment and attendance is often irregular. Aid is more often in the form of supportive psychosocial intervention and psycho-education, even with individuals who clearly manifest the presence of psychiatric disorders. This palliative care clearly does not meet the needs of many asylum seekers and moreover places a heavy burden on staff at reception centres that are left to deal with very troubled individuals and a range of distressing or disturbing behaviour.</p>
+               <p>Asylum seekers may be exposed to an insecure or compromised therapeutic environment. At Fedasil (Federal Agency for the Reception of Asylum Seekers) psychologists have been required both to assess the needs of asylum seekers and assist the legal department in processing the asylum request, largely by clarifying details of their claims. This is a context that cannot inspire confidence and trust on the part of the asylum seekers.</p>
+               <p>There is little or no harmonising of psychotherapeutic approaches or interventions within mental health centres, and certainly not between different centres. While there are informal exchanges between mental health professionals, there is no formal consensus on what should be offered, and no overarching authority requiring or even encouraging such consensus.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>3. Systematic monitoring and assessment of mental health care</p>
+               </st>
+               <p>There is virtually no assessment or evaluation of the baseline psychosocial care that is offered. Most mental health professionals face clinical overload and have neither the time nor the resources for any form of systematic evaluation and dissemination of their practice.</p>
+               <p>There are virtually no formal networks encouraging exchange or collaboration between re-searchers in academic institutions and practitioners. This would facilitate reliable evaluation and dissemination, advance innovative exploration of pertinent issues emerging from practice, and sensitise and encourage students to pursue research on relevant and pressing issues.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>The Asylum Conditions Directive has fallen short of providing clear guidelines, and encourag-ing, implementing, or overseeing significant progress in establishing minimum standards for the reception of asylum seekers. The conflicting motivations behind this directive and vying political interests on asylum seekers will also complicate and compromise best practice in health care. Psychological and psychiatric interventions should be adapted to meet the specific needs of refugees, and not visa versa. This requires a systematic research and exploration, not within the realm or means of most reception or mental health centres. Efforts to ensure adequate reception standards should therefore include initiating, disseminating and supporting such investigation.</p>
+         <p>The formal procedures to harmonise and create adequate standards of care however do not occur in a vacuum. Many health care workers go to great lengths to ensure high standards of practice. Regrettably much of this work is being carried out by isolated individuals, professional groups or service providers, without much coordination or contact with each other. The result is that each discipline may illuminate some aspect of the puzzle, but none is concerned with the big picture. The same fragmentation of effort can be observed between countries where people struggle to reinvent the wheel, in relative ignorance of what is going on in the rest of Europe <abbrgrp><abbr bid="B52">52</abbr></abbrgrp>. There is an urgent need for international and multidisciplinary cooperation to promote the sharing and exchange of knowledge and expertise on migrant health. This cannot occur however, without the guidance and application of a coherent and secure European framework.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>United Nations High Commissioner for Refugees (UNHCR). 2004 Global Refugee Trends</p>
+            </title>
+            <note>[Cited 2006 Sept 12} Available from UNHCR website. <url>http://www.unhcr.org/statistics</url></note>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Access to health care for asylum seekers in the European Union - a comparative study of country policies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Norredam</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mygind</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Krasnik</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Eur J Pub Health</source>
+            <pubdate>2006</pubdate>
+            <volume>16</volume>
+            <fpage>285</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1093/eurpub/cki191</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>UNHCR Asylum Levels and Trends in Industrialized Countries, March 2006</p>
+            </title>
+            <note>[Cited 2006 Sept 12] Available from UNHCR website. <url>http://www.unhcr.org/statistics</url></note>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Mental health and social care for asylum seekers and refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ingleby</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Watters</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Forced migration and mental health: rethinking the care of migrants and displaced persons</source>
+            <publisher>New York: Springer</publisher>
+            <editor>Ingelby D</editor>
+            <pubdate>2005</pubdate>
+            <fpage>193</fpage>
+            <lpage>211</lpage>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Belgium's immigration policy brings renewal and challenges</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martiniello</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rea</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <pubdate>2003</pubdate>
+            <note>[Cited 2006 Apr 3] Available from Migration Information Source website. <url>http://www.migrationinformation.org/Profiles/display.cfm?ID=164</url></note>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>EU sees sharp drop in asylum applications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Oezcan</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <pubdate>2004</pubdate>
+            <note>[Cited 2006 Apr 4] Available from Migration Information Source website. <url>http://www.migrationinformation.org/Feature/display.cfm?ID=218</url></note>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>European Union (EU. Official Journal of the European Union (Acts whose publication is obligatory). Council Regulation: Dublin Regulation (343/2003/EC)</p>
+            </title>
+            <pubdate>2003</pubdate>
+            <note>[Cited 2006 Nov 9] Available from <url>http://eur-lex.europa.eu/LexUriServ/site/en/oj/2003/l_050/l_05020030225en00010010.pdf</url></note>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Official Journal of the European Union (Acts whose publication is obligatory). Council Regulation: Reception Conditions Directive (2003/9/EC)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>EU</cnm>
+               </au>
+            </aug>
+            <pubdate>2003</pubdate>
+            <note>[Cited 2006 Nov 9] Available from <url>http://eur-lex.europa.eu/LexUriServ/site/en/oj/2003/l_031/l_03120030206en00180025.pdf</url></note>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Official Journal of the European Union (Acts whose publication is obligatory). Council Regulation: Council Qualification Directive (2004/83/EC)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>EU</cnm>
+               </au>
+            </aug>
+            <pubdate>2004</pubdate>
+            <note>[Cited 2006 Nov 9] Available from <url>http://europa.eu.int/eur-lex/pri/en/oj/dat/2004/l_304/l_30420040930en00120023.pdf</url></note>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Official Journal of the European Union (Acts whose publication is obligatory). Council Regulation: Asylum Procedure Directive (2005/85/EC)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>EU</cnm>
+               </au>
+            </aug>
+            <pubdate>2005</pubdate>
+            <note>[Cited 2006 Nov 9] Available from <url>http://eur-lex.europa.eu/LexUriServ/site/en/oj/2005/l_326/l_32620051213en00130034.pdf</url></note>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Constitution of the World Health Organization</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>World Health Organisation (WHO)</cnm>
+               </au>
+            </aug>
+            <source>Geneva</source>
+            <pubdate>1964</pubdate>
+            <note>[Cited 2006, Oct 30] Available from WHO website. <url>http://www.who.int/mediacentre/factsheets/fs220/en/</url></note>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Le travail des professionnels avec les enfants et les familles primo-arrivantes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Manco</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>petit</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Born</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Le Cahiers du Fonds Houtman</source>
+            <pubdate>2006</pubdate>
+            <note>[Cited 2006 May 20] Available from Fonds Houtman website. <url>http://fondshoutman.be/cahiers/02_012006/html-n/index.html</url></note>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Platform for International Cooperation on Undocumented Migrants (PICUM) Healthcare for undocumented migrants</p>
+            </title>
+            <source>Report from International Experts Seminar on Health Care, Brussels 2001 March. Antwerp</source>
+            <pubdate>2001</pubdate>
+            <fpage>22</fpage>
+            <lpage>33</lpage>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Formation Accompagnement Psychosocial et Th&#233;rapeutique des Demandeurs d'Asile</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>Croix Rouge de Belgique</cnm>
+               </au>
+            </aug>
+            <source>Fonds Europ&#233;en pour les R&#233;fugies (FER), University of Charleroi</source>
+            <pubdate>2006</pubdate>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>The current status of psychological debriefing: It may do more harm than good</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kenardy</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>[Editorial] BMJ</source>
+            <pubdate>2000</pubdate>
+            <volume>321</volume>
+            <fpage>1032</fpage>
+            <lpage>3</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bmj.321.7268.1032</pubid>
+                  <pubid idtype="pmcid">1118833</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11053152</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Psychological debriefing for preventing posttraumatic stress disorder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rose</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bisson</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Churchill</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wessely</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <note>[Cited 2007 Nov 14]. Available from The Cochrane Database of Systematic Reviews 2007:1 <url>http://www.cochrane.org/reviews/en/ab000560.html</url></note>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Refugees: Risks and challenges worldwide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stanton Russell</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Migration Information Source</source>
+            <pubdate>2002</pubdate>
+            <note>[Cited 2006 April 4]. Available from the Migration Information website: <url>Http://www.migrationinformation.org/Feature/display.cfm?ID=64</url></note>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Mental health of refugees and asylum seekers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tribe</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Advances in Psychiatric Treatment</source>
+            <pubdate>2002</pubdate>
+            <volume>8</volume>
+            <fpage>240</fpage>
+            <lpage>8</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1192/apt.8.4.240</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Guiding Principles on Internal Displacement. Report E/CN.4/1998/53/Add.2</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>United Nations (UN), Commission on Human Rights</cnm>
+               </au>
+            </aug>
+            <pubdate>1998</pubdate>
+            <note>[Cited 2006 April 4] Available from UN website: <url>http://www.unhchr.ch/Huridocda/Huridoca.nsf/0/d2e008c61b70263ec125661e0036f36e?Opendocument</url></note>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Statistical overview of populations of refugees, asylum seekers, internally displaced persons stateless persons and other persons of concern to UNHCR</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>United Nations High Commissioner for Refugees (UNHCR) Global Refugee Trends</cnm>
+               </au>
+            </aug>
+            <pubdate>2005</pubdate>
+            <note>[Cited 2006 September] Available from UNHCR website: <url>http://www.unhcr.org/statistics/STATISTICS/4486ceb12.pdf</url></note>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Report on Legal conditions for Asylum Seekers: Belgium</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>European Council on Refugees and Exiles (ECRE)</cnm>
+               </au>
+            </aug>
+            <pubdate>2000</pubdate>
+            <note>Available from ECRE website <url>http://www.ecre.org/conditions/2000/belgium.shtml</url></note>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>The state of mental health in Europe. Working Group Migration and mental health in Europe. Appendix 1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Carta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bernal</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hardoy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Haro-Abad</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Clinical Practice and Epidemiology in Mental Health</source>
+            <pubdate>2005</pubdate>
+            <volume>1</volume>
+            <fpage>13</fpage>
+            <note>[Cited 2006 Oct 13] Available from: <url>http://www.cpementalhealth.com/content/1/1/13</url></note>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1745-0179-1-13</pubid>
+                  <pubid idtype="pmcid">1236945</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16135246</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>United Nations (UN) Sexual exploitation and sexual abuse in peacekeeping personnel conduct issues. Report to the General Assembly Resolution 59/296</p>
+            </title>
+            <pubdate>2006</pubdate>
+            <note>[Cited 2007 Jan] Available from <url>http://daccessdds.un.org/doc/UNDOC/GEN/N06/360/52/PDF/N0636052.pdf?OpenElement</url></note>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Must Boys Be Boys? Ending Sexual Exploitation &amp; Abuse in UN Peacekeeping Missions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Report</source>
+            <pubdate>2005</pubdate>
+            <note>[Cited 2007 Jan 14] Available from Refugees International website. <url>http://www.refugeesinternational.org/files/6976_file_FINAL_MustBoys.pdf</url></note>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>ECRE Border controls</p>
+            </title>
+            <source>Factsheet</source>
+            <pubdate>2006</pubdate>
+            <note>[Cited 2007 Jan 6] Available from the ECRE website <url>http://www.who.int/mediacentre/factsheets/fs220/en/</url></note>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>New paradigms for refugee health problems</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mueke</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Soc Sci Med</source>
+            <pubdate>1992</pubdate>
+            <volume>35</volume>
+            <issue>4</issue>
+            <fpage>515</fpage>
+            <lpage>23</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0277-9536(92)90344-P</pubid>
+                  <pubid idtype="pmpid">1519104</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Psychiatric Morbidity in survivors of organised state violence including torture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ramsay</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gorst-Unsworth</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Turner</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Br J Psychiatry</source>
+            <pubdate>1993</pubdate>
+            <volume>162</volume>
+            <fpage>55</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1192/bjp.162.1.55</pubid>
+                  <pubid idtype="pmpid">8425140</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Consequences of rape for women's health and well-being, family and society</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Women in an insecure world: a handbook on violence against women</source>
+            <publisher>Geneva: DCAF (Democratic Control of the Armed Forces)</publisher>
+            <editor>Vlachova M, Biason L</editor>
+            <pubdate>2005</pubdate>
+            <fpage>162</fpage>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Questions of credibility: omissions, discrepancies and errors in the testimony of asylum seekers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>International Journal of Refugee Law</source>
+            <pubdate>2002</pubdate>
+            <volume>3</volume>
+            <fpage>293</fpage>
+            <lpage>309</lpage>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>On the veracity and variability of traumatic memory. The International Electronic Journal of Innovations in the Study of the Traumatisation Process and Methods for Reducing or Eliminating Related Human Suffering</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jacobs</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Laurence</snm>
+                  <fnm>HE</fnm>
+               </au>
+               <au>
+                  <snm>Thomas</snm>
+                  <fnm>KGF</fnm>
+               </au>
+               <au>
+                  <snm>Luzcak</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Nadel</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Traumatology</source>
+            <pubdate>1996</pubdate>
+            <note>[On-Line] 2,2. Available: <url>http://rdz.stjohns.edu/trauma/art3v2i2.html</url></note>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>A cognitive model of posttraumatic stress disorder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ehlers</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>DM</fnm>
+               </au>
+            </aug>
+            <source>Behav Res Ther</source>
+            <pubdate>2000</pubdate>
+            <volume>38</volume>
+            <fpage>319</fpage>
+            <lpage>45</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0005-7967(99)00123-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10761279</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Normal memory versus traumatic memory formation: does traumatic stress Damage the brain?</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>McPherson-Sexton</cnm>
+               </au>
+            </aug>
+            <source>Journal of Police Crisis Negotiations</source>
+            <pubdate>2006</pubdate>
+            <volume>6.2</volume>
+            <fpage>65</fpage>
+            <lpage>78</lpage>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Behandeling van PTSS bij asielzoekers in relatie tot de asielprocedure. Report: Reactie van Pharos, kenniscentrum vluchtelingen and gezondheid, op verzoek van de kamerleden de Vries, Vos en de Wit over de behandeling van PTSS bij asielzoekers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bloemen</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <pubdate>2006</pubdate>
+            <note>[Cited 2006 Sept 13] Available on Pharos website: <url>www.pharos.nl/act/docsTKmei2006.pdf</url></note>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Bosnia and Herzegovina and Croatia: the medicalisation of the experience of war</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Summerfield</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>1999</pubdate>
+            <volume>354</volume>
+            <fpage>771</fpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10475212</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>The nature and extent of war trauma and the psychological repercussions on female civilians: a contribution to a broader understanding of the effects of prolonged and repeated trauma, within the cultural and contextual restraints of a post-conflict society</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <publisher>[Unpublished doctoral thesis] Brussels: Universit&#233; Libre de Bruxelles</publisher>
+            <pubdate>2002</pubdate>
+            <fpage>38</fpage>
+            <lpage>43</lpage>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>French-speaking Belgians and the asylum seekers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gsir</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Scandella</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Martiniello</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rea</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Belgian Science Policy</source>
+            <pubdate>2004</pubdate>
+            <note>[Cited 2006 Oct 13]. Available from the Belgian Science Policy website. <url>http://www.belspo.be/belspo/home/publ/pub_ostc/SoCoh/rSO11041_en.pdf</url></note>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Social psychology and health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stroebe</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Stroebe</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <publisher>Buckingham, PA: Open University Press</publisher>
+            <pubdate>1995</pubdate>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Legacy of War: Beyond "Trauma" to the Social Fabric</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Summerfield</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>1997</pubdate>
+            <volume>349</volume>
+            <fpage>1568</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(05)61627-3</pubid>
+                  <pubid idtype="pmpid">9174557</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Factors related to long-term traumatic stress responses in survivors of torture in Turkey</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Basoglu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Paker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ozmen</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Tasdemir</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Sahin</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>JAMA</source>
+            <pubdate>1994</pubdate>
+            <volume>272</volume>
+            <fpage>357</fpage>
+            <lpage>63</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/jama.1994.03520050037027</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8028166</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Meta analysis of risk factors for posttraumatic stress disorder in trauma-exposed adults</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brewin</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Andrews</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Valentine</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>J Consult Clin Psychol</source>
+            <pubdate>2000</pubdate>
+            <volume>68</volume>
+            <fpage>748</fpage>
+            <lpage>66</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11068961</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Posttraumatic stress disorder in the National Comorbidity Survey</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kessler</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Sonnega</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bromet</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hughes</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>CB</fnm>
+               </au>
+            </aug>
+            <source>Arch Gen Psychiatry</source>
+            <pubdate>1995</pubdate>
+            <volume>199</volume>
+            <issue>52</issue>
+            <fpage>1048</fpage>
+            <lpage>60</lpage>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>War and mental health: a brief overview</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Summerfield</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>BMJ</source>
+            <pubdate>2000</pubdate>
+            <volume>321</volume>
+            <fpage>232</fpage>
+            <lpage>5</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bmj.321.7255.232</pubid>
+                  <pubid idtype="pmcid">1118225</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10903662</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Refugee Net. Good practice. Guide on the integration of refugees in the EU: Health</p>
+            </title>
+            <source>ECRE Task force on Integration</source>
+            <pubdate>2000</pubdate>
+            <note>[Cited 2006 Nov 14] Available on Refugee Net website: <url>http://www.refugeenet.org/pdf/health_guide.pdf</url></note>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Diagnostic and Statistical Manual of Mental Disorders (Fourth Edition) 1994</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>American Psychiatric Association</cnm>
+               </au>
+            </aug>
+            <source>Posttraumatic Stress Disorder</source>
+            <fpage>424</fpage>
+            <lpage>32</lpage>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>The prevalence of posttraumatic stress disorder and its clinical significance among South East Asian refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kinzie</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Boehnlein</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Leung</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Riley</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Am J Psychiatry</source>
+            <pubdate>1990</pubdate>
+            <volume>147</volume>
+            <fpage>913</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">2356877</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Post-traumatic stress reactions in children of war. Cited in Kessler, R.C. Post-traumatic stress disorder: The burden to the individual and to society</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thabet</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Vostanis</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Clin Psychiatry</source>
+            <pubdate>2000</pubdate>
+            <volume>61</volume>
+            <issue>5</issue>
+            <fpage>4</fpage>
+            <lpage>12</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">10926049</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Follow-up Study of Concentration Camp Survivors from Bosnia- Herzegovina: Three Years Later</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Drozdek</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>J Nerv Ment Dis</source>
+            <pubdate>1997</pubdate>
+            <volume>185</volume>
+            <issue>11</issue>
+            <fpage>690</fpage>
+            <lpage>4</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005053-199711000-00007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9368546</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Psychosocial consequences for tortured refugees seeking asylum and refugee status in Europe</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Baker</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Torture and its Consequences: Current Treatment Approaches</source>
+            <publisher>Cambridge: Cambridge University Press</publisher>
+            <editor>Basoglu M</editor>
+            <pubdate>1992</pubdate>
+            <fpage>83</fpage>
+            <lpage>106</lpage>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>The psychosocial effects of torture, mass human rights violations, and refugee trauma: Toward an integrated conceptual framework</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Silove</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Nerv Ment Dis</source>
+            <pubdate>1999</pubdate>
+            <volume>187</volume>
+            <issue>4</issue>
+            <fpage>200</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005053-199904000-00002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10221552</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>War Zone Traumas and PTSD Symptomatology</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fontana</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rosenheck</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brett</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Nerv Ment Dis</source>
+            <pubdate>1992</pubdate>
+            <volume>180</volume>
+            <issue>12</issue>
+            <fpage>748</fpage>
+            <lpage>55</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005053-199212000-00002</pubid>
+                  <pubid idtype="pmpid">1469372</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Patterns of symptomatology and patterns of torture and trauma experiences in resettled refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cunningham</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cunningham</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>Aust N Z J Psychiatry</source>
+            <pubdate>1997</pubdate>
+            <volume>31</volume>
+            <fpage>555</fpage>
+            <lpage>65</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/00048679709065078</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9272266</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>War Experiences and Distress Symptoms of Bosnian Children</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Goldstein</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wampler</snm>
+                  <fnm>NS</fnm>
+               </au>
+               <au>
+                  <snm>Wise</snm>
+                  <fnm>PH</fnm>
+               </au>
+            </aug>
+            <source>Paediatrics</source>
+            <pubdate>1997</pubdate>
+            <volume>100</volume>
+            <issue>5</issue>
+            <fpage>873</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1542/peds.100.5.873</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Psychotherapy of the victims of massive violence: countertransference and ethical issues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kinzie</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Boehnlein</snm>
+                  <fnm>JK</fnm>
+               </au>
+            </aug>
+            <source>Am J Psychotherapy</source>
+            <pubdate>1993</pubdate>
+            <volume>47</volume>
+            <issue>1</issue>
+            <fpage>90</fpage>
+            <lpage>102</lpage>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>The psychosocial impact of war trauma and torture on Southeast Asian refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mollica</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Wyshak</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Lavelle</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Am J Psychiatry</source>
+            <pubdate>1987</pubdate>
+            <volume>144</volume>
+            <issue>12</issue>
+            <fpage>1567</fpage>
+            <lpage>72</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">3688280</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Psychiatric Morbidity in survivors of organised state violence including torture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ramsay</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gorst-Unsworth</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Turner</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Br J Psychiatry</source>
+            <pubdate>1993</pubdate>
+            <volume>162</volume>
+            <fpage>55</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1192/bjp.162.1.55</pubid>
+                  <pubid idtype="pmpid">8425140</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>The role of health integration in Foneseca, M and Malheiros J (Eds) Social Education and mobility: education, housing and health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ingleby</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Chimienti</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hatziprokopiou</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Ormond</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>De Freitas</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>IMISCOE Cluster B5 State of the art report. Estudos para o Planeamento Regional e Urbano</source>
+            <pubdate>2005</pubdate>
+            <volume>67</volume>
+            <fpage>88</fpage>
+            <lpage>119</lpage>
+            <note>[Cited 2007 Jan]. Available from: <url>http://www.mah.se/upload/IMER/Forskning/Seminars_David_Ingleby.pdf</url></note>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Prevalence of serious mental disorder in 7000 refugees resettled in western countries. A systematic review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fazel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wheeler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Danesh</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2005</pubdate>
+            <volume>365</volume>
+            <issue>9467</issue>
+            <fpage>1309</fpage>
+            <lpage>14</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(05)61027-6</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15823380</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>Multiple rape trauma followed by delusional parasitosis: A case report from the Bosnian war</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Oruc</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Schizophr Res</source>
+            <pubdate>1995</pubdate>
+            <volume>16</volume>
+            <fpage>173</fpage>
+            <lpage>4</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0920-9964(95)00039-O</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7577772</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>Psychotic symptoms in post-traumatic stress disorder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ivezic</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Oruc</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Mil Med</source>
+            <pubdate>1999</pubdate>
+            <volume>164</volume>
+            <issue>1</issue>
+            <fpage>73</fpage>
+            <lpage>5</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9922651</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Psychotic symptoms and comorbid psychiatric disorders in Croatian combat-related posttraumatic stress disorder patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ivezic</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bagaric</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Oruc</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Mimica</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ljubin</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Croat Med J</source>
+            <pubdate>2000</pubdate>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>179</fpage>
+            <lpage>83</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10853048</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>Post-traumatic stress disorder: The burden to the individual and to society</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kessler</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>J Clin Psychiatry</source>
+            <pubdate>2000</pubdate>
+            <volume>61</volume>
+            <issue>5</issue>
+            <fpage>4</fpage>
+            <lpage>12</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">10926049</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B62">
+            <title>
+               <p>Comorbidity of psychiatric disorders and posttraumatic stress disorder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brady</snm>
+                  <fnm>KT</fnm>
+               </au>
+               <au>
+                  <snm>Killeen</snm>
+                  <fnm>TK</fnm>
+               </au>
+               <au>
+                  <snm>Brewerton</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Lucerini</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Clin Psychiatry</source>
+            <pubdate>2000</pubdate>
+            <volume>61</volume>
+            <issue>7</issue>
+            <fpage>22</fpage>
+            <lpage>32</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">11041381</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B63">
+            <title>
+               <p>Diagnostic issues in posttraumatic stress disorder: considerations for the DSM-iv</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Davidson</snm>
+                  <fnm>JRT</fnm>
+               </au>
+               <au>
+                  <snm>Foa</snm>
+                  <fnm>EB</fnm>
+               </au>
+            </aug>
+            <source>J Abnorm Psychol</source>
+            <pubdate>1991</pubdate>
+            <volume>100</volume>
+            <issue>3</issue>
+            <fpage>346</fpage>
+            <lpage>55</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">1918613</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B64">
+            <title>
+               <p>Psychiatric consequences of "Ethnic Cleansing": Clinical assessments and trauma testimonies of newly resettled Bosnian refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Weine</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Becker</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>McGlashan</snm>
+                  <fnm>TH</fnm>
+               </au>
+               <au>
+                  <snm>Laub</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lazrove</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vojvoda</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hyman</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Am J Psychiatry</source>
+            <pubdate>1995</pubdate>
+            <volume>152</volume>
+            <fpage>536</fpage>
+            <lpage>42</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">7694901</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B65">
+            <title>
+               <p>Overview: The assessment and diagnosis of torture events and symptoms</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mollica</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Caspi-Yavin</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Torture and its Consequences. Current Treatment Approaches</source>
+            <publisher>Cambridge: Cambridge University Press</publisher>
+            <editor>Basoglu M</editor>
+            <pubdate>1992</pubdate>
+            <fpage>253</fpage>
+            <lpage>74</lpage>
+         </bibl>
+         <bibl id="B66">
+            <title>
+               <p>Vulnerability-stress factors in the development of posttraumatic stress disorder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Resnick</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Kilpatrick</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Best</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Kramer</snm>
+                  <fnm>TL</fnm>
+               </au>
+            </aug>
+            <source>J Nerv Ment Dis</source>
+            <pubdate>1992</pubdate>
+            <volume>180</volume>
+            <issue>7</issue>
+            <fpage>424</fpage>
+            <lpage>30</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005053-199207000-00004</pubid>
+                  <pubid idtype="pmpid">1624923</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B67">
+            <title>
+               <p>Complex PTSD: A syndrome in survivors of prolonged and repeated trauma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Herman</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>J Trauma Stress</source>
+            <pubdate>1992</pubdate>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>377</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1002/jts.2490050305</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B68">
+            <title>
+               <p>Politieke vluchtelingen - Psychische problemen en gevolgen van onderdrukking en ballingschap</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van der Veer</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Nijkerk: Intro</source>
+            <pubdate>1988</pubdate>
+            <fpage>13</fpage>
+         </bibl>
+         <bibl id="B69">
+            <title>
+               <p>Health needs of asylum seekers and refugees</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Burnett</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Peel</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>BMJ</source>
+            <pubdate>2001</pubdate>
+            <volume>322</volume>
+            <fpage>544</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bmj.322.7285.544</pubid>
+                  <pubid idtype="pmcid">1119741</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11230074</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B70">
+            <title>
+               <p>The National Child Traumatic Stress Network. Review of Child and Adolescent Refugee Mental Health: White Paper from the NCTSN Refugee Trauma Task Force</p>
+            </title>
+            <pubdate>2003</pubdate>
+            <note>Available from <url>http://www.nctsnet.org/nctsn_assets/pdfs/reports/refugeereview.pdf</url></note>
+         </bibl>
+         <bibl id="B71">
+            <title>
+               <p>Acculturation gap and family adjustment: Findings with Soviet Jewish refugees in the United States and implications for measurement</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Birman</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Cross Cult Psychol</source>
+            <pubdate>2006</pubdate>
+            <volume>37</volume>
+            <issue>5</issue>
+            <fpage>568</fpage>
+            <lpage>89</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1177/0022022106290479</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B72">
+            <title>
+               <p>Newly immigrant adolescents' health and quality of life in Belgium: screening and prevention in school medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Renard</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cueva</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Deccache</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Arch Pediatr</source>
+            <pubdate>2005</pubdate>
+            <volume>12</volume>
+            <issue>10</issue>
+            <fpage>1471</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.arcped.2005.06.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16084075</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

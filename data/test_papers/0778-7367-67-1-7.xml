@@ -1,0 +1,1348 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-1-7</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Progression and improvement after mild cognitive impairment</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Buntinx</snm>
+               <fnm>F</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Frank.buntinx@med.kuleuven.be</email>
+            </au>
+            <au id="A2">
+               <snm>Paquay</snm>
+               <fnm>L</fnm>
+               <insr iid="I1"/>
+            </au>
+            <au id="A3">
+               <snm>Ylieff</snm>
+               <fnm>M</fnm>
+               <insr iid="I3"/>
+            </au>
+            <au id="A4">
+               <snm>De Lepeleire</snm>
+               <fnm>J</fnm>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of General Practice, Catholic University of Leuven, Belgium</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of General Practice, Research Institute Caphri, University of Maastricht, the Netherlands</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Aging Psychology, University of Li&#232;ge, Belgium</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>1</issue>
+         <fpage>7</fpage>
+         <lpage>14</lpage>
+         <url>http://www.archpublichealth.com/content/67/1/7</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-1-7</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>4</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Buntinx et al.</collab>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Objective</p>
+               </st>
+               <p>We studied progression to dementia and improvement rates of mild cognitive impairment (MCI) to help clinicians decide whether or not to screen older people for MCI.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Method</p>
+               </st>
+               <p>Prospective cohort study in which 156 vulnerable patients with (n = 24) and without (n = 132) MCI are followed and reassessed after two years with MMSE and Camdex.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Nine (38%) out of 24 patients initially diagnosed with MCI and 20 (15%) out of 132 considered normal or depressed progressed to dementia within two years. This results in a relative risk of progression of 2.48 (95% confidence interval = 1.29-4.77), a sensitivity of 31%</p>
+               <p>(95%CI = 16-51) and a predictive value of 38% (95%CI = 20-59). Out of 24 people with MCI at baseline, 8 (33%; 95%CI = 16-55) had improved at follow-up.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusion</p>
+               </st>
+               <p>The low sensitivity of MCI for subsequent occurrence of dementia and the high improvement rate found in our study as well as by others, and the absence of a proven therapy, provide cumulative evidence against screening for MCI.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Mild cognitive impairment or MCI is a construct that has progressively emerged during the last ten years. Initially, it was called benign senescence forgetfulness <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, age-associated memory impairment <abbrgrp><abbr bid="B2">2</abbr></abbrgrp> and age-associated cognitive decline <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>, terms that relate to normal ageing. It was first extensively described in its current meaning by Petersen et al. in 1999 and revised by the same group in 2004 as a construct describing people with subjective as well as objective cognitive impairment and decline, with minimal decline in functional activities and without compliance with the criteria for dementia <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. The criteria now distinguish between amnestic and non-amnestic forms of MCI, the latter including non-memory deficits and impairment in several cognitive domains <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. During the 2005 international conference of Alzheimer's Disease International in Istanbul the discussion whether MCI is a "real" disease, only a stage on a continuous scale or even a temporary occurrence played a central role. Important arguments in favour of labelling MCI as a diagnostic category would be a high predictive value for the subsequent emergence of dementia, a reasonable (say above 66%) sensitivity and an improvement rate that is negligible. If these criteria are met, the construct can be helpful for primary care physicians and screening would be advisable. If not, the construct may have value for research purposes, but not for clinical work.</p>
+         <p>A number of studies have been performed to describe MCI's predictive value for dementia compared to cognitively normal people in both clinical and population based cohorts. The progression rate in MCI patients is quite stable in clinical samples (12% per year against around 1% in normal controls) as recently reviewed by Petersen <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, but far more heterogeneous in community samples (11-53% after between 1 and 3 years) <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. The progression rate has been found to be twice as high <abbrgrp><abbr bid="B13">13</abbr></abbrgrp> or similar <abbrgrp><abbr bid="B14">14</abbr></abbrgrp> when people with MCI and depression were compared to people with MCI only. It was three times higher (34% versus 11%) in people with MCI plus anxiety compared to MCI only <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>.</p>
+         <p>An argument against the construct is the finding that in different studies after 18 to 60 months 24-42% MCI patients improved in cognitive functioning <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>.</p>
+         <p>We therefore used our data, which were collected during a two-year prospective study in vul-nerable older people <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>, to estimate both the progression rate and the improvement rate of patients that were diagnosed with MCI at baseline.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Patients and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Design</p>
+            </st>
+            <p>We set up a prospective cohort study in which patients that were diagnosed with MCI at baseline using CAMDEX assessment <abbrgrp><abbr bid="B18">18</abbr></abbrgrp> were followed during a period of two years (reassessment after one and two years) for the emergence of dementia and compared with a control sample of people with neither MCI nor dementia at baseline. Additionally, the number of patients with an initial MCI diagnosis that improved after one or two years was identified.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Patients</p>
+            </st>
+            <p>Subjects were recruited from the longitudinal Qualidem II study. In the Qualidem study, 4450 vulnerable patients above age 65 were registered by their professional carers <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. After informed consent was obtained, they were tested using the Katz scale of ADL, the Lawton scale of IADL and the FRAIL scale of frailty. People with at least one score above the agreed cut-points were subsequently tested with the Mini-Mental State Exam <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. If the MMSE was below 24, the final diagnosis was obtained by a CAMDEX assessment. All tests were performed by experienced researchers. The CAMDEX assessment was supervised by an expert in the field. At each stage, a control group was randomly sampled from the test negative people. Patients were partly nursing home residents (n = 86) and partly community dwelling people (n = 70).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Definitions</p>
+            </st>
+            <p>Dementia: people with a dementia diagnosis based on a CAMDEX assessment. No attempt was made to classify demented patients in subgroups according to cause of the dementia.</p>
+            <p>Cognitively normal: people labelled as normal after a CAMDEX assessment or with a MMSE > 23 and (therefore) no further CAMDEX assessment.</p>
+            <p>MCI: was diagnosed according to the operational criteria of Petersen et al. <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>: abnormal memory performance, corroborated by an informant who knows the subject well, while normal general cognitive performance and no significant functional deficit.</p>
+            <p>Depression: patients labelled with depression on the basis of a CAMDEX assessment.</p>
+            <p>Delirium: patients labelled with delirium on the basis of a CAMDEX assessment.</p>
+            <p>Improved after MCI: people with an MCI diagnosis at baseline and cognitively normal at fol-low-up after one year or two years or both.</p>
+            <p>Progression after MCI: people with an MCI diagnosis at baseline and demented at follow-up after one year or two years.</p>
+            <p>Progression in initially normal people: people labelled at baseline as cognitively normal and demented at follow-up after one year or two years.</p>
+            <p>Progression in initially normal or depressed people: people labelled at baseline as cognitively normal or depressed, and demented at follow-up after one year or two years.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Instruments used</p>
+            </st>
+            <p>The Belgian ADL-Evaluation Scale is a cultural adaptation of the 'Index of ADL' <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. The adapted assessment tool evaluates the six original domains of the 'Index of ADL': bathing, dressing, transfer, toileting, continence, and eating. In contrast with the original scale, each function has four instead of three possible scores. The global scale score can easily be deduced with the aid of a Boolean logic algorithm into one of four hierarchical levels of dependency. The minimal dependency score above normal was used for initial inclusion of patients.</p>
+            <p>The Instrumental Activities of Daily Living Scale (IADL) by Lawton <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> evaluates eight func-tions: ability to use telephone, shopping, food preparation, housekeeping, laundry, mode of transportation, responsibility for own medication, and ability to handle finances. A sum score of ten was chosen as the minimum score for inclusion.</p>
+            <p>The FRAIL Scale <abbrgrp><abbr bid="B23">23</abbr></abbrgrp> evaluates ten functions and two social support mechanisms: ADL, IADL in the house, IADL outside the house, sensory functions, responsibility of own medications, ability to handle finances, memory, normal adapted behavior, orientation, planning and problem solving, the family network, the social network. A cut-off score &#8804; 19 was chosen as the minimum score for inclusion.</p>
+            <p>The Mini-Mental State Exam (MMSE) <abbrgrp><abbr bid="B20">20</abbr></abbrgrp> is probably the most widely used measure of cog-nitive function <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. Different domains are assessed: orientation to time and place, registration of three words, attention and calculation, recall of three words, language, and visual construction. The maximum score is 30 points, indicating excellent cognitive function. A cut-off score below or equal to 23 was used to select study subjects <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>.</p>
+            <p>The CAMDEX assessment was designed to provide a formal diagnosis according to operational diagnostic criteria in one of 11 categories <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>: four types of dementia, Alzheimer's disease, multi-infarct dementia, mixed Alzheimer's and multi-infarct dementia, and dementia due to other causes, delirium, depression, anxiety or phobic disorders, paranoid or paraphrenic illness, and other psychiatric disorders. In our study, the CAMDEX-R provided support for five diagnostic categories: dementia, delirium, depression, mild cognitive impairment (MCI) or none of these.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Analysis</p>
+            </st>
+            <p>* A relative risk with its 95% confidence interval (95%CI) was calculated comparing the risk of a dementia diagnosis at follow-up (either after 1 or 2 years) in patients with an MCI diagnosis at baseline versus people that were cognitively normal at baseline. In a subsequent analysis MCI people at baseline were compared with people that were cognitively normal or depressed at baseline. Although this study relates to prognosis and not to diagnosis, the use of the standard measures of diagnostic accuracy may be informative. We therefore also calculated sensitivity, specificity, positive and negative predictive value and their 95%CIs.</p>
+            <p>* The proportion improvement after MCI was calculated as the proportion (with its 95%CI) of people that were cognitively normal at follow-up after one year or two years or both to the total number of people with MCI at baseline.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Description of the study population</p>
+            </st>
+            <p>Of our group of 156 patients (71% female), mean age at inclusion was 78.6 years (standard deviation: 7.7). Mean MMSE, CDR and Frail scores were 23.2, 4.5 and 22.6.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Progression</p>
+            </st>
+            <p>Nine out of 24 (38%) patients initially diagnosed with MCI progressed to dementia within a period of two years. This also happened to 20 out of 132 (15%) people that were either cognitively normal or depressed at baseline. The relative risk of progression in MCI versus normal or depressed people was 2.48 (95%CI = 1.29-4.77). It happened to 15 out of 110 (14%) people that were cognitively normal at baseline. The relative risk of progression in MCI versus normal people was 2.75 (95%CI = 1.37-5.53).</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Baseline characteristics of people included in the analysis</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p><b>Study population (n = 156)</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>MCI</b></p>
+                        <p><b>(n = 24)</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Depressed or normal (n = 132)</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>p-value</b></p>
+                        <p><b>MCI v. depressed or normal *</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Female</p>
+                        <p>Number (%)</p>
+                     </c>
+                     <c ca="left">
+                        <p>111 (71)</p>
+                     </c>
+                     <c ca="left">
+                        <p>16 (67)</p>
+                     </c>
+                     <c ca="left">
+                        <p>95 (72)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.60</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Age at inclusion</p>
+                        <p>Mean (SD)</p>
+                     </c>
+                     <c ca="left">
+                        <p>78.6 (7.7)</p>
+                     </c>
+                     <c ca="left">
+                        <p>82.6 (8.4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>77.9 (7.4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.02</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Residence (home/institution)</p>
+                     </c>
+                     <c ca="left">
+                        <p>70/86</p>
+                     </c>
+                     <c ca="left">
+                        <p>4/20</p>
+                     </c>
+                     <c ca="left">
+                        <p>66/66</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MMSE score</p>
+                        <p>Mean (SD)</p>
+                     </c>
+                     <c ca="left">
+                        <p>23.2 (6.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>21.4 (3.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>23.5 (6.5)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>CDR score</p>
+                        <p>Mean (SD)</p>
+                     </c>
+                     <c ca="left">
+                        <p>4.5 (4.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>7.5 (4.7)</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.9 (3.7)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.01</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Frail score</p>
+                        <p>Mean (SD)</p>
+                     </c>
+                     <c ca="left">
+                        <p>22.6 (10.3)</p>
+                     </c>
+                     <c ca="left">
+                        <p>29.6 (9.8)</p>
+                     </c>
+                     <c ca="left">
+                        <p>21.3 (10.0)</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt; 0.001</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>*: Wilcoxon</p>
+               </tblfn>
+            </tbl>
+            <p>Out of the 29 people with dementia in follow-up and no dementia at baseline, 9 showed MCI at baseline, resulting in a sensitivity of 31% (95%CI = 16-51).</p>
+            <p>Of the group of 24 patients with MCI at baseline, three were also categorised as depressed. All three progressed to dementia within two years.</p>
+            <tbl id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Predictive value of MCI compared to cognitively normal or depressed for the emergence of dementia within a period of two years</p>
+               </caption>
+               <tblbdy cols="10">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="5" ca="left">
+                        <p><b>Predictive value</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="10">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="4" ca="left">
+                        <p><b>Numbers</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Sensitivity</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Specificity</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>PPV</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>NPV</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Relative risk</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="10">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Baseline MCI</p>
+                     </c>
+                     <c cspan="2" ca="left">
+                        <p>yes</p>
+                     </c>
+                     <c cspan="2" ca="left">
+                        <p>no</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="10">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Demented at follow-up</p>
+                     </c>
+                     <c ca="left">
+                        <p>yes</p>
+                     </c>
+                     <c ca="left">
+                        <p>no</p>
+                     </c>
+                     <c ca="left">
+                        <p>yes</p>
+                     </c>
+                     <c ca="left">
+                        <p>no</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="10">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MCI versus normal</p>
+                     </c>
+                     <c ca="left">
+                        <p>9</p>
+                     </c>
+                     <c ca="left">
+                        <p>15</p>
+                     </c>
+                     <c ca="left">
+                        <p>15</p>
+                     </c>
+                     <c ca="left">
+                        <p>95</p>
+                     </c>
+                     <c ca="left">
+                        <p>38</p>
+                        <p>(20-59)</p>
+                     </c>
+                     <c ca="left">
+                        <p>86</p>
+                        <p>(78-92)</p>
+                     </c>
+                     <c ca="left">
+                        <p>38</p>
+                        <p>(20-59)</p>
+                     </c>
+                     <c ca="left">
+                        <p>86</p>
+                        <p>(78-92)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.75</p>
+                        <p>(1.37-5.53)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="10">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MCI versus normal or depressed</p>
+                     </c>
+                     <c ca="left">
+                        <p>9</p>
+                     </c>
+                     <c ca="left">
+                        <p>15</p>
+                     </c>
+                     <c ca="left">
+                        <p>20</p>
+                     </c>
+                     <c ca="left">
+                        <p>112</p>
+                     </c>
+                     <c ca="left">
+                        <p>31</p>
+                        <p>(16-51)</p>
+                     </c>
+                     <c ca="left">
+                        <p>88</p>
+                        <p>(81-93)</p>
+                     </c>
+                     <c ca="left">
+                        <p>38</p>
+                        <p>(20-59)</p>
+                     </c>
+                     <c ca="left">
+                        <p>85</p>
+                        <p>(77-90)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.48</p>
+                        <p>(1.29-4.77)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>PPV = positive predictive value</p>
+                  <p>NPV = negative predictive value</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Improvement</p>
+            </st>
+            <p>Out of 24 people with MCI at baseline, 8 (33%; 95%CI = 16-55) had improved at follow-up assessment after one or two years. One of them, however, was diagnosed with dementia at follow-up after two years.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>According to our results MCI patients progress to dementia in a period of two years more than twice as frequently as normal people, but only one third of the patients becoming demented during this period, showed MCI at baseline. There was no difference between people that were initially normal or either normal or depressed. At the other hand a significant proportion of MCI patients improved to cognitively normal within a period of two years.</p>
+         <p>Our progression rates add to a growing number of data from community-based studies <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. Our study population is far from a clinical sample. It is, however, not a random sample of the community at large either. In our initial sample only people with at least some indication of vulnerability according to the ADL, IADL or Frailty scales were selected. The likelihood of an emerging dementia during follow-up may therefore be larger than in a normal population of community-dwelling older people. Our numbers fit well within the range of the other community-based studies <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. On the other hand, the selection process excluded people without abnormality in one of our measures of functional status or frailty. However, as it turned out, our screening was very sensitive and the number of excluded people was low (less than ten percent), resulting in a low expected chance of any cognitive disorder (including MCI) in excluded people.</p>
+         <p>Patients who died during follow-up were not included in this analysis unless a diagnosis of dementia or improvement towards normal cognitive performance was identified before death. It is not clear to which extent our results would be different if these patients had been included. Palmer et al. included information from death certificates and medical records and found a lower positive predictive value of MCI for dementia. They suspect, however, that this may result from incomplete ascertainment of dementia <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>.</p>
+         <p>The presence of a clear overall progression to dementia in MCI patients, a reasonable sensitivity (say above 66%) and absence of recovery, especially in combination with reduction of progression by drug treatment (yet unproven) would be a strong argument in favour of screening for pre-stages of dementia in older people without clear symptoms of dementia. However, our results, together with similar findings by Palmer <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B15">15</abbr></abbrgrp> and Ritchie et al <abbrgrp><abbr bid="B8">8</abbr></abbrgrp> do not comply with these requirements. Therefore, they provide cumulating evidence against such screening. Especially the low sensitivity is worrying. Palmer et al tested a three-step case finding strategy to overcome this problem, but found an equally insufficient sensitivity of 51% <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Based on the results of treatment trials in unselected hypertensive patients, it has been suggested that control of vascular risk factors, especially treatment of isolated systolic hypertension, might be useful to prevent progression of MCI to full dementia <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B26">26</abbr></abbrgrp>. In the SystEur trial, drug treatment of isolated systolic hypertension resulted in a reduction with almost 50% in the occurrence of dementia, mainly assessed using the MMSE. However, the choice to implement such measures is important for all older patients, not only for MCI patients, and other outcomes have to be considered, especially the occurrence of stroke and mortality.</p>
+         <p>The discussion about the validity of the MCI concept is not finished yet. Only a very large cohort study with complete follow-up, following a clear consensus on requirements as suggested above, would be sufficient to come to clear and formal conclusions.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>According to the results of this study, the MCI concept complies with some but not all re-quirements to make it a systematic intermediate step between normality and dementia. Especially its sensitivity is less than sufficient.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>Our thanks go to all staff that helped in preparing and executing the Qualidem data collection and in finalising this manuscript.</p>
+            <p>The work has been funded by RIZIV/INAMI, the Belgian national social security authority as N&#176; UB1240.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Senescent forgetfulness: benign and malignant</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kral</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Can Med Assoc J</source>
+            <pubdate>1962</pubdate>
+            <volume>86</volume>
+            <fpage>257</fpage>
+            <lpage>60</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1848846</pubid>
+                  <pubid idtype="pmpid">14459267</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>AAMI</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Franceshi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Canal</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>1996</pubdate>
+            <volume>45</volume>
+            <fpage>1490</fpage>
+            <lpage>1</lpage>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Aging-associated cognitive decline</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Levy</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Int Psychogeriatr</source>
+            <pubdate>1994</pubdate>
+            <volume>6</volume>
+            <fpage>63</fpage>
+            <lpage>8</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1017/S1041610294001626</pubid>
+                  <pubid idtype="pmpid">8054494</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Mild cognitive impairment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Petersen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Waring</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ivnik</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Tangolos</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Kokmen</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Arch Neurol</source>
+            <pubdate>1999</pubdate>
+            <volume>56</volume>
+            <fpage>303</fpage>
+            <lpage>8</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/archneur.56.3.303</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10190820</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Practice parameter: Early detection of dementia: Mils cognitive impairment (an evidence)based review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Petersen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Stevens</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ganglui</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tangolos</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cummings</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>DeKosky</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>2001</pubdate>
+            <volume>56</volume>
+            <fpage>113</fpage>
+            <lpage>4</lpage>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Mild cognitive impairment as a diagnostic entity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Petersen</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>J Intern Med</source>
+            <pubdate>2004</pubdate>
+            <volume>256</volume>
+            <fpage>183</fpage>
+            <lpage>94</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2796.2004.01388.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15324362</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Mild cognitive impairment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gauthier</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Reisberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zaudig</snm>
+                  <fnm>M</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2006</pubdate>
+            <volume>367</volume>
+            <fpage>1262</fpage>
+            <lpage>70</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(06)68542-5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16631882</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Classification criteria for mild cognitive impairment: a population-based validation study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ritchie</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Artero</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Touchon</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>2001</pubdate>
+            <volume>56</volume>
+            <fpage>37</fpage>
+            <lpage>42</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1212/WNL.56.1.37</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11148233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Incidence and outcome of mild cognitive impairment in a population-based prospective cohort</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Larrieu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Letenneur</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Orgogozo</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>2002</pubdate>
+            <volume>59</volume>
+            <fpage>1594</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1212/01.WNL.0000034176.07159.F8</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12451203</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Natural history of mild cognitive impairment in older persons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bennett</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Schneider</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>2002</pubdate>
+            <volume>59</volume>
+            <fpage>198</fpage>
+            <lpage>205</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1212/WNL.59.2.198</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12136057</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Differential evolution of cognitive impairment in nondemented older persons: results from the Kungsholmen project</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Palmer</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>HX</fnm>
+               </au>
+               <au>
+                  <snm>Backman</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Fratiglioni</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Am J Psychiatry</source>
+            <pubdate>2002</pubdate>
+            <volume>159</volume>
+            <fpage>439</fpage>
+            <lpage>42</lpage>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Prevalence of cognitive impairment without dementia in the United States</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Plassman</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Langa</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Fisher</snm>
+                  <fnm>GG</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Ann Intern Med</source>
+            <pubdate>2008</pubdate>
+            <volume>148</volume>
+            <fpage>427</fpage>
+            <lpage>34</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2670458</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18347351</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Depression is unrelated to conversion to dementia in patients with mild cognitive impairment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rozzini</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chilovi</snm>
+                  <fnm>BV</fnm>
+               </au>
+               <au>
+                  <snm>Trabucchi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Padovani</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Arch Neurol</source>
+            <pubdate>2005</pubdate>
+            <volume>62</volume>
+            <fpage>505</fpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15767521</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Depression in patients with mild cognitive impairment increases the risk of developing dementia of Alzheimer type</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Modrego</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Fernandez</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Arch Neurol</source>
+            <pubdate>2004</pubdate>
+            <volume>61</volume>
+            <fpage>1290</fpage>
+            <lpage>3</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/archneur.61.8.1290</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15313849</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Detection of Alzheimer's disease and dementia in the preclinical phase: population based cohort study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Palmer</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Backman</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Winblad</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Fratiglioni</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>BMJ</source>
+            <pubdate>2003</pubdate>
+            <volume>326</volume>
+            <fpage>245</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bmj.326.7383.245</pubid>
+                  <pubid idtype="pmcid">140758</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12560271</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Mild cognitive impairment: prevalence and predicitive validity accordiing to current approaches</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Busse</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bischkopf</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Riedel-Heller</snm>
+                  <fnm>SG</fnm>
+               </au>
+               <au>
+                  <snm>Angermeyer</snm>
+                  <fnm>MC</fnm>
+               </au>
+            </aug>
+            <source>Acta Neurol Scand</source>
+            <pubdate>2003</pubdate>
+            <volume>108</volume>
+            <fpage>71</fpage>
+            <lpage>81</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1034/j.1600-0404.2003.00118.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12859282</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Subclassifications for mild cognitive impairment: prevalence and predictive validity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Busse</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bischkopf</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Riedel-Heller</snm>
+                  <fnm>SG</fnm>
+               </au>
+               <au>
+                  <snm>Angermeyer</snm>
+                  <fnm>MC</fnm>
+               </au>
+            </aug>
+            <source>Psychol Med</source>
+            <pubdate>2003</pubdate>
+            <volume>33</volume>
+            <fpage>1029</fpage>
+            <lpage>38</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1017/S0033291703007839</pubid>
+                  <pubid idtype="pmpid">12946087</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Camdex. A standardized instrument for the diagnosis of mental disorders in the elderly with special reference to the early detection of Alzheimer's disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Roth</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Thym</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Mountjoy</snm>
+                  <fnm>CQ</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Brit J Psychiatry</source>
+            <pubdate>1986</pubdate>
+            <volume>149</volume>
+            <fpage>698</fpage>
+            <lpage>709</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1192/bjp.149.6.698</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>The Qualidem project in Belgium. A two-center study on care needs and provision in dementia care: Inclusion criteria and description of the population</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Paquay</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>De Lepeleire</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schoenmakers</snm>
+                  <fnm>B</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Arch Publ Health</source>
+            <pubdate>2004</pubdate>
+            <volume>62</volume>
+            <fpage>125</fpage>
+            <lpage>42</lpage>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>'Mini-mental state': a practical method for grading the cognitive state of patients for the clinician</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Folstein</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Folstein</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>McHugh</snm>
+                  <fnm>PR</fnm>
+               </au>
+            </aug>
+            <source>J Psychiatr Res</source>
+            <pubdate>1975</pubdate>
+            <volume>12</volume>
+            <fpage>189</fpage>
+            <lpage>98</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0022-3956(75)90026-6</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1202204</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Studies of illness in the aged</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Katz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ford</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Moskowitz</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Jaffe</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>JAMA</source>
+            <pubdate>1963</pubdate>
+            <volume>185</volume>
+            <fpage>914</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/jama.1963.03060120024016</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14044222</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Assessment of older people: Self-maintaining and instrumental activities of daily living</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lawton</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Brody</snm>
+                  <fnm>EM</fnm>
+               </au>
+            </aug>
+            <source>Gerontologist</source>
+            <pubdate>1969</pubdate>
+            <volume>9</volume>
+            <fpage>179</fpage>
+            <lpage>86</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/geront/9.3_Part_1.179</pubid>
+                  <pubid idtype="pmpid">5349366</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>The validity of the Frail instrument in general practice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>De Lepeleire</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ylieff</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stessens</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Buntinx</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Pasuay</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Arch Publ Health</source>
+            <pubdate>2004</pubdate>
+            <volume>62</volume>
+            <fpage>185</fpage>
+            <lpage>96</lpage>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Assessment scales in old age psychiatry</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Burns</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lawlor</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <publisher>London: Martin Dunitz</publisher>
+            <pubdate>1999</pubdate>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>The Mini Mental State Examination: a comprehensive review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tombaugh</snm>
+                  <fnm>TN</fnm>
+               </au>
+               <au>
+                  <snm>McIntyre</snm>
+                  <fnm>NJ</fnm>
+               </au>
+            </aug>
+            <source>J Am Geriatr Soc</source>
+            <pubdate>1992</pubdate>
+            <volume>40</volume>
+            <fpage>922</fpage>
+            <lpage>35</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">1512391</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Mild cognitive impairment: prevalence, prognosis, etiology, and treatment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>DeCarli</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Lancet Neurol</source>
+            <pubdate>2003</pubdate>
+            <volume>2</volume>
+            <fpage>15</fpage>
+            <lpage>21</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S1474-4422(03)00262-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12849297</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

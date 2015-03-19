@@ -1,2 +1,3 @@
 *.pyc
-/data/articles/
+data/articles/
+data/fix_test_papers/*

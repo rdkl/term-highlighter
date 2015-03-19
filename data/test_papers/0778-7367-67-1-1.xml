@@ -1,0 +1,476 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>0778-7367-67-1-1</ui>
+   <ji>0778-7367</ji>
+   <fm>
+      <dochead>Editorial</dochead>
+      <bibl>
+         <title>
+            <p>If at first you don't succeed, try, try, try again. A message for Public Health Research in Belgium</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Van Oyen</snm>
+               <fnm>H</fnm>
+               <insr iid="I1"/>
+               <email>h.vanoyen@iph.fgov.be</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Scientific Institute of Public Health, Brussels, Belgium</p>
+            </ins>
+         </insg>
+         <source>Archives of Public Health</source>
+         <issn>0778-7367</issn>
+         <pubdate>2009</pubdate>
+         <volume>67</volume>
+         <issue>1</issue>
+         <fpage>1</fpage>
+         <lpage>3</lpage>
+         <url>http://www.archpublichealth.com/content/67/1/1</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/0778-7367-67-1-1</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>4</month>
+               <year>2009</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2009</year>
+         <collab>Van Oyen</collab>
+      </cpyrt>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p/>
+         </st>
+         <p>One year ago, the Archives of Public Health took a new start and became an electronic journal. We were successful in publishing four issues, each with three peer-reviewed articles, with editorials, book reviews and executive summaries of PhD dissertations.</p>
+         <p>The topic of the papers covered a variety of public health issues. There were papers on public health nutrition <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>, on mental health <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>, on tobacco smoking <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, on occupational health <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>, patient rights <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>, divorce and health <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>, primary care <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, health services research <abbrgrp><abbr bid="B11">11</abbr></abbrgrp> and cancer screening <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. The editor's favourite was the latter. Within this paper the results of four systematic reviews on respectively colorectal, breast, prostate, and cervical cancer screening are discussed in relation to the European guidelines and strategies for Belgium.</p>
+         <p>In the current issue, the Archives of Public Health continues to present the richness of the diversity of public health research with papers on cognitive impairment screening in general practice <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, depression <abbrgrp><abbr bid="B14">14</abbr></abbrgrp> and health care access for asylum seekers <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. A public health topic which was not present in last year's volume and which cannot be found among recently submitted papers either is infectious diseases. This is somewhat unexpected given the very interesting congress on infectious disease and public health organised by the Belgian Association of Public Health in December 2008. During this congress, several outstanding papers on statistical methods in infectious disease surveillance and control were presented. The journal especially welcomes papers related to infectious disease surveillance.</p>
+         <p>In the last editorial of 2008, the development of epidemiology and its relationship to the level of academic education and field training was discussed <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. In Belgium, we still have a long way to go to match up with the other EU countries. This is also reflected in the position of Belgium as to the number of scientific publications and citations. In the SCImago Journal and Country Ranking (<url>http://www.scimagojr.com</url>), which compares EU countries for the period 1996-2007, Belgium only ranked 11th in the field of public health, environmental and occupational Health and 12th in the field of epidemiology. For epidemiology, the Belgian production level is only 20% compared to the Netherlands, France, Italy, Sweden.</p>
+         <p>These observations make us wonder: why is Belgium lagging behind? Is it related to the academic education and the virtual non-existence of advanced training in public health? Is it caused by a lack of attractive research careers for young people? Is the investment in public health science too low and too little? Are the funding mechanisms too archaic? Or has it just something to do with the publication culture that is driving public health researchers and public health departments?</p>
+         <p>Is public health research and epidemiology doing worse compared to other domains or is the Belgian position similar for all scientific domains? Within the health sector we observe for the same period that medicine in general is ranked at number 10, internal medicine at 11 and clinical genetics at 13. Some examples outside the health sectors are: mathematics at number 8, physics at 9 and social sciences at 10. In general, Belgium is never among the top 5 countries.</p>
+         <p>However, even if the problem is not limited to public health, it is time that the public health community reacts. Universities, research institutes, funding agencies, governments and especially researchers themselves have to define what contributions they can make to remedy the current situation. The Belgian Association of Public Health should also be challenged by these figures and take this up as an urgent issue to be tackled.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Flanders preschool dietary survey: rationale, aims, design, methodology and population characteristics</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huybrechts</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Matthys</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pynaert</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>De Maeyer</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bellemans</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>De Geeter</snm>
+                  <fnm>H</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>5</fpage>
+            <lpage>25</lpage>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Sodium intake in the Belgian population. Research limitations and policy implications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vandevijvere</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>187</fpage>
+            <lpage>95</lpage>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Emotional distress among family caregivers in Canada: Longitudinal analysis of the National Population Health survey</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cameron</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Steward</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Tomlinson</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Franche</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Hyman</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Cheung</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>35</fpage>
+            <lpage>45</lpage>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Mental health services use in the general Belgian popula-tion: estimating the impact of mental health and social determinants</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gouwy</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Christiaens</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Bracke</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>50</fpage>
+            <lpage>68</lpage>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>The role of socioeconomic status, peer and school context for adolescent smoking</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richter</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lampert</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>69</fpage>
+            <lpage>87</lpage>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Australian Tobacco Smoking Rates by Occupation: Results for Three National Surveys conducted between 1989 and 2001</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Leggat</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>124</fpage>
+            <lpage>136</lpage>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>A literature review on sick leave frequency determinants of the past decades</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Beemsterboer</snm>
+                  <fnm>WGM</fnm>
+               </au>
+               <au>
+                  <snm>Groothoff</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Nijhuis</snm>
+                  <fnm>FJN</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>26</fpage>
+            <lpage>34</lpage>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>The Belgian Law on Patient Rights in the practice of medical specialists</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schoonacker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Louckx</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Vanroelen</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>137</fpage>
+            <lpage>57</lpage>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>The impact of divorce on the health status of expartners</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bronselaer</snm>
+                  <fnm>JLJ</fnm>
+               </au>
+               <au>
+                  <snm>De Koker</snm>
+                  <fnm>BSM</fnm>
+               </au>
+               <au>
+                  <snm>Van Peer</snm>
+                  <fnm>CMA</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>168</fpage>
+            <lpage>86</lpage>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Overweight and obesity in primary practice. A patient-based study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>AI-Windi</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>88</fpage>
+            <lpage>101</lpage>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>The role of the curative physician in disability management. A literature review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mortelmans</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Donceel</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lahaye</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bulterys</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>196</fpage>
+            <lpage>212</lpage>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Cancer screening: EU recommendations and current practice in Belgium</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Neyt</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>De Laet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Van de Sande</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hulstaert</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Paulus</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Van den Bruel</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mambourg</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Vinck</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Ramaekers</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>109</fpage>
+            <lpage>24</lpage>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Progression and improvement after mild cognitive impairment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Buntinx</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Paquay</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Ylieff</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>De Lepeleire</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2009</pubdate>
+            <volume>67</volume>
+            <fpage>7</fpage>
+            <lpage>14</lpage>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Measurement Equivalence of the CES-D 8 in the General Population in Belgium: a Gender Perspective</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van de Velde</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Levecque</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bracke</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2009</pubdate>
+            <volume>67</volume>
+            <fpage>15</fpage>
+            <lpage>29</lpage>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Access to mental health for asylum seekers in the European Union: an analysis of disparities between legal rights and reality</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Zech</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2009</pubdate>
+            <volume>67</volume>
+            <fpage>30</fpage>
+            <lpage>44</lpage>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Wear the willow is bad for your health</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van Oyen</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Arch Public Health</source>
+            <pubdate>2008</pubdate>
+            <volume>66</volume>
+            <fpage>166</fpage>
+            <lpage>7</lpage>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>
