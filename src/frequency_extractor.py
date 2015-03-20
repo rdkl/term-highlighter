@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import os
 from bs4 import BeautifulSoup
 import nltk
+import string
 
 def write_pure_text(string_list, filename):
     path_to_data = "../data/fix_test_papers/"
@@ -15,6 +16,7 @@ if __name__ == "__main__":
     num_papers = 10
     path_to_data = "../data/test_papers/"
     stop_list = ['(', ')', 'p', '@', '%']
+    letter = string.ascii_lowercase
     # stemmer = nltk.stem.SnowballStemmer("english")
     stemmer = nltk.stem.porter.PorterStemmer()
     for (dirpath, dirnames, filenames) in os.walk(path_to_data):
@@ -34,25 +36,32 @@ if __name__ == "__main__":
                 fix_text = ' '.join(string.text.split("/"))
             else:
                 fix_text = string.text
+            
             token_string = nltk.word_tokenize(fix_text)
             words_and_pos = nltk.pos_tag(token_string)
             for w in words_and_pos:
-                if w[0] in stop_list or len(w[0]) < 3:
+                if len(w[0]) < 3:
                     continue                   
                 if w[1] == "NN":
                     stem_word = stemmer.stem(w[0])
-                    if words_in_corpus.get(stem_word) is None:
+                    is_word = True
+                    for l in stem_word:
+                        if l not in letter: # "." in string.text:
+                            is_word = False
+                    
+                    if words_in_corpus.get(stem_word) is None and is_word:
                         words_in_corpus[stem_word] = 0
-                    if papers_with_words.get(stem_word) is None:
+                    if papers_with_words.get(stem_word) is None and is_word:
                         papers_with_words[stem_word] = 0
-                    if stem_words.get(stem_word) is None:
+                    if stem_words.get(stem_word) is None and is_word:
                         stem_words[stem_word] = []
                     
-                    stem_words[stem_word].append(w[0].encode("utf8"))
-                    words_in_corpus[stem_word] += 1
-                    if stem_word not in words_in_current_paper:
-                        papers_with_words[stem_word] += 1
-                        words_in_current_paper.add(stem_word)
+                    if is_word:
+                        stem_words[stem_word].append(w[0].encode("utf8"))
+                        words_in_corpus[stem_word] += 1
+                        if stem_word not in words_in_current_paper:
+                            papers_with_words[stem_word] += 1
+                            words_in_current_paper.add(stem_word)
                                             
         # write_pure_text(text, papers[i]) 
         f.close()
