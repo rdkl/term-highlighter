@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import nltk
 import string
+import time
 
 def write_pure_text(string_list, filename):
     path_to_data = "../data/fix_test_papers/"
@@ -13,8 +14,8 @@ def write_pure_text(string_list, filename):
 
 if __name__ == "__main__":
     papers = []
-    num_papers = 10
-    path_to_data = "../data/test_papers/"
+    # path_to_data = "../data/test_papers/"
+    path_to_data = "../data/articles/"
     stop_list = ['(', ')', 'p', '@', '%']
     letter = string.ascii_lowercase
     # stemmer = nltk.stem.SnowballStemmer("english")
@@ -25,10 +26,16 @@ if __name__ == "__main__":
     words_in_corpus = {}
     papers_with_words = {}
     stem_words = {}
-    for i in xrange(num_papers):
+    n_paper = 0
+    
+    for p in papers:
+        # t1 = time.time()
+        if n_paper % 100 == 0:
+            print "Processed", n_paper, "papers"
+        n_paper += 1
         # print "Extract words from file", papers[i]
         words_in_current_paper = set()
-        f = open(path_to_data + papers[i], "r")
+        f = open(path_to_data + p, "r")
         soup = BeautifulSoup(f)
         text = soup.find_all("p")
         for string in text:
@@ -48,16 +55,17 @@ if __name__ == "__main__":
                     for l in stem_word:
                         if l not in letter: # "." in string.text:
                             is_word = False
+                            break
                     
                     if words_in_corpus.get(stem_word) is None and is_word:
                         words_in_corpus[stem_word] = 0
                     if papers_with_words.get(stem_word) is None and is_word:
                         papers_with_words[stem_word] = 0
                     if stem_words.get(stem_word) is None and is_word:
-                        stem_words[stem_word] = []
+                        stem_words[stem_word] = set()
                     
                     if is_word:
-                        stem_words[stem_word].append(w[0].encode("utf8"))
+                        stem_words[stem_word].add(w[0].encode("utf8"))
                         words_in_corpus[stem_word] += 1
                         if stem_word not in words_in_current_paper:
                             papers_with_words[stem_word] += 1
@@ -65,8 +73,11 @@ if __name__ == "__main__":
                                             
         # write_pure_text(text, papers[i]) 
         f.close()
+        # t2 = time.time()
+        # print "One paper processed in", t2 - t1
+        
     print "Save words frequencies in the file..."
-    with open("../data/word_frequency_porter", "w") as f:
+    with open("../data/word_frequency_porter_corpus_100", "w") as f:
         '''
         First column - stem words
         Second column - number words in all corpus
