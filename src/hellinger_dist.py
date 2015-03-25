@@ -1,7 +1,6 @@
 from nltk.stem.lancaster import LancasterStemmer
 import re
 import collections
-import numpy as np
 
 def hellinger_dist(input_text, ref_text, allowed_dict, banned_dict):
 
@@ -37,6 +36,9 @@ def hellinger_dist(input_text, ref_text, allowed_dict, banned_dict):
                 inp_norm += input_counter[word]
                 ref_norm += ref_counter[word]
                         
+    inp_norm = max(inp_norm, 1)
+    ref_norm = max(ref_norm, 1)
+    
     for i in range(len(input_vector)):
         s += ((input_vector[i]/float(inp_norm))**.5 - (ref_vector[i]/float(ref_norm))**.5)**2
     dist = (0.5*s)**.5
@@ -45,7 +47,7 @@ def hellinger_dist(input_text, ref_text, allowed_dict, banned_dict):
 
 #-----------------------------------------------------------------------------
 if __name__ == "__main__":
-    input_text = 'fat cats cats cats were sitting on the mat'
+    input_text = 'fat cats, cats; cats were sitting on the mat'
     ref_text = 'fat bat'
     allowed_dict = {'fat':1, 'cat':2, 'bat':3, 'rat':6}
     banned_dict = {}    
