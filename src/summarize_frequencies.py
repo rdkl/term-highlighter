@@ -5,7 +5,7 @@ if __name__ == "__main__":
     stem_words = {}
     words_in_corpus = {}
     papers_with_words = {}
-    with open(path_to_data + "word_frequency_porter_corpus_500") as f:
+    with open(path_to_data + "word_frequency_porter_corpus") as f:
         for line in f.readlines():
             parts = line.split(" ")
             key = parts[0]
@@ -24,9 +24,6 @@ if __name__ == "__main__":
                 
             freq_in_corpus = int(parts[len(parts) - 2])
             num_papers = int(parts[len(parts) - 1])
-            print "Initial words", init_words
-            print "Freq in corpus", freq_in_corpus
-            print "Num papers", num_papers
             if words_in_corpus.get(key) is None:
                 words_in_corpus[key] = freq_in_corpus
             else:
@@ -40,7 +37,7 @@ if __name__ == "__main__":
             else:
                 stem_words[key] = set((list(stem_words[key])) + list(init_words))
                 
-    with open(path_to_data + "word_frequency_porter_corpus_500_sum", "w") as f:
+    with open(path_to_data + "word_frequency_porter_corpus_sum", "w") as f:
         for key in words_in_corpus:
             print >>f, key.encode("utf8"), '(' + ' '.join(stem_words[key]) + ')', str(words_in_corpus[key]), str(papers_with_words[key])
         print "Save words frequencies in the file... Done"

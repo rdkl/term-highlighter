@@ -26,9 +26,9 @@ if __name__ == "__main__":
     words_in_corpus = {}
     papers_with_words = {}
     stem_words = {}
-    n_paper = 600
+    n_paper = 10000
     
-    for i in xrange(600, 2000):
+    for i in xrange(10000, 20000):
         # t1 = time.time()
         if n_paper % 100 == 0:
             print "Processed", n_paper, "papers"
@@ -77,7 +77,7 @@ if __name__ == "__main__":
         # print "One paper processed in", t2 - t1
         
     print "Save words frequencies in the file..."
-    with open("../data/word_frequency_porter_corpus_500", "a") as f:
+    with open("../data/word_frequency_porter_corpus_10000", "a") as f:
         '''
         First column - stem words
         Second column - number words in all corpus
