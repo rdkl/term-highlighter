@@ -24,8 +24,8 @@ def hamming_similarity(input_text, ref_text, allowed_dict, banned_dict):
     else:
         input_words = input_counter.keys() 
         for word in input_words:
-        if word not in banned_dict:
-            sim += (ref_counter[word] > 0)
+            if word not in banned_dict:
+                sim += (ref_counter[word] > 0)
         
     return sim
 
