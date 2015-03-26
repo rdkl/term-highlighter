@@ -2,12 +2,14 @@ from hellinger_dist import hellinger_dist
 from euclidean_dist import euclidean_dist
 from hamming_similarity import hamming_similarity
 
-def choose_reference(input_text, ref_list, metrics, read_from_file):
+def choose_reference(input_text, ref_list, 
+                     metrics = 'hamming',
+                     read_from_file = True):
 
     allowed_dict = {}
     
     if read_from_file:
-        f = open('../data/dict.txt', 'r')
+        f = open('../../data/dict.txt', 'r')
         line_list = f.readlines()
         for line in line_list:
             word = line.strip()
