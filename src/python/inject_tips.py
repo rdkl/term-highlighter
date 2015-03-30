@@ -55,6 +55,8 @@ def find_files(directory, pattern):
 #------------------------------------------------------------------------------
 if __name__ == "__main__":      
     url = "http://www.sciencedaily.com/releases/2014/04/140404140401.htm"
+    url = "http://www.mediplacements.com/article-801774505-researchers_discover_genetic.html"
+    #url = "http://www.bbc.com/news/health-30274635"
     
     with open("term_list.txt", "r") as f:
         lines = f.readlines()
@@ -64,11 +66,12 @@ if __name__ == "__main__":
             
     subprocess.call(["wget", "-p", "--convert-links", url])
     
-    dir = re.findall("www[.].*[.]com", url)[0]
-    for filename in find_files(dir, '*.htm*'):
-        break
+    #dir = re.findall("www[.].*[.]com", url)[0]
+    #for filename in find_files(dir, '*.htm*'):
+    #    break
     
-    
+    filename = url[7:] # "www.bbc.com/news/health-30274635"
+    print filename
     shutil.copyfile("inject_style.css", 
                     os.path.dirname(filename) + "/inject_style.css")
     shutil.copyfile("clipboard.png", 
