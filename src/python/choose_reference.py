@@ -17,7 +17,7 @@ def choose_reference(input_text, ref_list,
         f.close()
         
     dist_list = []
-    min_dist = 100  
+    min_dist = 1000000  
     max_sim = 0
     idx = 100
     
